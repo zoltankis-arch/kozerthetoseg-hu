@@ -36,6 +36,8 @@ A skill azért dolgozik, hogy az olvasó megkapja, megtalálja, megértse és ha
 
 Minden parancs saját referenciafájlt kap, egységes szerkezettel. Olvasd el a parancs fájlját, mielőtt futtatod. Ha a hívó nem nevez meg parancsot, a kérésből válaszd ki: véleményt kér → `audit`; átírást kér → `atiras`.
 
+A példákban a `scripts/`, `references/`, `assets/` és `evals/` útvonalak a `SKILL.md` mappájából indulnak. Ha más mappában futtatod a parancsot, a szkripthez és a bemeneti fájlhoz is a teljes elérési utat add meg.
+
 | Parancs | Mit csinál | Részletek |
 |---|---|---|
 | `audit` | Jelentést ad, nem ír át: hol, melyik szabály, miért baj az olvasónak, javasolt átírás, prioritás | [parancs-audit.md](references/parancs-audit.md) |

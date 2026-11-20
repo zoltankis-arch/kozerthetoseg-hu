@@ -1,0 +1,18 @@
+{
+  "name": "kozerthetoseg-hu",
+  "version": "1.3.0",
+  "description": "Magyar szövegek közérthetőségi vizsgálata, átírása és mérése forrásokra hivatkozva.",
+  "author": {
+    "name": "Kis Zoltán"
+  },
+  "skills": "./kozerthetoseg-hu/",
+  "interface": {
+    "displayName": "Közérthetőség magyarul",
+    "shortDescription": "Segít közérthetőbbé tenni a magyar szövegeket.",
+    "developerName": "Kis Zoltán",
+    "defaultPrompt": [
+      "Nézd át közérthetőség szempontjából ezt a magyar levelet.",
+      "Írd át közérthetőbbre ezt a magyar tájékoztatót. Őrizd meg a tényeket és a feltételeket."
+    ]
+  }
+}
