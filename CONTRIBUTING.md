@@ -55,7 +55,7 @@ python scripts/ellenorzes.py
 
 Ha egy fejezetből egy tétel sem kerül be, a fejezet `tetel_nelkul` mezőjében indokold; enélkül az ellenőrzés hibát jelez.
 
-Végül vedd fel a forrást a README „A felhasznált források” táblázatába, a tételszámmal és a forrás URL-jével vagy DOI-jával. A `tests/test_readme.py` teszt jelzi, ha kimaradt.
+Végül vedd fel a forrást a [docs/forrasok.md](docs/forrasok.md) táblázatába, a tételszámmal és a forrás URL-jével vagy DOI-jával. A `tests/test_readme.py` teszt jelzi, ha kimaradt.
 
 ## Új szabály felvétele
 
