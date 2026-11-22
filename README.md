@@ -5,69 +5,40 @@
 [![Licenc: MIT és CC BY 4.0](https://img.shields.io/badge/licenc-MIT%20%2B%20CC%20BY%204.0-green)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-specifik%C3%A1ci%C3%B3-informational)](https://agentskills.io/specification)
 
-A kozerthetoseg-hu megnézi, mennyire érthető egy magyar szöveg, és közérthetőbbre írja: hivatali levelet, tájékoztatót, adatkezelési tájékoztatót, ÁSZF-et, határozatot. Minden javaslata egy szabályra épül, minden szabály nyilvános forrásra, oldalszámmal.
+Agent Skill, amely magyar szövegek közérthetőségét vizsgálja és javítja, forrásokkal alátámasztva.
+
+A kozerthetoseg-hu megnézi, mennyire érthető egy magyar szöveg, és közérthetőbbre írja: hivatali levelet, tájékoztatót, adatkezelési tájékoztatót, ÁSZF-et, határozatot. Minden javaslata egy szabályra épül, minden szabály nyilvános forrásra, oldalszámmal. A vizsgálat keretét az ISO 24495-1 közérthetőségi szabvány négy kérdése adja.
 
 Nyelvészeknek, jogászoknak, hivatali szövegíróknak és fejlesztőknek készült.
+
+> In English. kozerthetoseg-hu is an [Agent Skills](https://agentskills.io/specification) skill that checks and improves the plain-language quality of Hungarian texts: official letters, notices, privacy notices, terms and conditions, administrative decisions. It audits, rewrites with a fidelity check, measures surface features, plans reader tests, and takes in new sources. A legal module loads only for legal texts. Every rule is traced to a public source with page numbers, and the review frame follows the four questions of ISO 24495-1. The skill gives no legal advice and does not rewrite mandatory texts. In a paired evaluation of 14 tasks (same model, with and without the skill), the skill met 98% of the expectations and the baseline 35%. Raw outputs and a recomputing script are in [`eredmenyek/`](eredmenyek/iteracio-2/osszesites.md). Scripts need only Python 3.11+. Licence: MIT for code, CC BY 4.0 for content.
+
+## Tartalom
+
+- [Mi az a skill?](#mi-az-a-skill)
+- [Hogyan kezdjem?](#hogyan-kezdjem)
+- [Hogyan telepítem?](#hogyan-telepítem)
+- [Mit tud?](#mit-tud)
+- [Mire épül a tudásbázis?](#mire-épül-a-tudásbázis)
+- [Mennyit javít?](#mennyit-javít)
+- [Mit nem tud?](#mit-nem-tud)
+- [Miért így épül fel?](#miért-így-épül-fel)
+- [Karbantartó](#karbantartó)
+- [Köszönet](#köszönet)
+- [Hogyan járulhatok hozzá?](#hogyan-járulhatok-hozzá)
+- [Licenc](#licenc)
 
 ## Mi az a skill?
 
 A skill egy mappa utasításokkal, szabályokkal és szkriptekkel. Egy mesterséges intelligenciával működő asszisztens, például a Claude, akkor tölti be, amikor a feladat illik hozzá. Ez a skill az [Agent Skills](https://agentskills.io/specification) szabványt követi, ezért más, a szabványt ismerő eszközben is használható.
 
-A mérőszkript asszisztens nélkül, önmagában is fut (lásd lent).
+A mérőszkript asszisztens nélkül, önmagában is fut: [Csak a mérőszkript](#csak-a-mérőszkript-asszisztens-nélkül).
 
 ## Hogyan kezdjem?
 
 1. Telepítsd a skillt (lásd: [Hogyan telepítem?](#hogyan-telepítem)).
 2. Írd az asszisztensnek, mit szeretnél, a szöveggel együtt. Például: „Nézd át közérthetőség szempontjából ezt a levelet. Lakossági ügyfélnek megy.”
 3. Az asszisztens megkérdezheti, ki a szöveg olvasója. Ha megmondod, pontosabb lesz a jelentés.
-
-## Mit tud?
-
-Hat parancsa van. A parancsot nem kell megnevezned: ha véleményt kérsz, jelentést kapsz; ha átírást, átírt szöveget.
-
-| Parancs | Mit csinál |
-|---|---|
-| `audit` | Jelentést ad a szövegről, de nem írja át. Minden észrevételnél megmondja, hol van a gond, melyik szabályt sérti, miért baj az olvasónak, hogyan lehetne jobb, és mennyire sürgős. |
-| `atiras` | Átírja a szöveget. Utána ellenőrzi, hogy minden tény, szám, határidő, feltétel és jogi kifejezés megmaradt-e. |
-| `meres` | Lefuttatja a mérőszkriptet: mondathossz, főnévvé tett igék, „kerül”-szerkezetek, a szótár körülményes kifejezései és hasonlók. Minden jelzést egy szabályhoz köt, súlyossággal. A szám jelzés, nem ítélet. |
-| `proba` | Olvasói próbát tervez: 6–9 ember a célcsoportból elolvassa a szöveget, és saját szavaival elmondja, mit értett. |
-| `forras-felvetel` | Új forrást vesz fel a skill tudásbázisába, szabványos lépésekkel. |
-| `ellenorzes` | Ellenőrzi, hogy a tudásbázis teljes és ellentmondásmentes. |
-
-A tudásbázis két részből áll: a szabálykatalógusból (83 szabály, K001–K083) és a forrásleltárból. A leltár a források minden szabályát és ajánlását külön tételként tartja nyilván.
-
-### Példák
-
-`audit`. Bemenet: „A kérelem elbírálásra került, a határozat postai úton megküldésre kerül.” Kimenet (részlet):
-
-| Hol | Szabály | Mi a baj az olvasónak | Javaslat | Prioritás |
-|---|---|---|---|---|
-| „elbírálásra került” | K043: cselekvő ige az „-ásra/-ésre kerül” helyett | Nem derül ki, ki döntött, és mi a döntés. | „Elbíráltuk a kérelmét: …” | magas |
-
-`atiras`. Bemenet: „…befizetésére a határozat kézhezvételétől számított 15 napon belül kerül sor…” Kimenet: „Fizesse be a határozat kézhezvételétől számított 15 napon belül.” Mellette egy táblázat mutatja, hogy a határidő változatlanul megmaradt.
-
-`meres`. Egy hiánypótlási felhívásra (részlet):
-
-```
-python kozerthetoseg-hu/scripts/meres.py kozerthetoseg-hu/evals/szovegek/03-hatosagi-level.md
-
-> A mérőszám jelzés, nem ítélet. …
-| Leghosszabb mondat | 37 szó |
-| 20 szó feletti mondatok | 2 |
-| „-ásra/-ésre kerül” | 5 |
-```
-
-`proba`. Bemenet: egy parkolási tájékoztató. Kimenet: 7 résztvevő a kerület autótartó lakói közül, megállási pontok és kérdések. A résztvevők a megállási pontoknál saját szavaikkal elmondják, amit olvastak. Egy kérdés: „Ha az engedélye március 3-án jár le, mikortól kérheti az újat?”
-
-`forras-felvetel`. Bemenet: egy új útmutató. Kimenet: új forrásfájl a leltárral; a tételek meglévő vagy új szabályokhoz rendelve; frissített referenciák; hibátlan ellenőrzés és javaslat a verzióemelésre.
-
-`ellenorzes`:
-
-```
-python kozerthetoseg-hu/scripts/ellenorzes.py
-
-Rendben: 17 forrás, 467 leltártétel, 83 aktív és 0 visszavont szabály.
-```
 
 ## Hogyan telepítem?
 
@@ -120,11 +91,63 @@ Ha a ChatGPT-munkaterületeden elérhető a skillek feltöltése, a skillt közv
 2. A ChatGPT-ben nyisd meg a **Plugins** felület **Skills** lapját, majd válaszd a **Create → Upload from your computer** lehetőséget, és töltsd fel a ZIP-fájlt.
 3. Nyiss egy új beszélgetést a **Work** nézetben, és a `@` menüből válaszd ki a skillt.
 
-A mérőszkript futtatásához a Work környezetében is Python 3.11 vagy újabb verzió kell. [Az OpenAI útmutatója a skillek feltöltéséhez](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
+A mérőszkript futtatásához a Work környezetében is Python 3.11 vagy újabb verzió kell. Részletek: [az OpenAI útmutatója a skillek feltöltéséhez](https://help.openai.com/en/articles/20001066-skills-in-chatgpt).
 
 ### Más, az Agent Skills szabványt követő eszköz
 
 Add hozzá a mappát az eszköz leírása szerint. A skill nem függ a Claude-tól.
+
+### Mi kell a szkriptekhez?
+
+Python 3.11 vagy újabb kell, külső csomag és internet nem. A HuSpaCy nem kötelező; ha telepítve van, a `meres.py --huspacy` a mondatszerkezet mélységét és a beágyazott tagmondatokat is méri.
+
+## Mit tud?
+
+Hat parancsa van. A parancsot nem kell megnevezned: ha véleményt kérsz, jelentést kapsz; ha átírást, átírt szöveget.
+
+| Parancs | Mit csinál |
+|---|---|
+| `audit` | Jelentést ad a szövegről, de nem írja át. Minden észrevételnél megmondja, hol van a gond, melyik szabályt sérti, miért baj az olvasónak, hogyan lehetne jobb, és mennyire sürgős. |
+| `atiras` | Átírja a szöveget. Utána ellenőrzi, hogy minden tény, szám, határidő, feltétel és jogi kifejezés megmaradt-e. |
+| `meres` | Lefuttatja a mérőszkriptet: mondathossz, főnévvé tett igék, „kerül”-szerkezetek, a szótár körülményes kifejezései és hasonlók. Minden jelzést egy szabályhoz köt, súlyossággal. A szám jelzés, nem ítélet. |
+| `proba` | Olvasói próbát tervez: 6–9 ember a célcsoportból elolvassa a szöveget, és saját szavaival elmondja, mit értett. |
+| `forras-felvetel` | Új forrást vesz fel a skill tudásbázisába, szabványos lépésekkel. |
+| `ellenorzes` | Ellenőrzi, hogy a tudásbázis teljes és ellentmondásmentes. |
+
+A tudásbázis két részből áll: a szabálykatalógusból (83 szabály, K001–K083) és a forrásleltárból. A leltár a források minden szabályát és ajánlását külön tételként tartja nyilván.
+
+### Példák
+
+`audit`. Bemenet: „A kérelem elbírálásra került, a határozat postai úton megküldésre kerül.” Kimenet (részlet):
+
+| Hol | Szabály | Mi a baj az olvasónak | Javaslat | Prioritás |
+|---|---|---|---|---|
+| „elbírálásra került” | K043: cselekvő ige az „-ásra/-ésre kerül” helyett | Nem derül ki, ki döntött, és mi a döntés. | „Elbíráltuk a kérelmét: …” | magas |
+
+`atiras`. Bemenet: „…befizetésére a határozat kézhezvételétől számított 15 napon belül kerül sor…” Kimenet: „Fizesse be a határozat kézhezvételétől számított 15 napon belül.” Mellette egy táblázat mutatja, hogy a határidő változatlanul megmaradt.
+
+`meres`. Egy hiánypótlási felhívásra (részlet):
+
+```
+python kozerthetoseg-hu/scripts/meres.py kozerthetoseg-hu/evals/szovegek/03-hatosagi-level.md
+
+> A mérőszám jelzés, nem ítélet. …
+| Leghosszabb mondat | 37 szó |
+| 20 szó feletti mondatok | 2 |
+| „-ásra/-ésre kerül” | 5 |
+```
+
+`proba`. Bemenet: egy parkolási tájékoztató. Kimenet: 7 résztvevő a kerület autótartó lakói közül, megállási pontok és kérdések. A résztvevők a megállási pontoknál saját szavaikkal elmondják, amit olvastak. Egy kérdés: „Ha az engedélye március 3-án jár le, mikortól kérheti az újat?”
+
+`forras-felvetel`. Bemenet: egy új útmutató. Kimenet: új forrásfájl a leltárral; a tételek meglévő vagy új szabályokhoz rendelve; frissített referenciák; hibátlan ellenőrzés és javaslat a verzióemelésre.
+
+`ellenorzes`:
+
+```
+python kozerthetoseg-hu/scripts/ellenorzes.py
+
+Rendben: 17 forrás, 467 leltártétel, 83 aktív és 0 visszavont szabály.
+```
 
 ### Csak a mérőszkript, asszisztens nélkül
 
@@ -132,17 +155,15 @@ Add hozzá a mappát az eszköz leírása szerint. A skill nem függ a Claude-t�
 python kozerthetoseg-hu/scripts/meres.py levél.md
 ```
 
-Dokumentációs CI-ben: a `--max-jelzes 0 --szint magas` kapcsolókkal a szkript 1-es kóddal lép ki, ha magas súlyosságú jelzést talál.
-
-### Mi kell a szkriptekhez?
-
-Python 3.11 vagy újabb kell, külső csomag és internet nem. A HuSpaCy nem kötelező; ha telepítve van, a `meres.py --huspacy` a mondatszerkezet mélységét és a beágyazott tagmondatokat is méri.
+Dokumentációs CI-ben (automatikus ellenőrzésben, például a GitHub Actionsben): a `--max-jelzes 0 --szint magas` kapcsolókkal a szkript 1-es kóddal lép ki, ha magas súlyosságú jelzést talál.
 
 ## Mire épül a tudásbázis?
 
 A tudásbázis 17 nyilvános forrásra épül. Ezek közül öt gyakorlati útmutató az elsődleges, ezeket fejezetről fejezetre leltároztuk. A többi forrás a jogi modult, a szövegtípusok kezelését és a mérés korlátait alapozza meg.
 
 A források minden szabálya, ajánlása és példája egy-egy leltártétel, saját szavakkal, oldalszámmal. Minden tétel vagy egy szabályhoz tartozik, vagy egy referenciafájl adott pontjához, vagy indoklással ki van hagyva.
+
+A jelentés keretét az ISO 24495-1:2023 szabvány négy kérdése adja: megkapja-e az olvasó, amire szüksége van; megtalálja-e; megérti-e; tudja-e használni. A szabvány fizetős, ezért a skill nem dolgozta fel; a négy kérdést a Világos Beszéd kézikönyvének összefoglalása alapján használja.
 
 Ha két forrás ellentmond egymásnak, például a mondathossz küszöbén, a szabály kimondja, melyiket követi a skill és miért.
 
@@ -193,7 +214,7 @@ A teljes bibliográfiai adatok, a felhasználási feltételek és tételenként 
 
 ## Mennyit javít?
 
-Az 1.4.0-ban 14 eval futott kétszer, ugyanazzal a modellel: egyszer a skill-lel, egyszer nélküle. A három mérőszám:
+Az 1.4.0-ban 14 tesztfeladat (eval) futott kétszer, ugyanazzal a modellel: egyszer a skill-lel, egyszer nélküle. A három mérőszám:
 
 | | Skill-lel | Skill nélkül |
 |---|---|---|
@@ -201,11 +222,11 @@ Az 1.4.0-ban 14 eval futott kétszer, ugyanazzal a modellel: egyszer a skill-lel
 | Vak bíráló szerint jobb | 14 eval | 0 eval |
 | Magas és közepes mérési jelzés 100 szóra (9 átírás) | 10,8 | 9,6 |
 
-Két példa arra, ahol skill nélkül hibázott a modell: átírta a Ptk.-szakaszt (5. és 14. eval), és a kért 30 napos határidőt úgy írta a levélbe, hogy nem kérte az ellenőrzését (15. eval). A skill-lel mindkét esetben helyesen döntött.
+Skill nélkül a modell két helyen hibázott súlyosan. Átírta a Ptk.-szakaszt (5. és 14. eval). A kért 30 napos határidőt pedig úgy írta a levélbe, hogy nem kérte az ellenőrzését (15. eval). A skill-lel mindkét esetben helyesen döntött.
 
 A számokat óvatosan kell olvasni. Evalonként egy futás van. Az elvárások egy része a skill saját fogalmaira épül (szabályazonosító, mérőszkript), ezeket az alapváltozat nem ismerheti. A vak bíráló is látta az elvárásokat. A mérési jelzés a skill átírásaiban kicsit magasabb, főleg ott, ahol a skill a kötelező szöveget szándékosan megtartotta.
 
-A nyers válaszok, az értékelések és az összesítés: [eredmenyek/iteracio-2/](eredmenyek/iteracio-2/osszesites.md). A `tools/eval_osszesit.py` újraszámolja a számokat, a CI minden pushnál ellenőrzi. Előtte–utána példák: [examples/](examples/).
+A nyers válaszok, az értékelések és az összesítés: [eredmenyek/iteracio-2/](eredmenyek/iteracio-2/osszesites.md). A `tools/eval_osszesit.py` újraszámolja a számokat, a GitHub Actions minden feltöltésnél ellenőrzi. Előtte–utána példák: [examples/](examples/).
 
 ## Mit nem tud?
 
@@ -215,31 +236,17 @@ A nyers válaszok, az értékelések és az összesítés: [eredmenyek/iteracio-
 - Könnyen érthető (KÉK) szöveget nem készít. A KÉK értelmi fogyatékossággal élő vagy alacsony nyelvi kompetenciájú olvasóknak szól, és más szabályokat követ. A skill felismeri, ha ilyen szöveg kell, és jelzi.
 - Nem pótolja az olvasói próbát.
 
-## Hogyan bővíthetem?
+## Miért így épül fel?
 
-Új forrás felvétele öt lépés:
-
-1. Forrásrekord: a bibliográfiai adatok és a felhasználási feltétel.
-2. Leltár: fejezetről fejezetre minden szabály, ajánlás, tilalom és példa, oldalszámmal, saját szavakkal.
-3. Összevonás: ha egy tétel meglévő szabályt mond ki, ahhoz a szabályhoz kapcsolódik; az ellentmondás külön bejegyzést kap.
-4. Leképezés: minden tétel célt kap (szabály, referencia vagy indokolt kihagyás).
-5. Példák: a skill a mintázatot veszi át, nem a szöveget.
-
-A szkriptek ezt adatfelvitellé teszik, az ellenőrzés gépileg mutatja meg, hogy semmi nem maradt ki. A parancssorok és az új szabály vagy parancs felvétele: [CONTRIBUTING.md](CONTRIBUTING.md).
-
-### Miért így épül fel? (fejlesztőknek)
+Fejlesztőknek szól.
 
 - Az adat és a szöveg külön van. A szabályok és a források TOML-fájlokban élnek, a `references/` Markdown-fájljait szkript generálja belőlük. Egy új forrás felvétele így adatfelvitel, és a lefedettség gépileg ellenőrizhető.
 - A TOML-t a Python 3.11 óta a standard könyvtár olvassa, a skill futtatásához nem kell külső csomag. A JSON Schema fájlok dokumentálják a mezőket; az ellenőrzés külső függőség nélkül validál.
 - Minden adat a skill mappáján belül van, ezért a skill bárhová telepítve önálló, és a bővítés telepítés után is működik.
 
-## Licenc és hivatkozás
+## Karbantartó
 
-A kód (szkriptek, tesztek, CI) az MIT licenc alatt áll. A szöveges tartalom (szabályok, referenciák, dokumentáció) a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.hu) licenc alatt áll. Áttekintés: [LICENSE](LICENSE); a licencek szövege: [LICENSE-MIT](LICENSE-MIT) és [LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0).
-
-Ha hivatkozol a skillre, a [CITATION.cff](CITATION.cff) szerint tedd.
-
-Szerző: Kis Zoltán ([github.com/zoltankis-arch](https://github.com/zoltankis-arch)). Biztonsági hibát a [SECURITY.md](SECURITY.md) szerint jelezz.
+Kis Zoltán ([@zoltankis-arch](https://github.com/zoltankis-arch)). Biztonsági hibát a [SECURITY.md](SECURITY.md) szerint jelezz.
 
 ## Köszönet
 
@@ -251,8 +258,27 @@ A skill ezekre a munkákra épül; a hibák a skill hibái. Köszönet a forrás
 - Horváth Péternek, Balogh Dorkának, Gerencsér Balázs Szabolcsnak és Üveges Istvánnak;
 - a 29. cikk szerinti adatvédelmi munkacsoportnak és az Inclusion Europe-nak.
 
-## In English
+## Hogyan járulhatok hozzá?
 
-kozerthetoseg-hu is an [Agent Skills](https://agentskills.io/specification) skill for checking and improving the plain-language quality of Hungarian texts such as official letters, notices, privacy notices, terms and conditions and administrative decisions. It has six commands: audit, rewrite with a fidelity check, surface metrics, a reader-test plan, adding a new source, and a consistency check. A separate legal module loads only for legal texts.
+Hibát, szabályjavaslatot vagy új forrást az [Issues](https://github.com/zoltankis-arch/kozerthetoseg-hu/issues) oldalon jelezhetsz; ehhez sablonok is vannak. Pull requestet szívesen fogadunk. Kérdést is ott tehetsz fel.
 
-Every rule is traced to a public source with page numbers. The catalogue rests on a chapter-by-chapter inventory of five Hungarian and EU guides, plus supporting research and legislation. The skill gives no legal advice and does not rewrite mandatory texts. It treats metrics as signals, not verdicts, and it recognises but does not produce easy-to-read (KÉK) texts. In a paired evaluation of 14 tasks (same model, with and without the skill), the skill met 98% of the expectations and the baseline 35%; raw outputs and a recomputing script are in `eredmenyek/`. The scripts need only Python 3.11+. Code: MIT; content: CC BY 4.0.
+Feltételek: a CI-nek (ellenőrzés, generálás, tesztek, skills-ref) zöldnek kell lennie, és a forrásokból nem kerülhet be hosszabb szövegrész. A közreműködésre a [magatartási kódex](CODE_OF_CONDUCT.md) vonatkozik. Részletek: [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### Hogyan veszek fel új forrást?
+
+
+Új forrás felvétele öt lépés:
+
+1. Forrásrekord: a bibliográfiai adatok és a felhasználási feltétel.
+2. Leltár: fejezetről fejezetre minden szabály, ajánlás, tilalom és példa, oldalszámmal, saját szavakkal.
+3. Összevonás: ha egy tétel meglévő szabályt mond ki, ahhoz a szabályhoz kapcsolódik; az ellentmondás külön bejegyzést kap.
+4. Leképezés: minden tétel célt kap (szabály, referencia vagy indokolt kihagyás).
+5. Példák: a skill a mintázatot veszi át, nem a szöveget.
+
+A szkriptek ezt adatfelvitellé teszik, az ellenőrzés gépileg mutatja meg, hogy semmi nem maradt ki. A parancssorok és az új szabály vagy parancs felvétele is a [CONTRIBUTING.md](CONTRIBUTING.md) fájlban van.
+
+## Licenc
+
+A kód (szkriptek, tesztek, CI) licence MIT, a szöveges tartalomé (szabályok, referenciák, dokumentáció) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.hu). SPDX-azonosító: `MIT AND CC-BY-4.0`. Áttekintés: [LICENSE](LICENSE); a licencek szövege: [LICENSE-MIT](LICENSE-MIT) és [LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0).
+
+© 2026 Kis Zoltán. Ha hivatkozol a skillre, a [CITATION.cff](CITATION.cff) szerint tedd.
