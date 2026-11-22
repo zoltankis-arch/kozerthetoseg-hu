@@ -9,6 +9,15 @@ patch; szabály visszavonása vagy parancs átnevezése: major.
 
 ## [Kiadatlan]
 
+## [1.5.1] - 2026-11-22
+
+### Hozzáadva
+
+- Claude-piactér: `.claude-plugin/marketplace.json` és `.claude-plugin/plugin.json`. A pluginnak a Claude asztali alkalmazásában, a Coworkben és a claude.ai-on a Customize, Plugins, Add marketplace lépéssel lehet felvenni a piacteret, Claude Code-ban a `/plugin marketplace add` paranccsal. A `claude plugin validate` hiba nélkül fut rá.
+- README: telepítés Claude-pluginként, lépésről lépésre.
+
+A skill viselkedése nem változott.
+
 ## [1.5.0] - 2026-11-22
 
 ### Változott
@@ -84,7 +93,8 @@ A szabálykatalógus nem változott, ezért a forráskatalógus verziója 1.3.0 
 - Szövegtípus-döntés (Balogh, Bennion, NAV) és KÉK-határ.
 - Szkriptek: `meres.py`, `ellenorzes.py`, `generalas.py`, `uj_forras.py`, `uj_szabaly.py`; pytest-tesztek; CI.
 
-[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.0...HEAD
+[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.1...HEAD
+[1.5.1]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.2.0...v1.3.0

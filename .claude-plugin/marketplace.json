@@ -1,0 +1,15 @@
+{
+  "name": "kozerthetoseg-hu",
+  "description": "Magyar közérthetőségi plugin",
+  "owner": {
+    "name": "Kis Zoltán",
+    "url": "https://github.com/zoltankis-arch"
+  },
+  "plugins": [
+    {
+      "name": "kozerthetoseg-hu",
+      "source": "./",
+      "description": "Magyar szövegek közérthetőségének vizsgálata és javítása forrásokkal alátámasztva."
+    }
+  ]
+}

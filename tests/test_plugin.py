@@ -39,6 +39,12 @@ def test_a_skill_a_rogzitett_helyen_van():
 def test_a_verziok_egyeznek():
     v = manifest()["version"]
     assert skill_verzio() == v
-    codex = json.loads((GYOKER / ".codex-plugin" / "plugin.json").read_text(encoding="utf-8"))
-    assert codex["version"] == v
+    for f in (".codex-plugin/plugin.json", ".claude-plugin/plugin.json"):
+        assert json.loads((GYOKER / f).read_text(encoding="utf-8"))["version"] == v, f
     assert f'version: "{v}"' in (GYOKER / "CITATION.cff").read_text(encoding="utf-8")
+
+
+def test_a_claude_piacter_a_repo_gyokeret_adja_meg():
+    m = json.loads((GYOKER / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8"))
+    assert {"name", "owner", "plugins"} <= set(m)
+    assert [(x["name"], x["source"]) for x in m["plugins"]] == [(manifest()["name"], "./")]

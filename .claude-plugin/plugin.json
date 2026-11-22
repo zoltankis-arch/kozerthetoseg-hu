@@ -1,0 +1,14 @@
+{
+  "name": "kozerthetoseg-hu",
+  "displayName": "Közérthetőség magyarul",
+  "version": "1.5.1",
+  "description": "Magyar szövegek közérthetőségének vizsgálata és javítása forrásokkal alátámasztott szabálykatalógus alapján.",
+  "author": {
+    "name": "Kis Zoltán",
+    "url": "https://github.com/zoltankis-arch"
+  },
+  "homepage": "https://github.com/zoltankis-arch/kozerthetoseg-hu#readme",
+  "repository": "https://github.com/zoltankis-arch/kozerthetoseg-hu",
+  "license": "MIT AND CC-BY-4.0",
+  "keywords": ["plain-language", "közérthetőség", "hungarian", "magyar", "legal-tech", "readability"]
+}

@@ -2,16 +2,23 @@
 
 A repó egy [Agent Plugins](https://agent-plugins.org/) 1.0.0 szerinti plugin. A gyökérben a `plugin.json` manifest van, a skill a `skills/kozerthetoseg-hu/` mappában. Az ezt a szabványt ismerő eszköz a repó gyökeréből pluginként telepíti; a többinél a skill mappáját kell átmásolni.
 
-## claude.ai
+## Claude pluginként (ajánlott)
+
+A repó Claude-piactér is (`.claude-plugin/marketplace.json`).
+
+- Asztali alkalmazás, Cowork, claude.ai: Customize, Plugins, Add marketplace, majd `zoltankis-arch/kozerthetoseg-hu`, végül Install a „Közérthetőség magyarul” pluginnál.
+- Claude Code: `/plugin marketplace add zoltankis-arch/kozerthetoseg-hu`, majd `/plugin install kozerthetoseg-hu@kozerthetoseg-hu`.
+
+## Csak a skill, ZIP-feltöltéssel (claude.ai)
+
+Ha nem pluginként, hanem önálló skillként szeretnéd:
 
 1. Töltsd le a repót: a GitHubon a zöld Code gomb, majd Download ZIP.
 2. Csomagold ki. A kicsomagolt `kozerthetoseg-hu-main` mappában a `skills/kozerthetoseg-hu` mappa a skill.
-3. Ezt a belső mappát tömörítsd ZIP-be.
-4. Töltsd fel a claude.ai beállításaiban, a skillek között.
+3. Ezt a mappát tömörítsd ZIP-be.
+4. Töltsd fel a beállításokban, a skillek között.
 
-## Claude Code
-
-Másold a mappát a `~/.claude/skills/` (személyes) vagy a projekt `.claude/skills/` mappájába:
+## Csak a skill, Claude Code-ba másolva
 
 ```
 git clone https://github.com/zoltankis-arch/kozerthetoseg-hu

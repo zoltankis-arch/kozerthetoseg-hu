@@ -1,7 +1,7 @@
 # kozerthetoseg-hu
 
 [![Ellenőrzés](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml/badge.svg)](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml)
-[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.5.0-blue)](CHANGELOG.md)
+[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.5.1-blue)](CHANGELOG.md)
 [![Licenc: MIT és CC BY 4.0](https://img.shields.io/badge/licenc-MIT%20%2B%20CC%20BY%204.0-green)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-specifik%C3%A1ci%C3%B3-informational)](https://agentskills.io/specification)
 
@@ -43,24 +43,31 @@ Linkekkel és tételszámokkal: [docs/forrasok.md](docs/forrasok.md). A skill-le
 
 ## Hogyan telepítem?
 
-A repó egy [Agent Plugins](https://agent-plugins.org/) 1.0.0 szerinti plugin: a gyökérben a `plugin.json`, a skill a `skills/kozerthetoseg-hu/` mappában.
+A repó egyben plugin-piactér (marketplace) is, egyetlen pluginnal. A Claude és a Codex innen pluginként telepíti, a skill a `skills/kozerthetoseg-hu/` mappában van.
 
-- claude.ai: töltsd le a repót ZIP-ben, a `skills/kozerthetoseg-hu` mappát tömörítsd újra, és töltsd fel a beállításokban, a skillek között.
-- Claude Code:
+### Claude (asztali alkalmazás, Cowork, claude.ai)
 
-  ```
-  git clone https://github.com/zoltankis-arch/kozerthetoseg-hu
-  cp -r kozerthetoseg-hu/skills/kozerthetoseg-hu ~/.claude/skills/
-  ```
+1. A bal oldali sávban nyisd meg a Customize menüt, és válaszd a Plugins lapot.
+2. Válaszd az Add marketplace lehetőséget, és add meg: `zoltankis-arch/kozerthetoseg-hu`.
+3. A listában megjelenik a „Közérthetőség magyarul” plugin. Kattints az Install gombra.
 
-- Codex:
+A plugin a fiókodhoz kerül, így a csevegésben, a Coworkben és a Claude Code-ban is elérhető. Frissítés: a piactérnél a Check for updates, vagy a Sync automatically.
 
-  ```
-  codex plugin marketplace add zoltankis-arch/kozerthetoseg-hu
-  codex plugin add kozerthetoseg-hu@kozerthetoseg-hu
-  ```
+### Claude Code
 
-A ChatGPT asztali alkalmazása, a ChatGPT Work és más eszközök lépései: [docs/telepites.md](docs/telepites.md). A szkriptekhez Python 3.11 vagy újabb kell, külső csomag nem.
+```
+/plugin marketplace add zoltankis-arch/kozerthetoseg-hu
+/plugin install kozerthetoseg-hu@kozerthetoseg-hu
+```
+
+### Codex
+
+```
+codex plugin marketplace add zoltankis-arch/kozerthetoseg-hu
+codex plugin add kozerthetoseg-hu@kozerthetoseg-hu
+```
+
+Más eszközök (ChatGPT, ZIP-feltöltés, az Agent Plugins vagy az Agent Skills szabványt követő kliensek): [docs/telepites.md](docs/telepites.md). A szkriptekhez Python 3.11 vagy újabb kell, külső csomag nem.
 
 ## Hogyan használom?
 

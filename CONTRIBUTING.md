@@ -100,7 +100,7 @@ A skill a [szemantikus verziókezelést](https://semver.org/lang/hu/) követi. A
 | Megfogalmazás javítása, elírás, példa cseréje | patch (1.0.0 → 1.0.1) |
 | Szabály visszavonása, parancs átnevezése vagy törlése | major (1.0.0 → 2.0.0) |
 
-Kiadáskor frissítsd a CITATION.cff `version` és `date-released` mezőjét, valamint a README verziójelvényét. A verziót a gyökérben lévő `plugin.json` és a `.codex-plugin/plugin.json` fájlban is igazítsd a skill verziójához; a `tests/test_plugin.py` jelzi, ha valamelyik elmaradt.
+Kiadáskor frissítsd a CITATION.cff `version` és `date-released` mezőjét, valamint a README verziójelvényét. A verziót a gyökérben lévő `plugin.json`, a `.claude-plugin/plugin.json` és a `.codex-plugin/plugin.json` fájlban is igazítsd a skill verziójához; a `tests/test_plugin.py` jelzi, ha valamelyik elmaradt.
 
 Minden kiadás a CHANGELOG.md-ben kap bejegyzést ([Keep a Changelog](https://keepachangelog.com/hu/1.1.0/) formában), és a `main` ág megfelelő commitja `vX.Y.Z` címkét.
 
