@@ -1,7 +1,7 @@
 # kozerthetoseg-hu
 
 [![Ellenőrzés](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml/badge.svg)](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml)
-[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.4.0-blue)](CHANGELOG.md)
+[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.5.0-blue)](CHANGELOG.md)
 [![Licenc: MIT és CC BY 4.0](https://img.shields.io/badge/licenc-MIT%20%2B%20CC%20BY%204.0-green)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-specifik%C3%A1ci%C3%B3-informational)](https://agentskills.io/specification)
 
@@ -43,14 +43,14 @@ Linkekkel és tételszámokkal: [docs/forrasok.md](docs/forrasok.md). A skill-le
 
 ## Hogyan telepítem?
 
-A skill a repó `kozerthetoseg-hu/` mappája.
+A repó egy [Agent Plugins](https://agent-plugins.org/) 1.0.0 szerinti plugin: a gyökérben a `plugin.json`, a skill a `skills/kozerthetoseg-hu/` mappában.
 
-- claude.ai: töltsd le a repót ZIP-ben, a belső `kozerthetoseg-hu` mappát tömörítsd újra, és töltsd fel a beállításokban, a skillek között.
+- claude.ai: töltsd le a repót ZIP-ben, a `skills/kozerthetoseg-hu` mappát tömörítsd újra, és töltsd fel a beállításokban, a skillek között.
 - Claude Code:
 
   ```
   git clone https://github.com/zoltankis-arch/kozerthetoseg-hu
-  cp -r kozerthetoseg-hu/kozerthetoseg-hu ~/.claude/skills/
+  cp -r kozerthetoseg-hu/skills/kozerthetoseg-hu ~/.claude/skills/
   ```
 
 - Codex:
@@ -86,7 +86,7 @@ Előtte–utána példák: [examples/](examples/).
 A mérőszkript asszisztens nélkül is fut, például dokumentációs CI-ben:
 
 ```
-python kozerthetoseg-hu/scripts/meres.py levél.md --max-jelzes 0 --szint magas
+python skills/kozerthetoseg-hu/scripts/meres.py levél.md --max-jelzes 0 --szint magas
 ```
 
 ## Hogyan járulhatok hozzá?

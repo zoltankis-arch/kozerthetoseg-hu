@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "kozerthetoseg-hu",
+  "version": "1.5.0",
+  "description": "Agent Skill, amely magyar szövegek közérthetőségét vizsgálja és javítja, forrásokkal alátámasztva.",
+  "author": {
+    "name": "Kis Zoltán",
+    "url": "https://github.com/zoltankis-arch"
+  },
+  "homepage": "https://github.com/zoltankis-arch/kozerthetoseg-hu#readme",
+  "repository": "https://github.com/zoltankis-arch/kozerthetoseg-hu",
+  "license": "MIT AND CC-BY-4.0",
+  "keywords": ["plain-language", "közérthetőség", "hungarian", "magyar", "legal-tech", "readability", "agent-skills"]
+}

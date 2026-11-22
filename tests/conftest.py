@@ -7,7 +7,7 @@ from pathlib import Path
 import pytest
 
 REPO = Path(__file__).resolve().parent.parent
-SKILL = REPO / "kozerthetoseg-hu"
+SKILL = REPO / "skills" / "kozerthetoseg-hu"
 sys.path.insert(0, str(SKILL / "scripts"))
 
 

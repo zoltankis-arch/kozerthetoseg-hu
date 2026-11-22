@@ -29,7 +29,7 @@ import sys
 from pathlib import Path
 
 GYOKER = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(GYOKER / "kozerthetoseg-hu" / "scripts"))
+sys.path.insert(0, str(GYOKER / "skills" / "kozerthetoseg-hu" / "scripts"))
 import meres  # noqa: E402
 
 KONFIGOK = ("with_skill", "baseline")
@@ -49,7 +49,7 @@ def jelzes_100_szora(fajl: Path, szabalyok: dict, szotar: list) -> float | None:
 
 
 def osszesit(mappa: Path) -> dict:
-    szabalyok, szotar = meres.katalogus_betolt(GYOKER / "kozerthetoseg-hu")
+    szabalyok, szotar = meres.katalogus_betolt(GYOKER / "skills" / "kozerthetoseg-hu")
     evalok = []
     for ed in sorted(mappa.glob("eval-*")):
         meta = json.loads((ed / "eval_metadata.json").read_text(encoding="utf-8"))

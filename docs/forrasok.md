@@ -39,7 +39,7 @@ A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy péld
 | (EU) 2016/679 rendelet (GDPR), 12. cikk | Tömör, átlátható, érthető tájékoztatás az adatkezelésről. | 1 | [EUR-Lex](https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32016R0679) |
 | Az Európai Unió Bírósága, C-26/13. sz. ügy (Kásler és Káslerné Rábai), 2014. | Mit jelent az „érthető”: a fogyasztó előre látja a kikötés következményeit. | 2 | [EUR-Lex](https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:62013CJ0026) |
 
-A teljes bibliográfiai adatok, a felhasználási feltételek és tételenként a leltár: [forrasok.md](../kozerthetoseg-hu/references/forrasok.md). A szabálykatalógus: [szabalyok.md](../kozerthetoseg-hu/references/szabalyok.md). Melyik tétel hová került: [lefedettseg.md](../kozerthetoseg-hu/references/lefedettseg.md).
+A teljes bibliográfiai adatok, a felhasználási feltételek és tételenként a leltár: [forrasok.md](../skills/kozerthetoseg-hu/references/forrasok.md). A szabálykatalógus: [szabalyok.md](../skills/kozerthetoseg-hu/references/szabalyok.md). Melyik tétel hová került: [lefedettseg.md](../skills/kozerthetoseg-hu/references/lefedettseg.md).
 ## Köszönet
 
 A skill ezekre a munkákra épül; a hibák a skill hibái. Köszönet a források szerzőinek és kiadóinak:

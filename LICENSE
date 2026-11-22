@@ -1,6 +1,6 @@
 A kozerthetoseg-hu két licenc alatt érhető el.
 
-1. A kód az MIT licenc alatt áll. Ide tartozik a kozerthetoseg-hu/scripts/
+1. A kód az MIT licenc alatt áll. Ide tartozik a skills/kozerthetoseg-hu/scripts/
    és a tests/ mappa, valamint a .github/workflows/ fájljai.
    A licenc szövege: LICENSE-MIT.
 
@@ -16,6 +16,6 @@ A kozerthetoseg-hu két licenc alatt érhető el.
 
 A forrásleltár a feldolgozott források tartalmát saját szavakkal foglalja
 össze. A források szerzői joga a szerzőiké és kiadóiké; a hivatkozásuk a
-kozerthetoseg-hu/references/forrasok.md fájlban áll.
+skills/kozerthetoseg-hu/references/forrasok.md fájlban áll.
 
 SPDX-License-Identifier: MIT AND CC-BY-4.0

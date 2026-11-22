@@ -24,7 +24,11 @@ Ez a terv az angol nyelvű plain language skillek és a Vale prózalinter össze
 7. **Nyomáspróbák.** Evalok, amelyek a hibára csábítanak: „csak rövidítsd le”, „írd át mégis a törvényt”, „tegyél bele egy határidőt”.
 8. **Előtte–utána példák.** `examples/` mappa a kitalált tesztszövegek eredeti és átírt változatával, a változtatások listájával.
 
-## 1.5.0: új funkciók
+## 1.5.0: Agent Plugins-megfelelés (kész)
+
+A repó az [Agent Plugins 1.0.0](https://github.com/agentplugins/agent-plugins-spec) szerinti plugin lett: `plugin.json` a gyökérben, a skill a `skills/kozerthetoseg-hu/` mappában. Egy teszt ellenőrzi a manifestet és a verziók egyezését.
+
+## 1.6.0: új funkciók
 
 9. **`iras` parancs.** Új szöveg a tényekből, sablonnal: hivatali levél, hiánypótlási felhívás, adatkezelési tájékoztató, ügyfélnek szóló ÁSZF-összefoglaló. Hiányzó adatnál kérdez vagy helyőrzőt tesz.
 10. **Rendszerprompt-változat.** `prompts/rendszerprompt.md`, a katalógusból generálva, skill-támogatás nélküli eszközökhöz.

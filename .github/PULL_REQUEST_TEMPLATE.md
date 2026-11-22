@@ -12,8 +12,8 @@
 
 ## Ellenőrzőlista
 
-- [ ] `python kozerthetoseg-hu/scripts/generalas.py` lefutott, a generált fájlok frissek.
-- [ ] `python kozerthetoseg-hu/scripts/ellenorzes.py` zöld.
+- [ ] `python skills/kozerthetoseg-hu/scripts/generalas.py` lefutott, a generált fájlok frissek.
+- [ ] `python skills/kozerthetoseg-hu/scripts/ellenorzes.py` zöld.
 - [ ] `python -m pytest` zöld.
 - [ ] Új szabálynál van forrás (leltártétel oldalszámmal) és saját példa.
 - [ ] Új parancsnál van referenciafájl a sablonból, sor a SKILL.md táblázatában és eval.

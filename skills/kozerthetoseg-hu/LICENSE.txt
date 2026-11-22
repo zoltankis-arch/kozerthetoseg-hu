@@ -1,6 +1,6 @@
 A kozerthetoseg-hu két licenc alatt érhető el.
 
-1. A kód (a kozerthetoseg-hu/scripts/ és a tests/ mappa, valamint a
+1. A kód (a skill scripts/ mappája, a repó tests/ mappája és
    .github/workflows/ fájljai) az MIT licenc alatt áll; a szövege lent.
 
 2. A szöveges tartalom (minden egyéb: a SKILL.md, a references/ és az

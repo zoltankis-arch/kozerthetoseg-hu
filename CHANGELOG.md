@@ -9,6 +9,17 @@ patch; szabály visszavonása vagy parancs átnevezése: major.
 
 ## [Kiadatlan]
 
+## [1.5.0] - 2026-11-22
+
+### Változott
+
+- A skill a `kozerthetoseg-hu/` mappából a `skills/kozerthetoseg-hu/` mappába költözött, az [Agent Plugins 1.0.0](https://agent-plugins.org/) rögzített helyére. A telepítési parancsok ennek megfelelően változtak (`cp -r kozerthetoseg-hu/skills/kozerthetoseg-hu …`). A Codex-plugin a `./skills/` mappát adja meg.
+
+### Hozzáadva
+
+- `plugin.json` a repó gyökerében, az Agent Plugins 1.0.0 manifestje: `$schema`, név, verzió, leírás, szerző, licenc, kulcsszavak.
+- `tests/test_plugin.py`: a manifest a szabvány zárt mezőlistáját és névszabályát követi, a skill a `skills/` alatt van, és a `plugin.json`, a SKILL.md, a Codex-plugin és a CITATION.cff verziója egyezik.
+
 ## [1.4.0] - 2026-11-22
 
 ### Hozzáadva
@@ -73,7 +84,8 @@ A szabálykatalógus nem változott, ezért a forráskatalógus verziója 1.3.0 
 - Szövegtípus-döntés (Balogh, Bennion, NAV) és KÉK-határ.
 - Szkriptek: `meres.py`, `ellenorzes.py`, `generalas.py`, `uj_forras.py`, `uj_szabaly.py`; pytest-tesztek; CI.
 
-[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.4.0...HEAD
+[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.0...HEAD
+[1.5.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.1.0...v1.2.0

@@ -8,7 +8,7 @@ A közreműködésre a [magatartási kódex](CODE_OF_CONDUCT.md) vonatkozik.
 
 ```
 git clone https://github.com/zoltankis-arch/kozerthetoseg-hu
-cd kozerthetoseg-hu/kozerthetoseg-hu
+cd kozerthetoseg-hu/skills/kozerthetoseg-hu
 python --version          # 3.11 vagy újabb
 python scripts/ellenorzes.py
 ```
@@ -28,7 +28,7 @@ Miért így? Az adat és a szöveg külön van, ezért egy új forrás felvétel
 
 ## Új forrás felvétele
 
-A teljes leírás a [parancs-forras-felvetel.md](kozerthetoseg-hu/references/parancs-forras-felvetel.md) fájlban van; röviden:
+A teljes leírás a [parancs-forras-felvetel.md](skills/kozerthetoseg-hu/references/parancs-forras-felvetel.md) fájlban van; röviden:
 
 1. Forrásrekord:
 
@@ -100,7 +100,7 @@ A skill a [szemantikus verziókezelést](https://semver.org/lang/hu/) követi. A
 | Megfogalmazás javítása, elírás, példa cseréje | patch (1.0.0 → 1.0.1) |
 | Szabály visszavonása, parancs átnevezése vagy törlése | major (1.0.0 → 2.0.0) |
 
-Kiadáskor frissítsd a CITATION.cff `version` és `date-released` mezőjét, valamint a README verziójelvényét. A Codex-plugin verzióját a `.codex-plugin/plugin.json` fájlban igazítsd a skill verziójához.
+Kiadáskor frissítsd a CITATION.cff `version` és `date-released` mezőjét, valamint a README verziójelvényét. A verziót a gyökérben lévő `plugin.json` és a `.codex-plugin/plugin.json` fájlban is igazítsd a skill verziójához; a `tests/test_plugin.py` jelzi, ha valamelyik elmaradt.
 
 Minden kiadás a CHANGELOG.md-ben kap bejegyzést ([Keep a Changelog](https://keepachangelog.com/hu/1.1.0/) formában), és a `main` ág megfelelő commitja `vX.Y.Z` címkét.
 
