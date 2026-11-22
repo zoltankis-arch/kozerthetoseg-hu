@@ -7,7 +7,37 @@
 
 Agent Skill, amely magyar szövegek közérthetőségét vizsgálja és javítja, forrásokkal alátámasztva.
 
-Hivatali levelet, tájékoztatót, adatkezelési tájékoztatót, ÁSZF-et vagy határozatot néz át, és közérthetőbbre írja. Minden javaslata egy szabályra épül, minden szabály nyilvános forrásra, oldalszámmal. A vizsgálat keretét az ISO 24495-1 szabvány négy kérdése adja. Jogi tanácsot nem ad, és kötelező szöveget (jogszabályt, előírt formulát) nem ír át.
+Hivatali levelet, tájékoztatót, adatkezelési tájékoztatót, ÁSZF-et vagy határozatot néz át, és közérthetőbbre írja. Minden javaslata a 83 szabály (K001–K083) egyikére épül, minden szabály nyilvános forrásra, oldalszámmal. Jogi tanácsot nem ad, és kötelező szöveget (jogszabályt, előírt formulát) nem ír át.
+
+A vizsgálat keretét az ISO 24495-1:2023 közérthetőségi szabvány négy elve adja. A skill mindegyiket kérdésként teszi fel a szövegnek:
+
+1. Megkapja-e az olvasó, amire szüksége van? (releváns-e a tartalom)
+2. Megtalálja-e? (felépítés, címek, kinézet)
+3. Megérti-e? (mondat, szó, szerkezet)
+4. Tudja-e használni? (teendő, határidő, segítség)
+
+### Előtte és utána
+
+Egy hatósági hiánypótlási felhívás egyetlen mondata, átírás előtt (37 szó):
+
+> Fentiekre tekintettel felhívjuk, hogy a jelen felhívás kézhezvételétől számított 15 napon belül a hiányzó tervezői nyilatkozat benyújtására kerüljön sor, ellenkező esetben az eljárás a 2016. évi CL. törvény 47. § (1) bekezdés b) pontja alapján megszüntetésre kerül.
+
+Átírás után:
+
+> Az építési engedély iránti kérelméhez még egy irat hiányzik: a tervezői nyilatkozat. Nyújtsa be a levél kézhezvételétől számított 15 napon belül. Ha nem nyújtja be határidőre, megszüntetjük az eljárást (2016. évi CL. törvény 47. § (1) bekezdés b) pontja).
+
+A teendő és a határidő a levél elejére került (K002, K003). A hosszú mondatból három rövid lett (K020), a „kerül”-szerkezetek helyére cselekvő ige (K043), a jogszabályhely a mondat végére (K012). Az átírás után a skill tételesen ellenőrizte, hogy a 15 nap, a kezdőnapja, a jogkövetkezmény és a jogszabályhely változatlan maradt. A teljes levél és a hűségtáblázat: [examples/hianypotlasi-felhivas/](examples/hianypotlasi-felhivas/).
+
+### Milyen forrásokra épül?
+
+A skill 17 nyilvános forrást dolgoz fel; az öt elsődleges útmutatót fejezetről fejezetre, összesen 467 tételben. Szövegrészt nem vesz át belőlük, csak a szabályt és a mintázatot.
+
+- Útmutatók: Világos Beszéd, *Hogyan írjunk közérthetően?* kisokos és kézikönyv (Budapest Főváros, 2025); NAV, *Az érthető hivatal* 1. és 2. kötet (2024); Európai Bizottság, *A pontos fogalmazás művészete* (2013).
+- Tanulmányok: Horváth Péter (2021) a jogi szöveg tömörségéről; Balogh Dorka (2023) a jogi szövegtípusokról; Gerencsér Balázs Szabolcs (2023) a plain language modellről a törvényalkotásban; Üveges István (2026) a közérthetőség gépi felismeréséről.
+- Iránymutatások: az adatvédelmi munkacsoport WP260 iránymutatása az átláthatóságról (2018); az Inclusion Europe könnyen érthető kommunikációs alapelvei (2012).
+- Jogszabályok és ítélet: Jat., Jszr., Air., Ptk. 6:102–6:103. §, GDPR 12. cikk, és az EU Bíróságának Kásler-ítélete (C-26/13).
+
+Linkekkel és tételszámokkal: [docs/forrasok.md](docs/forrasok.md). A skill-lel és nélküle futtatott tesztek eredménye: [eredmenyek/](eredmenyek/iteracio-2/osszesites.md).
 
 > In English: an [Agent Skills](https://agentskills.io/specification) skill that checks and rewrites Hungarian texts in plain language. Every rule is traced to a public source with page numbers. It gives no legal advice and does not rewrite mandatory texts. Code: MIT; content: CC BY 4.0.
 
@@ -58,12 +88,6 @@ A mérőszkript asszisztens nélkül is fut, például dokumentációs CI-ben:
 ```
 python kozerthetoseg-hu/scripts/meres.py levél.md --max-jelzes 0 --szint magas
 ```
-
-## Mire épül?
-
-A skill 83 szabálya (K001–K083) 17 nyilvános forrásra épül. Az öt elsődleges útmutató a Világos Beszéd kisokosa és kézikönyve, a NAV két kötete és az EU „A pontos fogalmazás művészete” című kiadványa; ezeket tanulmányok, iránymutatások (adatvédelem, KÉK) és jogszabályok egészítik ki. A forrásokból a skill szövegrészt nem vesz át, csak a mintázatot.
-
-A teljes forráslista linkekkel: [docs/forrasok.md](docs/forrasok.md). A skill-lel és nélküle futtatott tesztek eredménye: [eredmenyek/](eredmenyek/iteracio-2/osszesites.md).
 
 ## Hogyan járulhatok hozzá?
 
