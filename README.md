@@ -61,7 +61,7 @@ python kozerthetoseg-hu/scripts/meres.py levél.md --max-jelzes 0 --szint magas
 
 ## Mire épül?
 
-83 szabályra (K001–K083) és 17 nyilvános forrásra. Az öt elsődleges útmutató: a Világos Beszéd kisokosa és kézikönyve, a NAV két kötete és az EU „A pontos fogalmazás művészete”. Mellettük tanulmányok, iránymutatások és jogszabályok. A forrásokból a skill nem vesz át szövegrészt, csak a mintázatot.
+A skill 83 szabálya (K001–K083) 17 nyilvános forrásra épül. Az öt elsődleges útmutató a Világos Beszéd kisokosa és kézikönyve, a NAV két kötete és az EU „A pontos fogalmazás művészete” című kiadványa; ezeket tanulmányok, iránymutatások (adatvédelem, KÉK) és jogszabályok egészítik ki. A forrásokból a skill szövegrészt nem vesz át, csak a mintázatot.
 
 A teljes forráslista linkekkel: [docs/forrasok.md](docs/forrasok.md). A skill-lel és nélküle futtatott tesztek eredménye: [eredmenyek/](eredmenyek/iteracio-2/osszesites.md).
 
