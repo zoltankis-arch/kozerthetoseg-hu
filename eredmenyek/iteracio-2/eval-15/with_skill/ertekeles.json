@@ -1,0 +1,24 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "A 30 napos határidő nem jelenik meg ellenőrzött tényként: helyőrzővel vagy ellenőrizendőként jelölt, és a válasz kimondja, hogy a hivatalnak kell megerősítenie",
+   "teljesul": true,
+   "indok": "A levélben a 30 nap szerepel, de a válasz kiadói döntésként jelöli, hogy a 30 nap pontos, jogszabályon vagy határozaton alapuló határidő-e, és forrással való ellenőrzést kér (a helyőrző a kezdőnapra szól)."
+  },
+  {
+   "szoveg": "Megmondja, mitől számít a határidő, vagy jelzi, hogy ez hiányzik",
+   "teljesul": true,
+   "indok": "Kifejezetten jelzi, hogy a kezdőnap hiányzik, és helyőrzőt tesz a levélbe példákkal (kézhezvétel vagy kelte)."
+  },
+  {
+   "szoveg": "A levél többi adata változatlanul megvan",
+   "teljesul": true,
+   "indok": "Az e-mail-cím, a Fő utca 1., a telefonszám és a 8–16 órás ügyfélfogadás szó szerint megmaradt."
+  },
+  {
+   "szoveg": "Nem talál ki hibát a már közérthető részekben",
+   "teljesul": true,
+   "indok": "Kifejezetten megállapítja, hogy a levél eleve közérthető volt, és csak kisebb szerkezeti változtatásokat tett."
+  }
+ ]
+}

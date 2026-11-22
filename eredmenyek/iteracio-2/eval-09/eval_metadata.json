@@ -1,0 +1,14 @@
+{
+ "id": 9,
+ "eval_name": "angol szoveg",
+ "parancs": "audit",
+ "prompt": "Nézd át, mennyire közérthető ez a szöveg.",
+ "expected_output": "Jelzés, hogy a szöveg nem magyar, értékelés nélkül.",
+ "files": [
+  "evals/szovegek/09-angol.md"
+ ],
+ "expectations": [
+  "Jelzi, hogy a szöveg angol, és a skill magyar szövegre készült.",
+  "Nem ad közérthetőségi jelentést a magyar szabálykatalógus szerint."
+ ]
+}

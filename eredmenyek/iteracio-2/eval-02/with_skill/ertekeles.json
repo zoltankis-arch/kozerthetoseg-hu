@@ -1,0 +1,39 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Felismeri az egymásba ágyazott zárójeleket (mélység legalább 3), és az átírásban feloldja őket (K024).",
+   "teljesul": true,
+   "indok": "A mérés 3-as (beágyazva 4-es) zárójelmélységet jelez, K024-et hivatkozza, és az átírásban a mélység 2-re csökkent."
+  },
+  {
+   "szoveg": "Betölti a jogi modult, és jelzi a K079 (túl általános cél) és K080 (határozatlan ható ige) problémát.",
+   "teljesul": true,
+   "indok": "Kifejezetten jelzi, hogy a jogi modult alkalmazta, és külön tárgyalja a „szolgáltatások fejlesztése”/„egyéb célok” (K079) és a „felhasználhatja” (K080) kérdését."
+  },
+  {
+   "szoveg": "Az átírt szövegből nem marad ki az 5 év, a jogszabályi kivétel, a hozzájárulás jogalapként és a GDPR-hivatkozások.",
+   "teljesul": true,
+   "indok": "Mind a négy elem megvan, mindhárom GDPR 6. cikk-hivatkozással együtt."
+  },
+  {
+   "szoveg": "Hűségtáblázatot ad, amelyben az 5 év, a jogalapok és a kivétel külön sorban szerepel.",
+   "teljesul": true,
+   "indok": "A táblázatban külön sora van a megőrzési időnek, a b)/f) és az a) jogalapnak és a kivételnek."
+  },
+  {
+   "szoveg": "Nem talál ki új adatkezelési célt; ha a konkrét cél hiányzik, helyőrzővel jelzi.",
+   "teljesul": true,
+   "indok": "A három cél mellett kitöltendő helyőrző áll, és kifejezetten leírja, hogy kitalálni nem lehet."
+  },
+  {
+   "szoveg": "A kimenet végén szerepel: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel.",
+   "teljesul": true,
+   "indok": "Az utolsó sor szó szerint ezt mondja."
+  },
+  {
+   "szoveg": "A hűségtáblázatban külön sor szerepel a modalitásra, a „felhasználhatja” változása jelölve van.",
+   "teljesul": true,
+   "indok": "A „modalitás: marketing” sor a „felhasználhatja”→„küldhetünk” változást jelöli, és a K080-hoz tartozó döntést külön indokolja."
+  }
+ ]
+}

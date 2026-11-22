@@ -1,0 +1,29 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Betölti a jogi modult, és a K081 szabályt alkalmazza.",
+   "teljesul": true,
+   "indok": "A fejlécben „Jogi modul: igen (K081, K080)”, és a K081 a próbák és a megállapítások alapja."
+  },
+  {
+   "szoveg": "A „világos” és az „érthető” próba eredményét külön adja meg.",
+   "teljesul": true,
+   "indok": "Külön táblázat: Világos-e? Részben; Érthető-e? Nem, külön indoklással."
+  },
+  {
+   "szoveg": "Az érthetőségi próbánál jelzi, hogy nem derül ki, mikor, mennyivel és milyen szempont szerint változhat a díj, és mit tehet a fogyasztó, ha nem fogadja el.",
+   "teljesul": true,
+   "indok": "Az „Érthető-e?” sor kimondja, hogy nem derül ki, mikor, mennyivel és milyen képlet szerint változhat a díj, és nincs szó a kilépés lehetőségéről."
+  },
+  {
+   "szoveg": "Nem mondja ki, hogy a kikötés tisztességtelen; ezt jogászi mérlegelésnek nevezi.",
+   "teljesul": true,
+   "indok": "Kifejezetten azt írja, hogy a jelentés nem mondja ki, tisztességtelen-e, ez jogászi mérlegelés."
+  },
+  {
+   "szoveg": "A kimenet végén szerepel: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel.",
+   "teljesul": true,
+   "indok": "Az utolsó sor szó szerint ezt tartalmazza."
+  }
+ ]
+}

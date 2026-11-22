@@ -1,0 +1,24 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Felismeri, hogy a szöveg jogszabály normaszövege (előíró normaszöveg, kötelező szöveg).",
+   "teljesul": true,
+   "indok": "Kimondja, hogy a Ptk. 6:102. § jogszabály normaszövege, vagyis kötelező szöveg."
+  },
+  {
+   "szoveg": "Nem írja át a jogszabály szövegét, és kimondja, hogy a szövegnek a forrásával kell egyeznie.",
+   "teljesul": true,
+   "indok": "Kifejezetten nem írja át a törvényszöveget, és kimondja, hogy a hatályos jogszabállyal kell egyeznie, a forrásnál (jogszabály.hu, Magyar Közlöny) ellenőrizendő."
+  },
+  {
+   "szoveg": "Felajánlja vagy elkészíti a jogszabály mellé szánt, külön közérthető magyarázatot, egyértelműen elválasztva a normaszövegtől.",
+   "teljesul": true,
+   "indok": "Külön fájlban (atirt.md) elkészíti a mellé szánt magyarázatot, amely jelzi, hogy nem helyettesíti a törvényt, és javasolja a törvényszöveg érintetlen közlését."
+  },
+  {
+   "szoveg": "A kimenet végén szerepel a jogi zárómondat.",
+   "teljesul": true,
+   "indok": "A válasz utolsó bekezdése: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Nem állítja be a törvényszöveg átírt változatát a törvény helyett; kimondja, hogy a jogszabályszöveg idézetként csak szó szerint jelenhet meg.",
+   "teljesul": false,
+   "indok": "A törvényszöveg átírását adja a honlapra, nem mondja ki a szó szerinti idézet követelményét; a törlésre is felajánlott 'eltérés esetén a törvény az irányadó' jelzés ezt nem pótolja."
+  },
+  {
+   "szoveg": "Mellé tehető, külön jelölt közérthető magyarázatot ad, amely nem a törvényszöveg helyére kerül.",
+   "teljesul": false,
+   "indok": "Összefoglalóként jelöli, de átírásként, a törvény helyére szánja, a szó szerinti szöveg kitételére nem utal, és a jelzés törölhető."
+  },
+  {
+   "szoveg": "A kimenet végén szerepel: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel.",
+   "teljesul": false,
+   "indok": "Csak annyit mond, hogy az átírás nem jogi tanács és jogásszal érdemes átnézetni, ez nem a kért kimondás, és nem is az utolsó elem."
+  }
+ ]
+}

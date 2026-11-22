@@ -1,0 +1,19 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Kimondja, hogy a levél közérthető (a fő üzenet elöl, a teendő egyértelmű, rövid mondatok).",
+   "teljesul": true,
+   "indok": "Az összképben egyértelműen közérthetőnek mondja, és kiemeli a tárgysort, a rövid mondatokat és a „most nincs teendő” sort."
+  },
+  {
+   "szoveg": "Nem jelöl magas vagy közepes prioritású hibát.",
+   "teljesul": true,
+   "indok": "Kifejezetten kimondja, hogy nincs javítandó hiba, és mindkét megállapítása alacsony prioritású."
+  },
+  {
+   "szoveg": "Ha ad javaslatot, az alacsony prioritású, és jelzi, hogy nem kötelező.",
+   "teljesul": true,
+   "indok": "A két javaslatot „alacsony, nem kötelező” jelöléssel adja, és jelzi, hogy a kiadó adatai nélkül nem tölt ki hiányzó adatot."
+  }
+ ]
+}

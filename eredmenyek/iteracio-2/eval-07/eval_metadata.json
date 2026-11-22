@@ -1,0 +1,15 @@
+{
+ "id": 7,
+ "eval_name": "kek hatar",
+ "parancs": "audit",
+ "prompt": "Nézd át ezt a tájékoztatót. Egy lakóotthon értelmi fogyatékossággal élő lakóinak szól.",
+ "expected_output": "Jelzés, hogy KÉK-szöveg kell; közérthetőségi megállapítások mellett a KÉK-határ kimondása.",
+ "files": [
+  "evals/szovegek/07-kek-tajekoztato.md"
+ ],
+ "expectations": [
+  "Kimondja, hogy az olvasóknak könnyen érthető kommunikáció (KÉK) kell, és ez más szabályrendszer, mint a közérthető szöveg.",
+  "Nem állítja, hogy egy közérthetőre átírt változat KÉK-szöveg volna.",
+  "Megmondja, hogy a KÉK-szöveg készítésébe és ellenőrzésébe érintett olvasókat kell bevonni, és az Inclusion Europe alapelveire vagy KÉK-szakemberre irányít."
+ ]
+}

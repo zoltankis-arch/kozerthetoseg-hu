@@ -1,0 +1,39 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Felismeri az egymásba ágyazott zárójeleket (mélység legalább 3), és az átírásban feloldja őket (K024).",
+   "teljesul": false,
+   "indok": "Az átírás ténylegesen megszünteti a beágyazást, de a válasz sehol nem ismeri fel és nem nevezi meg a problémát."
+  },
+  {
+   "szoveg": "Betölti a jogi modult, és jelzi a K079 (túl általános cél) és K080 (határozatlan ható ige) problémát.",
+   "teljesul": false,
+   "indok": "A K079-hez hasonló észrevétel van az egyéb célokról, de jogi modulra, K079-re és K080-ra nincs utalás, a „felhasználhatja” ható igét pedig nem tárgyalja."
+  },
+  {
+   "szoveg": "Az átírt szövegből nem marad ki az 5 év, a jogszabályi kivétel, a hozzájárulás jogalapként és a GDPR-hivatkozások.",
+   "teljesul": true,
+   "indok": "Az 5 év, a hosszabb jogszabályi megőrzés, a hozzájárulás és mindhárom GDPR-hivatkozás szerepel."
+  },
+  {
+   "szoveg": "Hűségtáblázatot ad, amelyben az 5 év, a jogalapok és a kivétel külön sorban szerepel.",
+   "teljesul": false,
+   "indok": "Nincs hűségtáblázat, csak egy általános mondat, hogy jogilag semmi nem változott."
+  },
+  {
+   "szoveg": "Nem talál ki új adatkezelési célt; ha a konkrét cél hiányzik, helyőrzővel jelzi.",
+   "teljesul": false,
+   "indok": "Új célt nem talál ki, de az átírásban nincs helyőrző, és a jogalapokat (b a szolgáltatásra, f a fejlesztésre) az eredetiben nem szereplő módon rendeli a célokhoz."
+  },
+  {
+   "szoveg": "A kimenet végén szerepel: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel.",
+   "teljesul": false,
+   "indok": "„Jogi tanácsot nem adok. Közzététel előtt érdemes jogásszal átnézetni.” szerepel, de a jogi tartalom változatlanságáért való szakmai felelősség nem."
+  },
+  {
+   "szoveg": "A hűségtáblázatban külön sor szerepel a modalitásra, a „felhasználhatja” változása jelölve van.",
+   "teljesul": false,
+   "indok": "Táblázat nincs, és a „felhasználhatja” helyett írt „csak akkor küldünk” változást nem jelzi."
+  }
+ ]
+}

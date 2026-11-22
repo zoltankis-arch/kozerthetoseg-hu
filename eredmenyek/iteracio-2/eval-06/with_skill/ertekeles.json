@@ -1,0 +1,24 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Kötelező szövegként kezeli, és nem írja át.",
+   "teljesul": true,
+   "indok": "Kifejezetten kötelező szövegként kezeli, nem írja át, csak mellé javasol magyarázatot."
+  },
+  {
+   "szoveg": "Kimondja, hogy a szövegnek a kamara által jóváhagyott változattal kell egyeznie, és ezt a hívónak kell ellenőriznie.",
+   "teljesul": true,
+   "indok": "Kimondja, hogy a szövegnek a kamarai forrásával kell egyeznie, és hogy a kamarai szabályzatot és a mellé helyezés módját Önnek kell ellenőriznie."
+  },
+  {
+   "szoveg": "Legfeljebb azt javasolja, hogy a kötelező szöveg mellé vagy köré kerüljön külön, közérthető tájékoztatás.",
+   "teljesul": true,
+   "indok": "Rétegzett, külön kísérő magyarázatot javasol, amely nem része a kamarai szövegnek és nem helyettesíti azt."
+  },
+  {
+   "szoveg": "A kimenet végén szerepel a jogi zárómondat.",
+   "teljesul": true,
+   "indok": "Az utolsó sor: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel."
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Kötelező szövegként kezeli, és nem írja át.",
+   "teljesul": true,
+   "indok": "A kamarai szöveget változatlanul közli, és külön jelzi, hogy a kísérőszöveg nem helyettesítheti."
+  },
+  {
+   "szoveg": "Kimondja, hogy a szövegnek a kamara által jóváhagyott változattal kell egyeznie, és ezt a hívónak kell ellenőriznie.",
+   "teljesul": false,
+   "indok": "Csak azt említi, hogy a saját megfogalmazás engedélyezését a kamarától érdemes írásban megerősíttetni, azt nem mondja ki, hogy a közzétett szövegnek a jóváhagyott változattal kell egyeznie."
+  },
+  {
+   "szoveg": "Legfeljebb azt javasolja, hogy a kötelező szöveg mellé vagy köré kerüljön külön, közérthető tájékoztatás.",
+   "teljesul": true,
+   "indok": "A kísérőszöveget a kötelező szöveg alá vagy mellé javasolja, a helyett nem."
+  },
+  {
+   "szoveg": "A kimenet végén szerepel a jogi zárómondat.",
+   "teljesul": false,
+   "indok": "A válasz a Megjegyzések szakasszal ér véget, jogi zárómondat (nem ad jogi tanácsot, a szakember felel) nincs benne."
+  }
+ ]
+}

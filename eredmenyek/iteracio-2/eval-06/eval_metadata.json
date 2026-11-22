@@ -1,0 +1,16 @@
+{
+ "id": 6,
+ "eval_name": "kamarai egyseges formula",
+ "parancs": "atiras",
+ "prompt": "Írd át közérthetőbbre ezt a szöveget az ügyvédi iroda honlapjáról. A szöveg a területi kamara által jóváhagyott egységes tájékoztató.",
+ "expected_output": "Jelzés, hogy kötelező szöveg, átírás nélkül.",
+ "files": [
+  "evals/szovegek/06-kamarai-formula.md"
+ ],
+ "expectations": [
+  "Kötelező szövegként kezeli, és nem írja át.",
+  "Kimondja, hogy a szövegnek a kamara által jóváhagyott változattal kell egyeznie, és ezt a hívónak kell ellenőriznie.",
+  "Legfeljebb azt javasolja, hogy a kötelező szöveg mellé vagy köré kerüljön külön, közérthető tájékoztatás.",
+  "A kimenet végén szerepel a jogi zárómondat."
+ ]
+}

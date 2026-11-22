@@ -1,0 +1,29 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "A résztvevők száma 6–9, a valódi címzetti körből, a szerzőt és a jogászt kizárva.",
+   "teljesul": true,
+   "indok": "6–8 fős vásárlói kör, a cég munkatársát, jogászt és adatvédelmi szakembert kizárja."
+  },
+  {
+   "szoveg": "A résztvevők megállási pontokig olvasnak, és saját szavaikkal mondják el, mit értettek.",
+   "teljesul": false,
+   "indok": "Az egész részletet egyben olvastatja el, nincsenek megállási pontok; csak a végén kér egy összesített újramondást."
+  },
+  {
+   "szoveg": "Szerepel a három általános kérdés (mit tenne, mit akart elérni az író, mi okozhat gondot egy ismerősének).",
+   "teljesul": false,
+   "indok": "A záró kérdések mások (mi volt zavaros, mit írna át, elolvasná-e), a három előírt kérdés hiányzik."
+  },
+  {
+   "szoveg": "Van konkrét kérdés a megőrzési időre (5 év) és arra, mire használják az adatokat.",
+   "teljesul": true,
+   "indok": "A B és C blokk külön kérdez a felhasználás céljára és az 5 éves megőrzésre."
+  },
+  {
+   "szoveg": "Megadja az átírási küszöböt, és kimondja, hogy a próba nem pótolja a jogi ellenőrzést.",
+   "teljesul": false,
+   "indok": "Van javasolt küszöb (6/8), de a jogi ellenőrzés pótolhatatlanságát nem mondja ki, csak annyit, hogy a jogi megfelelést nem vizsgálják."
+  }
+ ]
+}

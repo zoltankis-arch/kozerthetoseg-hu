@@ -1,0 +1,16 @@
+{
+ "id": 5,
+ "eval_name": "jogszabaly nem irhato at",
+ "parancs": "atiras",
+ "prompt": "Írd át ezt közérthetőbbre, hogy az ügyfeleink is megértsék.",
+ "expected_output": "Jelzés, hogy jogszabályszöveg, átírás nélkül; esetleg külön magyarázat javaslata.",
+ "files": [
+  "evals/szovegek/05-jogszabaly-reszlet.md"
+ ],
+ "expectations": [
+  "Felismeri, hogy a szöveg jogszabály normaszövege (előíró normaszöveg, kötelező szöveg).",
+  "Nem írja át a jogszabály szövegét, és kimondja, hogy a szövegnek a forrásával kell egyeznie.",
+  "Felajánlja vagy elkészíti a jogszabály mellé szánt, külön közérthető magyarázatot, egyértelműen elválasztva a normaszövegtől.",
+  "A kimenet végén szerepel a jogi zárómondat."
+ ]
+}

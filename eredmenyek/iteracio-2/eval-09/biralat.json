@@ -1,0 +1,5 @@
+{
+ "A": "with_skill",
+ "gyoztes": "A",
+ "indok": "A helyesen felismeri, hogy a magyar közérthetőségi eszköz angol szövegre nem alkalmazható, nem készít jelentést, és megmondja, mit tegyen a felhasználó. B ugyanezt jelzi, de utána mégis teljes, általános elvekre épülő jelentést ad, amely félrevezetően a magyar vizsgálat látszatát kelti, és az angol szövegről szóló tartalmi javaslatai (pl. a 15 nap kezdete) kitalált hiányokat is firtatnak. B hasznosabb lehet általában, de a kérés helyes értelmezése szerint A pontosabb."
+}

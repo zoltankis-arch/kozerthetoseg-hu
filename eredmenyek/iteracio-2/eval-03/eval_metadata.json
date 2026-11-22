@@ -1,0 +1,18 @@
+{
+ "id": 3,
+ "eval_name": "hatosagi level hatarido",
+ "parancs": "atiras",
+ "prompt": "Írd át ezt a hiánypótlási felhívást úgy, hogy egy építtető magánszemély elsőre megértse.",
+ "expected_output": "Átírt levél a teendővel elöl, hűségtáblázat a határidővel.",
+ "files": [
+  "evals/szovegek/03-hatosagi-level.md"
+ ],
+ "expectations": [
+  "A teendő (a tervezői nyilatkozat benyújtása) és a határidő az átírt levél elején áll.",
+  "A határidő pontosan megvan: a felhívás kézhezvételétől számított 15 napon belül.",
+  "A jogkövetkezmény (az eljárás megszüntetése) és a beküldés két módja (elektronikus felület, posta) megvan.",
+  "A „-ásra kerül” szerkezeteket cselekvő igére írja át (K043), és a jogszabályhelyet a mondat végére vagy külön blokkba teszi (K012).",
+  "A „Kérjük tájékoztatásunk szíves tudomásulvételét” formulát elhagyja (K050).",
+  "A hűségtáblázatban a határidő, a jogkövetkezmény, a jogszabályhely és a benyújtott kérelem dátuma (2026. március 2.) külön sorban szerepel, és egyik sem változott meg."
+ ]
+}

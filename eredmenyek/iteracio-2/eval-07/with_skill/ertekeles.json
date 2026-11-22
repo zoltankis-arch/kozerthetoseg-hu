@@ -1,0 +1,19 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Kimondja, hogy az olvasóknak könnyen érthető kommunikáció (KÉK) kell, és ez más szabályrendszer, mint a közérthető szöveg.",
+   "teljesul": true,
+   "indok": "Külön szakaszban mondja ki, hogy nem elég a közérthető szöveg, a KÉK más, erősebben egyszerűsítő szabályrendszer."
+  },
+  {
+   "szoveg": "Nem állítja, hogy egy közérthetőre átírt változat KÉK-szöveg volna.",
+   "teljesul": true,
+   "indok": "Kifejezetten leírja, hogy a jelentés és a javasolt átírások nem KÉK-szövegek."
+  },
+  {
+   "szoveg": "Megmondja, hogy a KÉK-szöveg készítésébe és ellenőrzésébe érintett olvasókat kell bevonni, és az Inclusion Europe alapelveire vagy KÉK-szakemberre irányít.",
+   "teljesul": true,
+   "indok": "Megnevezi az Inclusion Europe alapelveit és a KÉK-szakembert, és kéri az értelmi fogyatékossággal élő olvasók bevonását az ellenőrzésbe."
+  }
+ ]
+}

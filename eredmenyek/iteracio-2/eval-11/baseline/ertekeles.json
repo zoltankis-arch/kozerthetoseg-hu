@@ -1,0 +1,24 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Lefuttatja a scripts/meres.py-t, és a kimenet azzal kezdődik, hogy a mérőszám jelzés, nem ítélet.",
+   "teljesul": false,
+   "indok": "A szkriptet nem futtatta le, kézi számolást adott, és a mérőszám jelzés-jellegét nem mondja ki."
+  },
+  {
+   "szoveg": "Megadja a 20 szó feletti mondatok számát és a „-ásra/-ésre kerül” szerkezeteket.",
+   "teljesul": false,
+   "indok": "A 20 szó feletti mondatok számát nem adja meg külön, a „kerül”-szerkezeteket csak példaként sorolja, darabszám nélkül; a kézi mondatszám (4) is pontatlan."
+  },
+  {
+   "szoveg": "Az értelmezés legfeljebb öt mondat, és a mutatókat szabályazonosítókhoz köti.",
+   "teljesul": false,
+   "indok": "Az értelmezés nyolc pontból áll, és nincs bennük egyetlen szabályazonosító sem."
+  },
+  {
+   "szoveg": "Kimondja, mit nem tud mérni a szkript (például a kettős jelentést).",
+   "teljesul": false,
+   "indok": "A szkript korlátairól nem szól, csak azt írja, hogy nem tudta lefuttatni."
+  }
+ ]
+}

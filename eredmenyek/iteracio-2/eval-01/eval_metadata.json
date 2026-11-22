@@ -1,0 +1,19 @@
+{
+ "id": 1,
+ "eval_name": "ugyvedi szolgaltatasleiras audit",
+ "parancs": "audit",
+ "prompt": "Nézd át, mennyire közérthető ez a szolgáltatásleírás egy ügyvédi iroda honlapjáról. Az olvasó egy kisvállalkozó, aki céget akar alapítani vagy eladni, és nem jogász.",
+ "expected_output": "Audit jelentés a jelentéssablon szerint, átírt teljes szöveg nélkül.",
+ "files": [
+  "evals/szovegek/01-ugyvedi-szolgaltatas.md"
+ ],
+ "expectations": [
+  "A kimenet jelentés, és nem tartalmazza a teljes szöveg átírt változatát.",
+  "Jelzi a 20 szónál jóval hosszabb mondatokat, és a K020 vagy K023 szabályra hivatkozik.",
+  "Jelzi a harmadik személyű „az Ügyfél” megnevezést, és megszólítást javasol (K048), alapértelmezésként magázással.",
+  "Jelzi az angol „due diligence” szakszót, és magyarázatot vagy ismertebb kifejezést javasol (K030 vagy K032).",
+  "Jelzi a „kialakítására kerül sor” vagy hasonló szerkezetet (K043 vagy K045).",
+  "Minden megállapításnál szerepel a hely, a szabályazonosító, a probléma az olvasó szempontjából, a javasolt átírás és a prioritás.",
+  "Lefuttatja vagy idézi a meres.py eredményét, és jelzésként, nem ítéletként kezeli."
+ ]
+}

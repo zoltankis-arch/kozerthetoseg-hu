@@ -1,0 +1,34 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "A teendő (a tervezői nyilatkozat benyújtása) és a határidő az átírt levél elején áll.",
+   "teljesul": true,
+   "indok": "A törzsszöveg első két mondata: hiányzik a tervezői nyilatkozat, nyújtsa be a kézhezvételtől számított 15 napon belül."
+  },
+  {
+   "szoveg": "A határidő pontosan megvan: a felhívás kézhezvételétől számított 15 napon belül.",
+   "teljesul": true,
+   "indok": "'A levél kézhezvételétől számított 15 napon belül' szerepel, és a hűségtábla indokolja, hogy ez ugyanaz az irat."
+  },
+  {
+   "szoveg": "A jogkövetkezmény (az eljárás megszüntetése) és a beküldés két módja (elektronikus felület, posta) megvan.",
+   "teljesul": true,
+   "indok": "'Megszüntetjük az eljárást' és a két módot felsoroló lista is benne van."
+  },
+  {
+   "szoveg": "A „-ásra kerül” szerkezeteket cselekvő igére írja át (K043), és a jogszabályhelyet a mondat végére vagy külön blokkba teszi (K012).",
+   "teljesul": true,
+   "indok": "Mind az öt kerül-szerkezet cselekvő igévé alakult, a jogszabályhely a jogkövetkezmény mondatának végén zárójelben áll."
+  },
+  {
+   "szoveg": "A „Kérjük tájékoztatásunk szíves tudomásulvételét” formulát elhagyja (K050).",
+   "teljesul": true,
+   "indok": "A formula kimaradt, és ezt a válasz külön jelzi."
+  },
+  {
+   "szoveg": "A hűségtáblázatban a határidő, a jogkövetkezmény, a jogszabályhely és a benyújtott kérelem dátuma (2026. március 2.) külön sorban szerepel, és egyik sem változott meg.",
+   "teljesul": true,
+   "indok": "Külön sor van a dátumnak, a határidőnek, a jogkövetkezménynek és a jogszabályhelynek, és a tartalmuk megegyezik az eredetivel."
+  }
+ ]
+}

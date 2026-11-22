@@ -1,0 +1,5 @@
+{
+ "A": "baseline",
+ "gyoztes": "B",
+ "indok": "A B mind a hét elvárást teljesíti: szabályhivatkozásos, helyhez kötött, priorizált megállapításokat ad, a meres.py eredményét jelzésként idézi, és nem ír át teljes szöveget. Az A teljes átírást ad külön fájlban, nem hivatkozik egyetlen szabályra sem, nem mér, és a hosszú mondat szószámát pontatlanul becsüli (70 helyett 55). Mindkettő jól kezeli a hiányzó adatokat helyőrzőkkel, de a B ellenőrizhetőbb és a kérés értelmezéséhez (közérthetőségi vizsgálat) jobban illik."
+}

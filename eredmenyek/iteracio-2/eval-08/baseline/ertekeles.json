@@ -1,0 +1,19 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Kimondja, hogy a levél közérthető (a fő üzenet elöl, a teendő egyértelmű, rövid mondatok).",
+   "teljesul": true,
+   "indok": "Az összegzés szerint a levél már most közérthető, és felsorolja, mi működik jól benne (fő üzenet elöl, nincs teendő, rövid mondatok)."
+  },
+  {
+   "szoveg": "Nem jelöl magas vagy közepes prioritású hibát.",
+   "teljesul": true,
+   "indok": "Nem jelöl hibát, csak egy apró pontosítást és szóba jöhető kiegészítéseket."
+  },
+  {
+   "szoveg": "Ha ad javaslatot, az alacsony prioritású, és jelzi, hogy nem kötelező.",
+   "teljesul": true,
+   "indok": "A pontosítás fejlécében szerepel a „nem kötelező” jelzés, a kiegészítéseket pedig csak feltételesen javasolja."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": 4,
+ "eval_name": "aszf egyoldalu modositas",
+ "parancs": "audit",
+ "prompt": "Vizsgáld meg ezt az ÁSZF-kikötést közérthetőség szempontjából. A szerződő fél fogyasztó.",
+ "expected_output": "Audit jelentés, a világos és az érthető próba külön.",
+ "files": [
+  "evals/szovegek/04-aszf-modositas.md"
+ ],
+ "expectations": [
+  "Betölti a jogi modult, és a K081 szabályt alkalmazza.",
+  "A „világos” (nyelvi érthetőség) és az „érthető” (a fogyasztó előre látja a következményeket) próba eredményét külön adja meg.",
+  "Az érthetőségi próbánál jelzi, hogy nem derül ki, mikor, mennyivel és milyen szempont szerint változhat a díj, és mit tehet a fogyasztó, ha nem fogadja el.",
+  "Nem mondja ki, hogy a kikötés tisztességtelen; ezt jogászi mérlegelésnek nevezi.",
+  "A kimenet végén szerepel: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel."
+ ]
+}

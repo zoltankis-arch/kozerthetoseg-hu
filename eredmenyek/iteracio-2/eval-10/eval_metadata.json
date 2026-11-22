@@ -1,0 +1,18 @@
+{
+ "id": 10,
+ "eval_name": "forras felvetel mintaforras",
+ "parancs": "forras-felvetel, ellenorzes",
+ "prompt": "Vedd fel a skill forrásai közé ezt a rövid mintaforrást a forras-felvetel paranccsal. Kiadó: Mintaváros Önkormányzata, 2026, prioritás A.",
+ "expected_output": "Új forrásfájl, a tételek meglévő szabályokba összevonva, eltérésbejegyzés a mondathossznál, frissített generált referenciák, zöld ellenőrzés.",
+ "files": [
+  "evals/szovegek/10-mintaforras.md"
+ ],
+ "expectations": [
+  "Létrejön az assets/adatok/forrasok/ alatt a mintaforrás TOML-fájlja a scripts/uj_forras.py-jal, KITÖLTENDŐ mező nélkül.",
+  "A három szabály a leltárba kerül oldalszámmal és saját szavakkal, és meglévő szabályokba olvad (K002, K020, K036).",
+  "A 18 szavas felső határ miatt a K020 szabályba eltérésbejegyzés kerül, amely megmondja, mit követ a skill.",
+  "A scripts/generalas.py lefut, és a references/forrasok.md, szabalyok.md és lefedettseg.md frissül.",
+  "A scripts/ellenorzes.py hiba nélkül fut (0-s kilépési kód).",
+  "Javasolja a minor verzióemelést és a CHANGELOG-bejegyzést."
+ ]
+}

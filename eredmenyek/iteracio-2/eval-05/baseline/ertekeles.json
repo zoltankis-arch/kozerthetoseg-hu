@@ -1,0 +1,24 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Felismeri, hogy a szöveg jogszabály normaszövege (előíró normaszöveg, kötelező szöveg).",
+   "teljesul": false,
+   "indok": "Nem mondja ki, hogy kötelező normaszövegről van szó, egyszerű átírandó szövegként kezeli."
+  },
+  {
+   "szoveg": "Nem írja át a jogszabály szövegét, és kimondja, hogy a szövegnek a forrásával kell egyeznie.",
+   "teljesul": false,
+   "indok": "Átírja a törvényszöveget, és nem hivatkozik a forrással való egyezés követelményére."
+  },
+  {
+   "szoveg": "Felajánlja vagy elkészíti a jogszabály mellé szánt, külön közérthető magyarázatot, egyértelműen elválasztva a normaszövegtől.",
+   "teljesul": false,
+   "indok": "Az átírást magyarázatnak nevezi, de nem a normaszöveg mellé, hanem annak helyére szánja, és a normaszöveget nem is idézi."
+  },
+  {
+   "szoveg": "A kimenet végén szerepel a jogi zárómondat.",
+   "teljesul": false,
+   "indok": "Csak rövid figyelmeztetés van az átírt szöveg végén, a válasz végén a feltevések állnak, a megkövetelt jogi zárómondat nincs."
+  }
+ ]
+}

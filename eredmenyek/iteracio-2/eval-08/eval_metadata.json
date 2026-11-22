@@ -1,0 +1,15 @@
+{
+ "id": 8,
+ "eval_name": "mar kozertheto szoveg",
+ "parancs": "audit",
+ "prompt": "Nézd át ezt a levelet közérthetőség szempontjából. Lakossági ügyfélnek megy.",
+ "expected_output": "Rövid jelentés: a levél közérthető, érdemi hiba nincs.",
+ "files": [
+  "evals/szovegek/08-kozertheto-level.md"
+ ],
+ "expectations": [
+  "Kimondja, hogy a levél közérthető (a fő üzenet elöl, a teendő egyértelmű, rövid mondatok).",
+  "Nem jelöl magas vagy közepes prioritású hibát.",
+  "Ha ad javaslatot, az alacsony prioritású, és jelzi, hogy nem kötelező."
+ ]
+}

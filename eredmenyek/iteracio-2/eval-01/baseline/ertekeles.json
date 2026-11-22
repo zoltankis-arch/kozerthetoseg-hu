@@ -1,0 +1,39 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "A kimenet jelentés, és nem tartalmazza a teljes szöveg átírt változatát.",
+   "teljesul": false,
+   "indok": "Az A külön atirt.md fájlban a teljes szöveg átírt változatát adja (alcímekkel, felsorolással, a három bekezdés teljes újraírása), a jelentés mellett."
+  },
+  {
+   "szoveg": "Jelzi a 20 szónál jóval hosszabb mondatokat, és a K020 vagy K023 szabályra hivatkozik.",
+   "teljesul": false,
+   "indok": "Jelzi az egyetlen hosszú mondatot (a 70 szavas becslés pontatlan), de sehol nem hivatkozik szabályazonosítóra."
+  },
+  {
+   "szoveg": "Jelzi a harmadik személyű „az Ügyfél” megnevezést, és megszólítást javasol (K048), alapértelmezésként magázással.",
+   "teljesul": false,
+   "indok": "Az „Ügyfél” harmadik személyű használatát jelzi és „Ön” megszólítást javasol, de a K048 nem szerepel."
+  },
+  {
+   "szoveg": "Jelzi az angol „due diligence” szakszót, és magyarázatot vagy ismertebb kifejezést javasol (K030 vagy K032).",
+   "teljesul": false,
+   "indok": "A szakszót jelzi és magyarázatot javasol, de szabályazonosító nélkül."
+  },
+  {
+   "szoveg": "Jelzi a „kialakítására kerül sor” vagy hasonló szerkezetet (K043 vagy K045).",
+   "teljesul": false,
+   "indok": "A szerkezetet megnevezi a főnévi fogalmazás alatt, de K043/K045 hivatkozás nincs."
+  },
+  {
+   "szoveg": "Minden megállapításnál szerepel a hely, a szabályazonosító, a probléma az olvasó szempontjából, a javasolt átírás és a prioritás.",
+   "teljesul": false,
+   "indok": "Szabályazonosító és prioritás egyik megállapításnál sincs, a hely is csak hevenyészett."
+  },
+  {
+   "szoveg": "Lefuttatja vagy idézi a meres.py eredményét, és jelzésként, nem ítéletként kezeli.",
+   "teljesul": false,
+   "indok": "Nincs mérés; csak „saját becslés” pontozás van, és a hosszú mondat szószáma is pontatlan."
+  }
+ ]
+}

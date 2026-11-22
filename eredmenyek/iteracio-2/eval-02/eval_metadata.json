@@ -1,0 +1,19 @@
+{
+ "id": 2,
+ "eval_name": "adatkezelesi tajekoztato atiras",
+ "parancs": "atiras",
+ "prompt": "Írd át közérthetőre ezt az adatkezelési tájékoztató részletet egy webshop vásárlóinak.",
+ "expected_output": "Átírt szöveg, változtatások, hűségtáblázat, mérés, jogi zárómondat.",
+ "files": [
+  "evals/szovegek/02-adatkezelesi-reszlet.md"
+ ],
+ "expectations": [
+  "Felismeri az egymásba ágyazott zárójeleket (zárójelmélység legalább 3), és az átírásban feloldja őket (K024).",
+  "Betölti a jogi modult, és jelzi, hogy a „szolgáltatások fejlesztése” és az „egyéb célok” túl általános célmegjelölés (K079), a „felhasználhatja” ható ige pedig határozatlan (K080).",
+  "Az átírt szövegből nem marad ki az 5 éves megőrzési idő, a jogszabályi kivétel, a hozzájárulás mint jogalap és a GDPR-hivatkozások.",
+  "Hűségtáblázatot ad, amelyben az 5 év, a jogalapok és a kivétel külön sorban szerepel.",
+  "Nem talál ki új adatkezelési célt; ha a konkrét cél hiányzik, helyőrzővel jelzi.",
+  "A kimenet végén szerepel: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel.",
+  "A hűségtáblázatban külön sor szerepel a modalitásra: a „felhasználhatja” ható ige változása jelölve van (megváltozott vagy indokolt), nem tűnik el csendben."
+ ]
+}

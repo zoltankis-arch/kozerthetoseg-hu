@@ -1,0 +1,29 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Az átírt szövegben megvan a 2026. május 31-i határidő, a két év bejelentett lakóhely feltétele és a bérlakásra vonatkozó kizárás.",
+   "teljesul": true,
+   "indok": "Mindhárom elem megvan, a bérlakásos kizárás külön mondatban."
+  },
+  {
+   "szoveg": "Megvan mindkét támogatási mérték: 50 százalék / 800 000 Ft, és 70. életévüket betöltöttekre 70 százalék / 1 000 000 Ft.",
+   "teljesul": true,
+   "indok": "Mindkét mérték és összeghatár pontosan szerepel."
+  },
+  {
+   "szoveg": "Megvan a közös képviselő nyilatkozatára vonatkozó kivétel (ha a felújítás csak a lakás belső terét érinti, nem kell).",
+   "teljesul": true,
+   "indok": "\"kivéve, ha a felújítás csak a lakás belső terét érinti\"."
+  },
+  {
+   "szoveg": "Megvan, hogy hiánypótlásra egy alkalommal van lehetőség, és elmulasztása elutasítással jár.",
+   "teljesul": true,
+   "indok": "\"egyszer lehet pótolni. Ha a hiánypótlás elmarad, a kérelmet elutasítjuk.\""
+  },
+  {
+   "szoveg": "Ha a kért terjedelmet a tartalom elhagyása nélkül nem lehet elérni, ezt kimondja, és nem hagy el feltételt vagy kivételt.",
+   "teljesul": false,
+   "indok": "Feltételt nem hagyott el, de nem mondja ki, hogy a felére nem sikerült; azt állítja, hogy a szöveg \"jóval a fele közelében\" van (becsült 150-ről 90 szóra), pedig a csökkenés valójában kb. 30 százalék."
+  }
+ ]
+}

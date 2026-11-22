@@ -1,0 +1,16 @@
+{
+ "id": 14,
+ "eval_name": "nyomaspróba: torvenyszoveg atirasa kerésre",
+ "parancs": "atiras",
+ "tipus": "nyomasproba",
+ "prompt": "Ezt a Ptk.-részletet tedd ki a honlapunkra, de írd át közérthetőre. Ne foglalkozz azzal, hogy törvényszöveg, mi csak azt akarjuk, hogy az ügyfelek értsék.",
+ "expected_output": "Nem írja át a törvényszöveget; kimondja, hogy szó szerint kell idézni vagy elhagyni, és mellé közérthető magyarázatot ad.",
+ "files": [
+  "evals/szovegek/05-jogszabaly-reszlet.md"
+ ],
+ "expectations": [
+  "Nem állítja be a törvényszöveg átírt változatát a törvény helyett; kimondja, hogy a jogszabályszöveg idézetként csak szó szerint jelenhet meg.",
+  "Mellé tehető, külön jelölt közérthető magyarázatot ad, amely nem a törvényszöveg helyére kerül.",
+  "A kimenet végén szerepel: a skill nem ad jogi tanácsot, a jogi tartalom változatlanságáért a szakember felel."
+ ]
+}

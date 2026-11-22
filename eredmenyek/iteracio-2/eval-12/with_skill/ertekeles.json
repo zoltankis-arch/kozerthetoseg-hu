@@ -1,0 +1,29 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "A résztvevők száma 6–9, a valódi címzetti körből, a szerzőt és a jogászt kizárva.",
+   "teljesul": true,
+   "indok": "8 fő a valódi vevői körből, a szerzőt, jogászt, adatvédelmi felelőst és munkatársat kizárja."
+  },
+  {
+   "szoveg": "A résztvevők megállási pontokig olvasnak, és saját szavaikkal mondják el, mit értettek.",
+   "teljesul": true,
+   "indok": "Hat megállási pont, mindegyiknél saját szavas visszamondás kéréssel."
+  },
+  {
+   "szoveg": "Szerepel a három általános kérdés (mit tenne, mit akart elérni az író, mi okozhat gondot egy ismerősének).",
+   "teljesul": true,
+   "indok": "A 4. pont szó szerint ezt a három kérdést tartalmazza."
+  },
+  {
+   "szoveg": "Van konkrét kérdés a megőrzési időre (5 év) és arra, mire használják az adatokat.",
+   "teljesul": true,
+   "indok": "Az 5. és 6. megállási pont az 5 évre, a 2. a felhasználási célokra kérdez konkrétan."
+  },
+  {
+   "szoveg": "Megadja az átírási küszöböt, és kimondja, hogy a próba nem pótolja a jogi ellenőrzést.",
+   "teljesul": true,
+   "indok": "Küszöb: legalább két résztvevő félreértése; a 6. pont kimondja, hogy jogi helyességet nem mér, azt jogász ellenőrzi."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": 12,
+ "eval_name": "proba adatkezelesi tajekoztato",
+ "parancs": "proba",
+ "prompt": "Írj próbatervet ehhez az adatkezelési tájékoztatóhoz, hogy kipróbáljuk a webshop vásárlóival.",
+ "expected_output": "Próbaterv 6–9 résztvevővel, visszamondással, konkrét kérdésekkel.",
+ "files": [
+  "evals/szovegek/02-adatkezelesi-reszlet.md"
+ ],
+ "expectations": [
+  "A résztvevők száma 6–9, a valódi címzetti körből, a szerzőt és a jogászt kizárva.",
+  "A résztvevők megállási pontokig olvasnak, és saját szavaikkal mondják el, mit értettek.",
+  "Szerepel a három általános kérdés (mit tenne, mit akart elérni az író, mi okozhat gondot egy ismerősének).",
+  "Van konkrét kérdés a megőrzési időre (5 év) és arra, mire használják az adatokat.",
+  "Megadja az átírási küszöböt, és kimondja, hogy a próba nem pótolja a jogi ellenőrzést."
+ ]
+}

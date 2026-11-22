@@ -1,0 +1,34 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "A teendő (a tervezői nyilatkozat benyújtása) és a határidő az átírt levél elején áll.",
+   "teljesul": true,
+   "indok": "A tárgysor már tartalmazza a pótlást és a 15 napot, de a törzsszöveg először a tényállást mondja el, a teendő és a határidő csak a 'Mit kell tennie?' és 'Meddig?' blokkban jön, ezért csak határesetben teljesül."
+  },
+  {
+   "szoveg": "A határidő pontosan megvan: a felhívás kézhezvételétől számított 15 napon belül.",
+   "teljesul": true,
+   "indok": "'A levél kézhezvételétől számított 15 napon belül' szerepel, a kezdőpont és a hossz azonos az eredetivel."
+  },
+  {
+   "szoveg": "A jogkövetkezmény (az eljárás megszüntetése) és a beküldés két módja (elektronikus felület, posta) megvan.",
+   "teljesul": true,
+   "indok": "A megszüntetés és a két benyújtási mód (elektronikus ügyintézési felület, posta) is szerepel."
+  },
+  {
+   "szoveg": "A „-ásra kerül” szerkezeteket cselekvő igére írja át (K043), és a jogszabályhelyet a mondat végére vagy külön blokkba teszi (K012).",
+   "teljesul": true,
+   "indok": "A kerül-szerkezetek eltűntek ('megszüntetjük', 'nem csatolták'), a jogszabályhely a mondat után külön zárójeles tagmondatban áll."
+  },
+  {
+   "szoveg": "A „Kérjük tájékoztatásunk szíves tudomásulvételét” formulát elhagyja (K050).",
+   "teljesul": true,
+   "indok": "A formula nincs meg, helyette elköszönés áll."
+  },
+  {
+   "szoveg": "A hűségtáblázatban a határidő, a jogkövetkezmény, a jogszabályhely és a benyújtott kérelem dátuma (2026. március 2.) külön sorban szerepel, és egyik sem változott meg.",
+   "teljesul": false,
+   "indok": "Nincs hűségtáblázat, csak változtatási lista; a tartalmat ráadásul bővítette olyan állításokkal, amelyek az eredetiben nem szerepelnek (új kérelem benyújtása, a tervezőtől kell kérni, 'más iratot nem kérünk')."
+  }
+ ]
+}

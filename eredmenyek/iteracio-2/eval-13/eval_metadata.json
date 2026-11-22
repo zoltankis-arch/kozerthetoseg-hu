@@ -1,0 +1,18 @@
+{
+ "id": 13,
+ "eval_name": "nyomaspróba: rovidites kivetelekkel",
+ "parancs": "atiras",
+ "tipus": "nyomasproba",
+ "prompt": "Ez a tájékoztató túl hosszú. Rövidítsd le a felére, a lényeg maradjon meg, a részletek nem érdekesek.",
+ "expected_output": "Rövidebb, közérthető változat, amelyből egyetlen feltétel, kivétel, összeg vagy határidő sem esik ki, vagy ha a rövidítéshez el kellene hagyni valamit, azt kimondja.",
+ "files": [
+  "evals/szovegek/13-tamogatas-kivetelek.md"
+ ],
+ "expectations": [
+  "Az átírt szövegben megvan a 2026. május 31-i határidő, a két év bejelentett lakóhely feltétele és a bérlakásra vonatkozó kizárás.",
+  "Megvan mindkét támogatási mérték: 50 százalék, legfeljebb 800 000 forint, és a 70. életévüket betöltöttekre 70 százalék, legfeljebb 1 000 000 forint.",
+  "Megvan a közös képviselő nyilatkozatára vonatkozó kivétel (ha a felújítás csak a lakás belső terét érinti, nem kell).",
+  "Megvan, hogy hiánypótlásra egy alkalommal van lehetőség, és elmulasztása elutasítással jár.",
+  "Ha a kért terjedelmet a tartalom elhagyása nélkül nem lehet elérni, ezt kimondja, és nem hagy el feltételt vagy kivételt a rövidség kedvéért."
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "A kimenet jelentés, és nem tartalmazza a teljes szöveg átírt változatát.",
+   "teljesul": true,
+   "indok": "A valasz.md jelentés táblázattal; az atirt.md csak megállapításokhoz tartozó szövegrészleteket ad, és kifejezetten nem teljes átírásnak jelöli."
+  },
+  {
+   "szoveg": "Jelzi a 20 szónál jóval hosszabb mondatokat, és a K020 vagy K023 szabályra hivatkozik.",
+   "teljesul": true,
+   "indok": "Az 5. megállapítás az 55 szavas mondatot jelzi K020, K019, K013, K023 hivatkozással, és a mérés szerint mind a három mondat 20 szó fölötti."
+  },
+  {
+   "szoveg": "Jelzi a harmadik személyű „az Ügyfél” megnevezést, és megszólítást javasol (K048), alapértelmezésként magázással.",
+   "teljesul": true,
+   "indok": "A 8. megállapítás K048-cal jelzi a négy „az Ügyfél” előfordulást, és „Önnek”, „az Ön céljai” megszólítást javasol."
+  },
+  {
+   "szoveg": "Jelzi az angol „due diligence” szakszót, és magyarázatot vagy ismertebb kifejezést javasol (K030 vagy K032).",
+   "teljesul": true,
+   "indok": "A 10. megállapítás K030-cal jelzi, és egy mondatos magyarázatot javasol a „cég jogi helyzetének átnézése (angolul: due diligence)” formában."
+  },
+  {
+   "szoveg": "Jelzi a „kialakítására kerül sor” vagy hasonló szerkezetet (K043 vagy K045).",
+   "teljesul": true,
+   "indok": "A 4. megállapítás K043 és K045 alatt kezeli a „kialakítására kerül sor” szerkezetet, és cselekvő igés átírást ad."
+  },
+  {
+   "szoveg": "Minden megállapításnál szerepel a hely, a szabályazonosító, a probléma az olvasó szempontjából, a javasolt átírás és a prioritás.",
+   "teljesul": true,
+   "indok": "A 11 soros táblázat minden sorában van hely, szabály, olvasói probléma, átírás és prioritás (a 2. sor átírása helyőrző, mert a szövegben nincs ilyen adat)."
+  },
+  {
+   "szoveg": "Lefuttatja vagy idézi a meres.py eredményét, és jelzésként, nem ítéletként kezeli.",
+   "teljesul": true,
+   "indok": "Külön Mérés szakasz idézi a számokat (113 szó, 3 mondat, átlag 36,7, leghosszabb 55, főnevesítés 17,3/100 szó), és kimondja, hogy a mérőszám jelzés, nem ítélet."
+  }
+ ]
+}

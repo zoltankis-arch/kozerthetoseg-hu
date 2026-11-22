@@ -1,0 +1,260 @@
+{
+  "osszesen": {
+    "evalok_szama": 15,
+    "parban_futott": 14,
+    "elvarasok": {
+      "with_skill": {
+        "teljesult": 61,
+        "osszes": 62
+      },
+      "baseline": {
+        "teljesult": 22,
+        "osszes": 62
+      }
+    },
+    "jelzes_100_szora_atlag": {
+      "with_skill": 10.8,
+      "baseline": 9.6
+    },
+    "atirasok_szama": 9,
+    "biralat": {
+      "with_skill": 14,
+      "baseline": 0,
+      "dontetlen": 0
+    }
+  },
+  "evalok": [
+    {
+      "id": 1,
+      "nev": "ugyvedi szolgaltatasleiras audit",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 7,
+        "osszes": 7,
+        "jelzes_100_szora": 9.7
+      },
+      "baseline": {
+        "teljesult": 0,
+        "osszes": 7,
+        "jelzes_100_szora": 7.4
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 2,
+      "nev": "adatkezelesi tajekoztato atiras",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 7,
+        "osszes": 7,
+        "jelzes_100_szora": 6.8
+      },
+      "baseline": {
+        "teljesult": 1,
+        "osszes": 7,
+        "jelzes_100_szora": 8.9
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 3,
+      "nev": "hatosagi level hatarido",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 6,
+        "osszes": 6,
+        "jelzes_100_szora": 6.4
+      },
+      "baseline": {
+        "teljesult": 5,
+        "osszes": 6,
+        "jelzes_100_szora": 4.3
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 4,
+      "nev": "aszf egyoldalu modositas",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 5,
+        "osszes": 5,
+        "jelzes_100_szora": 14.4
+      },
+      "baseline": {
+        "teljesult": 1,
+        "osszes": 5,
+        "jelzes_100_szora": 15.1
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 5,
+      "nev": "jogszabaly nem irhato at",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 4,
+        "osszes": 4,
+        "jelzes_100_szora": 14.9
+      },
+      "baseline": {
+        "teljesult": 0,
+        "osszes": 4,
+        "jelzes_100_szora": 10.6
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 6,
+      "nev": "kamarai egyseges formula",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 4,
+        "osszes": 4,
+        "jelzes_100_szora": 14.0
+      },
+      "baseline": {
+        "teljesult": 2,
+        "osszes": 4,
+        "jelzes_100_szora": 5.4
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 7,
+      "nev": "kek hatar",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 3,
+        "osszes": 3,
+        "jelzes_100_szora": null
+      },
+      "baseline": {
+        "teljesult": 0,
+        "osszes": 3,
+        "jelzes_100_szora": 3.8
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 8,
+      "nev": "mar kozertheto szoveg",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 3,
+        "osszes": 3,
+        "jelzes_100_szora": null
+      },
+      "baseline": {
+        "teljesult": 3,
+        "osszes": 3,
+        "jelzes_100_szora": 7.3
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 9,
+      "nev": "angol szoveg",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 2,
+        "osszes": 2,
+        "jelzes_100_szora": null
+      },
+      "baseline": {
+        "teljesult": 1,
+        "osszes": 2,
+        "jelzes_100_szora": null
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 10,
+      "nev": "forras felvetel mintaforras",
+      "tipus": "alap",
+      "with_skill": null,
+      "baseline": null,
+      "biralat": null
+    },
+    {
+      "id": 11,
+      "nev": "meres hatosagi level",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 3,
+        "osszes": 4,
+        "jelzes_100_szora": null
+      },
+      "baseline": {
+        "teljesult": 0,
+        "osszes": 4,
+        "jelzes_100_szora": 11.4
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 12,
+      "nev": "proba adatkezelesi tajekoztato",
+      "tipus": "alap",
+      "with_skill": {
+        "teljesult": 5,
+        "osszes": 5,
+        "jelzes_100_szora": null
+      },
+      "baseline": {
+        "teljesult": 2,
+        "osszes": 5,
+        "jelzes_100_szora": null
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 13,
+      "nev": "nyomaspróba: rovidites kivetelekkel",
+      "tipus": "nyomasproba",
+      "with_skill": {
+        "teljesult": 5,
+        "osszes": 5,
+        "jelzes_100_szora": 10.2
+      },
+      "baseline": {
+        "teljesult": 4,
+        "osszes": 5,
+        "jelzes_100_szora": 9.5
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 14,
+      "nev": "nyomaspróba: torvenyszoveg atirasa kerésre",
+      "tipus": "nyomasproba",
+      "with_skill": {
+        "teljesult": 3,
+        "osszes": 3,
+        "jelzes_100_szora": 8.6
+      },
+      "baseline": {
+        "teljesult": 0,
+        "osszes": 3,
+        "jelzes_100_szora": 8.4
+      },
+      "biralat": "with_skill"
+    },
+    {
+      "id": 15,
+      "nev": "nyomaspróba: kitalalt hatarido",
+      "tipus": "nyomasproba",
+      "with_skill": {
+        "teljesult": 4,
+        "osszes": 4,
+        "jelzes_100_szora": 12.4
+      },
+      "baseline": {
+        "teljesult": 3,
+        "osszes": 4,
+        "jelzes_100_szora": 16.9
+      },
+      "biralat": "with_skill"
+    }
+  ]
+}

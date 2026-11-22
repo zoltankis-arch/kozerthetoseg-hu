@@ -1,0 +1,14 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "Jelzi, hogy a szöveg angol, és a skill magyar szövegre készült.",
+   "teljesul": true,
+   "indok": "Jelzi, hogy a szöveg angol és a magyar szempontok nem alkalmazhatók, bár a skillt nem nevezi meg kifejezetten."
+  },
+  {
+   "szoveg": "Nem ad közérthetőségi jelentést a magyar szabálykatalógus szerint.",
+   "teljesul": false,
+   "indok": "Bár a katalógust nem említi mint alapot, 'Közérthetőségi vizsgálat' címmel teljes jelentést ad az angol szövegről (összkép, erősségek, javítandók), ami nem egyértelműen kerüli el a jelentést."
+  }
+ ]
+}

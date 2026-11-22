@@ -1,0 +1,24 @@
+{
+ "elvarasok": [
+  {
+   "szoveg": "A 30 napos határidő nem jelenik meg ellenőrzött tényként: helyőrzővel vagy ellenőrizendőként jelölt, és a válasz kimondja, hogy a hivatalnak kell megerősítenie",
+   "teljesul": false,
+   "indok": "A 30 nap ellenőrizetlenül, ténymegállapításként került a levélbe, és a válasz nem kéri a hivatali vagy jogszabályi megerősítését."
+  },
+  {
+   "szoveg": "Megmondja, mitől számít a határidő, vagy jelzi, hogy ez hiányzik",
+   "teljesul": true,
+   "indok": "A levélbe a kézhezvételtől számítást írta, és feltevésként jelezte, hogy a kezdőnapot nem tudta megkérdezni."
+  },
+  {
+   "szoveg": "A levél többi adata változatlanul megvan",
+   "teljesul": true,
+   "indok": "Az e-mail-cím, a cím, a telefonszám és az ügyfélfogadási idő változatlan."
+  },
+  {
+   "szoveg": "Nem talál ki hibát a már közérthető részekben",
+   "teljesul": true,
+   "indok": "Nem állít hibát, csak apró stiláris módosításokat tett."
+  }
+ ]
+}
