@@ -1,7 +1,7 @@
 # kozerthetoseg-hu
 
 [![Ellenőrzés](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml/badge.svg)](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml)
-[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.3.0-blue)](CHANGELOG.md)
+[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.4.0-blue)](CHANGELOG.md)
 [![Licenc: MIT és CC BY 4.0](https://img.shields.io/badge/licenc-MIT%20%2B%20CC%20BY%204.0-green)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-specifik%C3%A1ci%C3%B3-informational)](https://agentskills.io/specification)
 
@@ -191,6 +191,22 @@ A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy péld
 
 A teljes bibliográfiai adatok, a felhasználási feltételek és tételenként a leltár: [forrasok.md](kozerthetoseg-hu/references/forrasok.md). A szabálykatalógus: [szabalyok.md](kozerthetoseg-hu/references/szabalyok.md). Melyik tétel hová került: [lefedettseg.md](kozerthetoseg-hu/references/lefedettseg.md).
 
+## Mennyit javít?
+
+Az 1.4.0-ban 14 eval futott kétszer, ugyanazzal a modellel: egyszer a skill-lel, egyszer nélküle. A három mérőszám:
+
+| | Skill-lel | Skill nélkül |
+|---|---|---|
+| Teljesült elvárások | 61/62 (98%) | 22/62 (35%) |
+| Vak bíráló szerint jobb | 14 eval | 0 eval |
+| Magas és közepes mérési jelzés 100 szóra (9 átírás) | 10,8 | 9,6 |
+
+Két példa arra, ahol skill nélkül hibázott a modell: átírta a Ptk.-szakaszt (5. és 14. eval), és a kért 30 napos határidőt úgy írta a levélbe, hogy nem kérte az ellenőrzését (15. eval). A skill-lel mindkét esetben helyesen döntött.
+
+A számokat óvatosan kell olvasni. Evalonként egy futás van. Az elvárások egy része a skill saját fogalmaira épül (szabályazonosító, mérőszkript), ezeket az alapváltozat nem ismerheti. A vak bíráló is látta az elvárásokat. A mérési jelzés a skill átírásaiban kicsit magasabb, főleg ott, ahol a skill a kötelező szöveget szándékosan megtartotta.
+
+A nyers válaszok, az értékelések és az összesítés: [eredmenyek/iteracio-2/](eredmenyek/iteracio-2/osszesites.md). A `tools/eval_osszesit.py` újraszámolja a számokat, a CI minden pushnál ellenőrzi. Előtte–utána példák: [examples/](examples/).
+
 ## Mit nem tud?
 
 - Nem ad jogi tanácsot. Jogi szövegnél a jogi tartalom változatlanságáért a szakember felel.
@@ -239,4 +255,4 @@ A skill ezekre a munkákra épül; a hibák a skill hibái. Köszönet a forrás
 
 kozerthetoseg-hu is an [Agent Skills](https://agentskills.io/specification) skill for checking and improving the plain-language quality of Hungarian texts such as official letters, notices, privacy notices, terms and conditions and administrative decisions. It has six commands: audit, rewrite with a fidelity check, surface metrics, a reader-test plan, adding a new source, and a consistency check. A separate legal module loads only for legal texts.
 
-Every rule is traced to a public source with page numbers. The catalogue rests on a chapter-by-chapter inventory of five Hungarian and EU guides, plus supporting research and legislation. The skill gives no legal advice and does not rewrite mandatory texts. It treats metrics as signals, not verdicts, and it recognises but does not produce easy-to-read (KÉK) texts. The scripts need only Python 3.11+. Code: MIT; content: CC BY 4.0.
+Every rule is traced to a public source with page numbers. The catalogue rests on a chapter-by-chapter inventory of five Hungarian and EU guides, plus supporting research and legislation. The skill gives no legal advice and does not rewrite mandatory texts. It treats metrics as signals, not verdicts, and it recognises but does not produce easy-to-read (KÉK) texts. In a paired evaluation of 14 tasks (same model, with and without the skill), the skill met 98% of the expectations and the baseline 35%; raw outputs and a recomputing script are in `eredmenyek/`. The scripts need only Python 3.11+. Code: MIT; content: CC BY 4.0.

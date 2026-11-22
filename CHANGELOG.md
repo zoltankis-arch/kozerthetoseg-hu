@@ -9,6 +9,17 @@ patch; szabály visszavonása vagy parancs átnevezése: major.
 
 ## [Kiadatlan]
 
+## [1.4.0] - 2026-11-22
+
+### Hozzáadva
+
+- Összehasonlító evalok: 14 eval skill-lel és nélküle, ugyanazzal a modellel, vak bírálóval. A nyers válaszok, az értékelések és az összesítés az `eredmenyek/iteracio-2/` mappában vannak. A `tools/eval_osszesit.py` újraszámolja a közölt számokat, a CI `--ellenoriz` kapcsolóval futtatja.
+- Nyomáspróbák (13–15. eval): felére rövidítés kivételekkel, törvényszöveg átírása kérésre, hiányzó határidő beírása.
+- Előtte–utána példák: `examples/`, négy szöveg eredetije, átírása és a változtatások listája.
+- README: „Mennyit javít?” szakasz az eredményekkel és a korlátaikkal.
+
+A szabálykatalógus nem változott, ezért a forráskatalógus verziója 1.3.0 marad.
+
 ## [1.3.0] - 2026-11-20
 
 ### Hozzáadva
@@ -62,7 +73,8 @@ patch; szabály visszavonása vagy parancs átnevezése: major.
 - Szövegtípus-döntés (Balogh, Bennion, NAV) és KÉK-határ.
 - Szkriptek: `meres.py`, `ellenorzes.py`, `generalas.py`, `uj_forras.py`, `uj_szabaly.py`; pytest-tesztek; CI.
 
-[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.3.0...HEAD
+[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.4.0...HEAD
+[1.4.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.0.0...v1.1.0
