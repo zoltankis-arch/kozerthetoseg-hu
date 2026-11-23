@@ -1,6 +1,6 @@
 {
   "name": "kozerthetoseg-hu",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "description": "Magyar szövegek közérthetőségi vizsgálata, átírása és mérése forrásokra hivatkozva.",
   "author": {
     "name": "Kis Zoltán"

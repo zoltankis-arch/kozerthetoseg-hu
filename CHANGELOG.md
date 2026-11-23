@@ -9,6 +9,23 @@ patch; szabály visszavonása vagy parancs átnevezése: major.
 
 ## [Kiadatlan]
 
+## [1.6.0] - 2026-11-23
+
+### Változott
+
+- Az evalok (`evals.json`, `szovegek/`) kikerültek a skill mappájából a repó gyökerébe, az `evals/` mappába; ide költözött az `eredmenyek/` is (`evals/eredmenyek/`). A telepített skill 72 KB-tal kisebb, és csak a futáshoz szükséges fájlokat tartalmazza.
+- A licencszövegek a `LICENSES/` mappába kerültek (`MIT.txt`, `CC-BY-4.0.txt`), a gyökérben csak az áttekintő `LICENSE` maradt. A `SECURITY.md` és a `CODE_OF_CONDUCT.md` a `.github/` mappába, a `ROADMAP.md` a `docs/roadmap.md` helyre költözött.
+- A Claude-piactér pluginbejegyzése a `skills/kozerthetoseg-hu/` mappára mutat, így a Claude csak a skillt telepíti, a repó többi részét nem. A `.claude-plugin/plugin.json` törölve, a mezői a piactér bejegyzésébe kerültek.
+- README: az előtte–utána példa közvetlenül a bevezető után áll, alatta az összevetés eredménye egy bekezdésben. Új szakasz: öt tipikus hiba és a munkafolyamat leírása. A használatnál három hívási forma szerepel.
+
+### Javítva
+
+- Az `ellenorzes.py` az 1.5.0 óta nem találta a CHANGELOG-ot, mert a skill egy szinttel mélyebbre került. Most a skill mappájától felfelé keresi, az evalokkal együtt. Ha egyik sincs meg (telepített skill), az ellenőrzésük kimarad, és ez nem hiba.
+
+### Hozzáadva
+
+- `AGENTS.md`: útmutató a repón dolgozó kódoló agenteknek.
+
 ## [1.5.1] - 2026-11-22
 
 ### Hozzáadva
@@ -93,7 +110,8 @@ A szabálykatalógus nem változott, ezért a forráskatalógus verziója 1.3.0 
 - Szövegtípus-döntés (Balogh, Bennion, NAV) és KÉK-határ.
 - Szkriptek: `meres.py`, `ellenorzes.py`, `generalas.py`, `uj_forras.py`, `uj_szabaly.py`; pytest-tesztek; CI.
 
-[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.1...HEAD
+[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.1...v1.6.0
 [1.5.1]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.3.0...v1.4.0

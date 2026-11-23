@@ -28,7 +28,11 @@ Ez a terv az angol nyelvű plain language skillek és a Vale prózalinter össze
 
 A repó az [Agent Plugins 1.0.0](https://github.com/agentplugins/agent-plugins-spec) szerinti plugin lett: `plugin.json` a gyökérben, a skill a `skills/kozerthetoseg-hu/` mappában. Egy teszt ellenőrzi a manifestet és a verziók egyezését.
 
-## 1.6.0: új funkciók
+## 1.6.0: karcsúbb repó (kész)
+
+Az evalok és a nyers eredmények a gyökérbeli `evals/` mappába kerültek, így a telepített skillben csak a futáshoz szükséges fájlok maradtak. A licencek a `LICENSES/`, a közösségi fájlok a `.github/` mappába kerültek. Új: `AGENTS.md`, valamint a README-ben a bizonyíték, öt tipikus hiba és a munkafolyamat.
+
+## 1.7.0: új funkciók
 
 9. **`iras` parancs.** Új szöveg a tényekből, sablonnal: hivatali levél, hiánypótlási felhívás, adatkezelési tájékoztató, ügyfélnek szóló ÁSZF-összefoglaló. Hiányzó adatnál kérdez vagy helyőrzőt tesz.
 10. **Rendszerprompt-változat.** `prompts/rendszerprompt.md`, a katalógusból generálva, skill-támogatás nélküli eszközökhöz.

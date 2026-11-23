@@ -1,7 +1,7 @@
 # kozerthetoseg-hu
 
 [![Ellenőrzés](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml/badge.svg)](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml)
-[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.5.1-blue)](CHANGELOG.md)
+[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.6.0-blue)](CHANGELOG.md)
 [![Licenc: MIT és CC BY 4.0](https://img.shields.io/badge/licenc-MIT%20%2B%20CC%20BY%204.0-green)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-specifik%C3%A1ci%C3%B3-informational)](https://agentskills.io/specification)
 
@@ -9,14 +9,7 @@ Agent Skill, amely magyar szövegek közérthetőségét vizsgálja és javítja
 
 Hivatali levelet, tájékoztatót, adatkezelési tájékoztatót, ÁSZF-et vagy határozatot néz át, és közérthetőbbre írja. Minden javaslata a 83 szabály (K001–K083) egyikére épül, minden szabály nyilvános forrásra, oldalszámmal. Jogi tanácsot nem ad, és kötelező szöveget (jogszabályt, előírt formulát) nem ír át.
 
-A vizsgálat keretét az ISO 24495-1:2023 közérthetőségi szabvány négy elve adja. A skill mindegyiket kérdésként teszi fel a szövegnek:
-
-1. Megkapja-e az olvasó, amire szüksége van? (releváns-e a tartalom)
-2. Megtalálja-e? (felépítés, címek, kinézet)
-3. Megérti-e? (mondat, szó, szerkezet)
-4. Tudja-e használni? (teendő, határidő, segítség)
-
-### Előtte és utána
+## Előtte és utána
 
 Egy hatósági hiánypótlási felhívás egyetlen mondata, átírás előtt (37 szó):
 
@@ -28,7 +21,36 @@ Egy hatósági hiánypótlási felhívás egyetlen mondata, átírás előtt (37
 
 A teendő és a határidő a levél elejére került (K002, K003). A hosszú mondatból három rövid lett (K020), a „kerül”-szerkezetek helyére cselekvő ige (K043), a jogszabályhely a mondat végére (K012). Az átírás után a skill tételesen ellenőrizte, hogy a 15 nap, a kezdőnapja, a jogkövetkezmény és a jogszabályhely változatlan maradt. A teljes levél és a hűségtáblázat: [examples/hianypotlasi-felhivas/](examples/hianypotlasi-felhivas/).
 
-### Milyen forrásokra épül?
+Vak összevetésben 14 feladatot futtattunk le ugyanazzal a modellel, a skill-lel és nélküle. A bíráló mind a 14 esetben a skill válaszát tartotta jobbnak. A skill a 62 elvárásból 61-et teljesített, a skill nélküli változat 22-t. Az eredmények és a korlátaik: [evals/eredmenyek/](evals/eredmenyek/iteracio-2/osszesites.md).
+
+## Öt tipikus hiba
+
+A hivatali szövegekben gyakoriak, és a skill mindegyiket magas vagy közepes prioritással jelzi:
+
+| Hiba | Példa | Szabály |
+|---|---|---|
+| A fő üzenet és a teendő a levél végén van | a határidő a negyedik mondatban | K002, K003 |
+| „-ásra/-ésre kerül” szerkezet | „benyújtására kerüljön sor” | K043 |
+| Túl hosszú, sok tagmondatos mondat | egy 37 szavas mondat | K020, K023 |
+| Jogszabályhely a mondat közepén | „az eljárás a 2016. évi CL. törvény 47. § (1) bekezdés b) pontja alapján megszüntetésre kerül” | K012 |
+| Szakszó magyarázat nélkül | „due diligence” | K030 |
+
+A többi 78 szabály: [szabaly-index.md](skills/kozerthetoseg-hu/references/szabaly-index.md).
+
+## Hogyan dolgozik?
+
+Először megkérdezi, ki olvassa a szöveget, és mit kell vele tennie. Ha erre nincs válasz, leírja, milyen olvasót feltételezett. Utána besorolja a szöveget: jogszabály, határozat, leíró jogi szöveg vagy hétköznapi tájékoztató. Kötelező szöveget nem ír át. Ha az olvasónak könnyen érthető (KÉK) szöveg kellene, ezt jelzi, mert az más szabályrendszer.
+
+A vizsgálat keretét az ISO 24495-1:2023 közérthetőségi szabvány négy elve adja. A skill mindegyiket kérdésként teszi fel a szövegnek:
+
+1. Megkapja-e az olvasó, amire szüksége van? (releváns-e a tartalom)
+2. Megtalálja-e? (felépítés, címek, kinézet)
+3. Megérti-e? (mondat, szó, szerkezet)
+4. Tudja-e használni? (teendő, határidő, segítség)
+
+Ezután a szabályok szerint vizsgál, és lefuttatja a mérőszkriptet. A mérés eredménye csak jelzés: azt, hogy a fő üzenet elöl áll-e, olvasva kell megnézni. Átírás után tételesen ellenőrzi, hogy minden tény, szám, határidő, feltétel és kivétel megmaradt-e. Jogi szövegnél betölti a jogi modult is.
+
+## Milyen forrásokra épül?
 
 A skill 17 nyilvános forrást dolgoz fel; az öt elsődleges útmutatót fejezetről fejezetre, összesen 467 tételben. Szövegrészt nem vesz át belőlük, csak a szabályt és a mintázatot.
 
@@ -37,7 +59,7 @@ A skill 17 nyilvános forrást dolgoz fel; az öt elsődleges útmutatót fejeze
 - Iránymutatások: az adatvédelmi munkacsoport WP260 iránymutatása az átláthatóságról (2018); az Inclusion Europe könnyen érthető kommunikációs alapelvei (2012).
 - Jogszabályok és ítélet: Jat., Jszr., Air., Ptk. 6:102–6:103. §, GDPR 12. cikk, és az EU Bíróságának Kásler-ítélete (C-26/13).
 
-Linkekkel és tételszámokkal: [docs/forrasok.md](docs/forrasok.md). A skill-lel és nélküle futtatott tesztek eredménye: [eredmenyek/](eredmenyek/iteracio-2/osszesites.md).
+Linkekkel és tételszámokkal: [docs/forrasok.md](docs/forrasok.md). A skill-lel és nélküle futtatott tesztek eredménye: [evals/eredmenyek/](evals/eredmenyek/iteracio-2/osszesites.md).
 
 > In English: an [Agent Skills](https://agentskills.io/specification) skill that checks and rewrites Hungarian texts in plain language. Every rule is traced to a public source with page numbers. It gives no legal advice and does not rewrite mandatory texts. Code: MIT; content: CC BY 4.0.
 
@@ -71,7 +93,28 @@ Más eszközök (ChatGPT, ZIP-feltöltés, az Agent Plugins vagy az Agent Skills
 
 ## Hogyan használom?
 
-Írd az asszisztensnek, mit szeretnél, a szöveggel együtt. Például: „Nézd át közérthetőség szempontjából ezt a levelet. Lakossági ügyfélnek megy.” A parancsot nem kell megnevezned.
+Háromféleképpen hívhatod meg. Közvetlenül: írd be a `/` jelet, válaszd a kozerthetoseg-hu skillt, és írd mögé a parancsot meg a szöveget. Claude Code-ban pluginként telepítve ez így néz ki:
+
+```
+/kozerthetoseg-hu:kozerthetoseg-hu audit
+
+[a szöveg]
+```
+
+Kötetlen kéréssel, a parancsot nem kell megnevezned:
+
+```
+Nézd át közérthetőség szempontjából ezt a levelet. Lakossági ügyfélnek megy.
+[a szöveg]
+```
+
+Fájlra is, az útvonalával:
+
+```
+Írd át közérthetőre a docs/tajekoztato.md fájlt.
+```
+
+A parancsok:
 
 | Parancs | Mit csinál |
 |---|---|
@@ -98,7 +141,7 @@ python skills/kozerthetoseg-hu/scripts/meres.py levél.md --max-jelzes 0 --szint
 
 ## Hogyan járulhatok hozzá?
 
-Hibát, szabályjavaslatot vagy új forrást az [Issues](https://github.com/zoltankis-arch/kozerthetoseg-hu/issues) oldalon jelezhetsz. Pull requestet szívesen fogadunk. A lépések: [CONTRIBUTING.md](CONTRIBUTING.md). Köszönet a források szerzőinek és kiadóinak.
+Hibát, szabályjavaslatot vagy új forrást az [Issues](https://github.com/zoltankis-arch/kozerthetoseg-hu/issues) oldalon jelezhetsz. Pull requestet szívesen fogadunk. A lépések: [CONTRIBUTING.md](CONTRIBUTING.md). Ha kódoló agenttel dolgozol a repón, az [AGENTS.md](AGENTS.md) mondja meg neki, mit nem szabad kézzel szerkeszteni. Köszönet a források szerzőinek és kiadóinak.
 
 ## Licenc
 
