@@ -13,7 +13,15 @@ A skill közérthető (plain language) szöveggel dolgozik. A könnyen érthető
 | Ki készíti és ellenőrzi | a szerző, olvasói próbával | értelmi fogyatékossággal élő emberek bevonásával |
 | Forma | a szöveg saját formája, kevés kiemeléssel | külön formai szabályok (lent) |
 
-Gönczi Rita módszertana (2025) a nyelven belüli kommunikáció öt szintjébe helyezi el a kettőt: 1. kiegészítő és alternatív kommunikáció, 2. könnyen érthető kommunikáció, 3. egyszerű nyelv (angolul plain language, ezt a skill közérthető szövegnek nevezi), 4. köznyelv, 5. szaknyelv. A Közös Európai Referenciakeret szintjeivel a KÉK nagyjából az A1–A2, az egyszerű nyelv az A2–B1 szintnek felel meg. A két szint tartalmi szabályai nagyrészt egyeznek (egy mondat egy információ, cselekvő ige, állító mondat, mindig ugyanaz a szó, idegen szó és rövidítés helyett magyarázat), a különbség a mértékben és a formában van.
+Gönczi Rita módszertana (2025) a nyelven belüli kommunikáció öt szintje közé helyezi el a kettőt:
+
+1. kiegészítő és alternatív kommunikáció;
+2. könnyen érthető kommunikáció (a Közös Európai Referenciakeret szerint nagyjából A1–A2);
+3. egyszerű nyelv, angolul plain language (A2–B1); ezt a skill közérthető szövegnek nevezi;
+4. köznyelv;
+5. szaknyelv.
+
+A két szint tartalmi szabályai nagyrészt egyeznek: egy mondat egy információ, cselekvő ige, állító mondat, mindig ugyanaz a szó, idegen szó és rövidítés helyett magyarázat. A különbség a mértékben és a formában van.
 
 Üveges (2026, 1–2. o.) is két külön regiszterként írja le a kettőt: a közérthető nyelv a pontosság megőrzésével szól a széles közönségnek, a könnyen érthető nyelv erősebben egyszerűsít. Az Inclusion Europe (2012, 5–6. o.) szerint a KÉK szabályai az értelmi fogyatékossággal élő embereknek készültek.
 
