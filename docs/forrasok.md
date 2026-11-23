@@ -1,6 +1,6 @@
 # A felhasznált források
 
-A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy példa került a forrásból a leltárba. Összesen 567 tétel.
+A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy példa került a forrásból a leltárba. Összesen 593 tétel.
 
 ## Elsődleges útmutatók
 
@@ -21,6 +21,7 @@ A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy péld
 | Balogh Dorka: Jogi szövegtípusok és közérthetőség. Glossa Iuridica 10 (2023) 3, 177–196. | A jogi szövegtípusok, és hogy melyikben mit szabad átírni. | 26 | [doi:10.55194/GI.2023.3.10](https://doi.org/10.55194/GI.2023.3.10) |
 | Gerencsér Balázs Szabolcs: Közérthető jogi nyelv (plain language): alkalmazható-e az eredeti modell a mai magyar törvényalkotásban? Parlamenti Szemle 8 (2023) 1, 7–18. | A kötelező és a tájékoztató szöveg elválasztása; olvasói próba 6–9 fővel. | 15 | [Szakcikk Adatbázis](https://szakcikkadatbazis.hu/doc/3232914) |
 | Üveges István: Sentence-level detection of Hungarian plain language with feature-guided augmentation. Language and Cognition 18 (2026), e16. | A mérőszkript korlátai: mit árulnak el a felszíni jegyek a közérthetőségről. | 6 | [doi:10.1017/langcog.2026.10066](https://doi.org/10.1017/langcog.2026.10066) |
+| Pátkai Nándor: A közérthető jogalkotásról – Az általános közigazgatási rendtartás nyelvezete. Magyar Jogi Nyelv 2017/1. | A jogi modul: hogyan tették érthetőbbé az Ákr.-t (ötbekezdéses szabály, legfeljebb három tagmondat, „ha…, akkor…”, köznyelvhez közeli szavak); „végleges” és „jogerős”. | 26 | [Magyar Jogi Nyelv](https://joginyelv.hu/a-kozertheto-jogalkotasrol-az-altalanos-kozigazgatasi-rendtartas-nyelvezete/) |
 
 ## Iránymutatások
 
@@ -48,6 +49,6 @@ A skill ezekre a munkákra épül; a hibák a skill hibái. Köszönet a forrás
 - a Világos Beszédnek, Gergely Verának és Budapest Főváros Főpolgármesteri Hivatalának;
 - a Nemzeti Adó- és Vámhivatal Közérthetőségi Programirodájának;
 - az Európai Bizottság Fordítási Főigazgatóságának;
-- Horváth Péternek, Balogh Dorkának, Gerencsér Balázs Szabolcsnak és Üveges Istvánnak;
+- Horváth Péternek, Balogh Dorkának, Gerencsér Balázs Szabolcsnak, Üveges Istvánnak és Pátkai Nándornak;
 - a 29. cikk szerinti adatvédelmi munkacsoportnak és az Inclusion Europe-nak.
 

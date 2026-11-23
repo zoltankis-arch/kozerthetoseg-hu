@@ -1,0 +1,258 @@
+azonosito = "patkai-2017"
+cim = "A közérthető jogalkotásról – Az általános közigazgatási rendtartás nyelvezete"
+rovid = "Pátkai 2017"
+szerzo = "Pátkai Nándor (Igazságügyi Minisztérium; az Ákr. kodifikációs munkacsoportjának tagja)"
+kiado = "Magyar Jogi Nyelv (ORAC Kiadó)"
+ev = "2017"
+url = "https://joginyelv.hu/a-kozertheto-jogalkotasrol-az-altalanos-kozigazgatasi-rendtartas-nyelvezete/"
+hivatkozas = "Pátkai Nándor: A közérthető jogalkotásról – Az általános közigazgatási rendtartás nyelvezete. Magyar Jogi Nyelv 2017/1. https://joginyelv.hu/a-kozertheto-jogalkotasrol-az-altalanos-kozigazgatasi-rendtartas-nyelvezete/"
+licenc = "Minden jog fenntartva (ORAC Kiadó); nyílt licenc nincs feltüntetve. A leltár saját szavakkal foglal össze, a törvényszövegeket csak megnevezi, szövegrészt nem vesz át."
+kiadas = "A folyóirat webes változata: megjelent 2017. július 3-án, utoljára módosítva 2022. szeptember 30-án; öt számozott fejezet, a 4. fejezetben két alponttal, hét lábjegyzettel."
+feldolgozas_datuma = "2026-11-23"
+oldalszamozas = "a cikk fejezetszáma (a webes változatnak nincs oldalszáma)"
+prioritas = "B"
+feldolgozottsag = "teljes"
+megjegyzes = "A jogi modul (references/jogi.md#akr) forrása: hogyan tették érthetőbbé az Ákr.-t szerkezetben, szóhasználatban és mondatszerkezetben. A szerző a kodifikációs munkacsoport tagja volt, ezért a cikk belső nézőpontból ír a saját munkájáról."
+
+[[fejezet]]
+azonosito = "f01"
+cim = "1. A közérthetőség iránti igény technokrata elhajlása"
+oldal = "1. pont"
+
+[[fejezet]]
+azonosito = "f02"
+cim = "2. A közigazgatási jogi kodifikáció társadalmi szerepe"
+oldal = "2. pont"
+
+[[fejezet]]
+azonosito = "f03"
+cim = "3. A Ket. fogyatékosságai"
+oldal = "3. pont"
+
+[[fejezet]]
+azonosito = "f04"
+cim = "4. Az Ákr. közérthető nyelvezete"
+oldal = "4. pont"
+
+[[fejezet]]
+azonosito = "f05"
+cim = "4.1. Közérthetőség a szerkezet szemszögéből"
+oldal = "4.1. pont"
+
+[[fejezet]]
+azonosito = "f06"
+cim = "4.2. Közérthetőség a szövegezés szempontjából"
+oldal = "4.2. pont"
+
+[[fejezet]]
+azonosito = "f07"
+cim = "5. További feladatok a közérthető közigazgatás megteremtéséhez"
+oldal = "5. pont"
+
+[[tetel]]
+azonosito = "patkai-2017#001"
+fejezet = "f01"
+oldal = "1. pont"
+tipus = "pelda"
+tartalom = "A megkeresést a régi eljárási törvény három, a Ket. tíz bekezdésben szabályozta; az Ákr. 25. §-a két bekezdésben is teljes szabályt ad."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#002"
+fejezet = "f01"
+oldal = "1. pont"
+tipus = "hatter"
+tartalom = "A szövegszerkesztő elterjedésével nőtt a tervezetek terjedelme, a 2000-es évek technokrata szemlélete pedig logikus, de hivatkozási láncokra épülő, a nem jogász olvasónak érthetetlen szöveget hozott, bár a Jszr. 2. §-a közérthető szövegezést ír elő."
+szabalyok = ["K015"]
+
+[[tetel]]
+azonosito = "patkai-2017#003"
+fejezet = "f01"
+oldal = "1. pont"
+tipus = "pelda"
+tartalom = "A szétaprózott szerkesztés és a gyakori módosítás hibát szül: a Ket. egyik bekezdésébe két, eltérő tartalmú n) pont került."
+kihagyva = "Kodifikációs hibapélda; a közérthetőségre szabályt nem ad."
+
+[[tetel]]
+azonosito = "patkai-2017#004"
+fejezet = "f02"
+oldal = "2. pont"
+tipus = "szabaly"
+tartalom = "A közigazgatási eljárás mindenkit érint (anyakönyvezés, személyi okmány), ezért a szabályát nem csak a szakmának, hanem az ügyfelek legszélesebb körének kell érthetőre írni."
+szabalyok = ["K001"]
+
+[[tetel]]
+azonosito = "patkai-2017#005"
+fejezet = "f02"
+oldal = "2. pont"
+tipus = "hatter"
+tartalom = "A 2011-es népszámlálás szerint a 15 évnél idősebbek legnagyobb csoportja (48 százalék) nyolc osztályt végzett, érettségi nélkül; ezért az Ákr.-t úgy írták, hogy általános műveltséggel is érthető legyen."
+szabalyok = ["K001"]
+
+[[tetel]]
+azonosito = "patkai-2017#006"
+fejezet = "f03"
+oldal = "3. pont"
+tipus = "hatter"
+tartalom = "A Ket.-et többször, egymástól függetlenül módosították; 2014-ben a kormány új, radikálisan rövidebb kódexet kért, amit az ágazati szabályok kiszervezésével és a lényegi szabályokra szűkítéssel értek el. Szövegszintű kötöttség nélkül az új kódex egyszerűbben, akár új szavakkal fogalmazhatott."
+kihagyva = "Kodifikációtörténet; szabályt nem ad."
+
+[[tetel]]
+azonosito = "patkai-2017#007"
+fejezet = "f04"
+oldal = "4. pont"
+tipus = "hatter"
+tartalom = "Az Európa Tanács CM/Rec(2007)7 ajánlása (A jó közigazgatás kódexe) szerint a hatóság ügyleírásokat készít, a jogalkotás pedig legyen könnyen érthető és alkalmazható."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#008"
+fejezet = "f04"
+oldal = "4. pont"
+tipus = "hatter"
+tartalom = "Az Ákr. kodifikációját az „üres lap” elve és két vezérelv, a közérthetőség és a tömörség vezette; a szerző szerint a közérthetőséget egyszerre több úton (szerkezet, szóhasználat, mondat) érdemes keresni."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#009"
+fejezet = "f05"
+oldal = "4.1. pont"
+tipus = "hatter"
+tartalom = "A fejezetek egy képzeletbeli eljárás időrendjét követik, mert ez segíti a megértést."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#010"
+fejezet = "f05"
+oldal = "4.1. pont"
+tipus = "pelda"
+tartalom = "Az alcím és az alatta álló egyetlen szakasz azonos címe felesleges; jobb, ha a szakaszcím az alcímhez képest a rész–egész viszonyt mutatja."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#011"
+fejezet = "f05"
+oldal = "4.1. pont"
+tipus = "hatter"
+tartalom = "A szakaszcímet az új Ptk. hozta vissza; az olvasó eligazodását segíti, és a jogintézmény megnevezésével értelmező rendelkezést is pótol."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#012"
+fejezet = "f05"
+oldal = "4.1. pont"
+tipus = "szabaly"
+tartalom = "Egy szakaszban legfeljebb öt részegység (bekezdés) legyen („ötbekezdéses szabály”); az Ákr. 14 helyen tér el tőle."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#013"
+fejezet = "f05"
+oldal = "4.1. pont"
+tipus = "pelda"
+tartalom = "A szakasz bekezdései főszabály, kivétel, kiegészítés sorrendben állnak (Ákr. 79. §, a hatósági tanúról)."
+szabalyok = ["K011"]
+
+[[tetel]]
+azonosito = "patkai-2017#014"
+fejezet = "f05"
+oldal = "4.1. pont"
+tipus = "szabaly"
+tartalom = "Felsorolásban legfeljebb hat-hét pont legyen; kivétel, ha a szétbontás éppen az áttekinthetőséget rontaná (az önállóan fellebbezhető végzések listája)."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#015"
+fejezet = "f05"
+oldal = "4.1. pont"
+tipus = "pelda"
+tartalom = "A kétféle tanúzási akadály egy szakaszban, két külön bekezdésben, pontokba szedve áll (Ákr. 66. § (2)–(3))."
+szabalyok = ["K013"]
+
+[[tetel]]
+azonosito = "patkai-2017#016"
+fejezet = "f05"
+oldal = "4.1. pont"
+tipus = "szabaly"
+tartalom = "Az Ákr. szándékosan nem használ értelmező rendelkezést, mert a módosításokkal szótárrá dagadhat; elrettentő példa a „hét” szó meghatározása a közúti közlekedési törvényben."
+referencia = "references/jogi.md#akr"
+
+[[tetel]]
+azonosito = "patkai-2017#017"
+fejezet = "f06"
+oldal = "4.2. pont"
+tipus = "szabaly"
+tartalom = "A jogi nyelv távolodása a köznyelvtől szükségszerű, de nem támogatandó; az Ákr. nem tartalmaz latin és más idegen eredetű kifejezést, és kerüli a dogmatikai, tankönyvi fogalmakat."
+szabalyok = ["K029", "K032"]
+
+[[tetel]]
+azonosito = "patkai-2017#018"
+fejezet = "f06"
+oldal = "4.2. pont"
+tipus = "pelda"
+tartalom = "Szócserék a köznyelv felé: „szankció” helyett „jogkövetkezmény” (megnevezve, miből következik); a tükörfordítás helyett a régi magyar jogi nyelv szavai („rendtartás”, „sommás eljárás”)."
+szabalyok = ["K032"]
+
+[[tetel]]
+azonosito = "patkai-2017#019"
+fejezet = "f06"
+oldal = "4.2. pont"
+tipus = "pelda"
+tartalom = "A körülírás helyett egy szó: a kérelem érdemi vizsgálat nélküli elutasítása helyett „visszautasítás”."
+szabalyok = ["K036"]
+
+[[tetel]]
+azonosito = "patkai-2017#020"
+fejezet = "f06"
+oldal = "4.2. pont"
+tipus = "pelda"
+tartalom = "A „saját maga” fordulat helyett toldalékos alak („hatósági ellenőrzését”); a „saját” szó semmit nem tesz hozzá a jelentéshez."
+szabalyok = ["K035"]
+
+[[tetel]]
+azonosito = "patkai-2017#021"
+fejezet = "f06"
+oldal = "4.2. pont"
+tipus = "meghatarozas"
+tartalom = "A hatósági döntésnél az Ákr. a nehezen érthető, tükörfordításból eredő „jogerő” helyett a „döntés véglegessége” fogalmat használja; a jogerő a bírósági döntéshez tartozik."
+referencia = "references/jogi.md#fogalomutkozesek"
+
+[[tetel]]
+azonosito = "patkai-2017#022"
+fejezet = "f06"
+oldal = "4.2. pont"
+tipus = "pelda"
+tartalom = "Generálklauzula: a végrehajtható döntés négy esetét felsoroló Ket.-szabály helyett az Ákr. 132. §-a egyetlen, tizennégy szavas mondat, amely minden esetet lefed."
+szabalyok = ["K005"]
+
+[[tetel]]
+azonosito = "patkai-2017#023"
+fejezet = "f06"
+oldal = "4.2. pont"
+tipus = "szabaly"
+tartalom = "Egy mondat legfeljebb három tagmondatból álljon, mert több tagmondatnál a logikai kapcsolatok követhetetlenné válnak."
+szabalyok = ["K023"]
+
+[[tetel]]
+azonosito = "patkai-2017#024"
+fejezet = "f06"
+oldal = "4.2. pont"
+tipus = "szabaly"
+tartalom = "A feltételhez kötött cselekményt mindig feltétel–következmény sorrendben, „ha…, (akkor)…” szerkezettel fogalmazd meg (Ákr. 120. § (1), 110. § (2))."
+szabalyok = ["K022"]
+
+[[tetel]]
+azonosito = "patkai-2017#025"
+fejezet = "f07"
+oldal = "5. pont"
+tipus = "hatter"
+tartalom = "A jó törvény önmagában nem hoz jó jogalkalmazást: a többoldalas döntéssablonokat és a csak a harmadik oldalon érdemben kezdődő jegyzőkönyveket a jogalkalmazónak kell átdolgoznia."
+szabalyok = ["K078"]
+
+[[tetel]]
+azonosito = "patkai-2017#026"
+fejezet = "f07"
+oldal = "5. pont"
+tipus = "pelda"
+tartalom = "Az ügyfelek nem a jogszabályból, hanem az ügyleírásokból tájékozódnak; két óvodáztatási támogatásról szóló ügyleírás-részlet mondat közepére ékelt jogszabályhelyekkel, amelyből a legfeljebb nyolc osztályt végzett ügyfél valószínűleg nem kap segítséget."
+szabalyok = ["K012", "K024"]

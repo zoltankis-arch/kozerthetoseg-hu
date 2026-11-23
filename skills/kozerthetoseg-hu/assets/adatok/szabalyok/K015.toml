@@ -11,6 +11,7 @@ sulyossag = "kozepes"
 forrasok = [
   "kozerthetofogalmazas-2015#025",
   "nav-ertheto-hivatal-2#029",
+  "patkai-2017#002",
   "vilagos-beszed-kezikonyv-2025#039",
 ]
 kivetelek = ["Hosszú dokumentumban az összefoglaló utalhat a részletes fejezetre."]

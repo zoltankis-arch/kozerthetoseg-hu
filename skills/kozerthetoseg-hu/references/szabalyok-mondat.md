@@ -77,7 +77,7 @@ Ellenőrző kérdés: A feltételes mondatok a feltétellel kezdődnek?
 
 Kör: általános. Alapértelmezett súlyosság: magas. Ellenőrzés: olvasva.
 
-Források: [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-027); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-059); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-035); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-060); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-070).
+Források: [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-027); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-059); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-035); [Pátkai 2017, 4.2. pont](forrasok.md#patkai-2017-024); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-060); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-070).
 
 <a id="k023"></a>
 
@@ -98,7 +98,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): mondathossz, huspacy.
 
-Források: [Balogh 2023, 186–187. o.](forrasok.md#balogh-2023-014); [Gerencsér 2023, 13–14. o.](forrasok.md#gerencser-2023-005); [Horváth 2021, 110. o.](forrasok.md#horvath-2021-023); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-048); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-036); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [WP260 2018, 9. o.](forrasok.md#wp260-2018-005).
+Források: [Balogh 2023, 186–187. o.](forrasok.md#balogh-2023-014); [Gerencsér 2023, 13–14. o.](forrasok.md#gerencser-2023-005); [Horváth 2021, 110. o.](forrasok.md#horvath-2021-023); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-048); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-036); [Pátkai 2017, 4.2. pont](forrasok.md#patkai-2017-023); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [WP260 2018, 9. o.](forrasok.md#wp260-2018-005).
 
 Ha a források eltérnek: A NAV a kettőnél több tagmondatú mondatot bontaná, a Világos Beszéd kézikönyve legfeljebb három tagmondatot enged egy mondatban. A skill döntése: A skill már a kettőnél több tagmondatú mondatot is jelöli, de csak megvizsgálandó jelöltként: a kivétel szerint az összetett mondat maradhat, ha a bontás rontana rajta. Ok: a jelölés csak figyelmeztet, a bontásról az író dönt a szöveg ismeretében. ([Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-036))
 
@@ -117,7 +117,7 @@ Ellenőrző kérdés: Egyetlen mondatot sem szakít meg zárójeles vagy gondola
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): zarojelmelyseg.
 
-Források: [Balogh 2023, 186–187. o.](forrasok.md#balogh-2023-014); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-036); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-068); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-028).
+Források: [Balogh 2023, 186–187. o.](forrasok.md#balogh-2023-014); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-036); [Pátkai 2017, 5. pont](forrasok.md#patkai-2017-026); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-068); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-028).
 
 <a id="k025"></a>
 

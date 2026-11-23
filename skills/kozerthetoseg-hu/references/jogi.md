@@ -38,6 +38,27 @@ Gerencsér (2023, 17–18. o.) megjegyzi, hogy az eljárási törvények nem ír
 
 A Kúria Kfv.I.35.067/2025/9. számú, ezt az alapelvet értelmező döntésének szövegét a v1.0.0 nem dolgozta fel, ezért a skill a tartalmára nem hivatkozik. Feldolgozása nyitott feladat.
 
+<a id="akr"></a>
+
+## Közigazgatási eljárás: az Ákr. kodifikációs elvei
+
+Pátkai Nándor, az általános közigazgatási rendtartás (Ákr.) kodifikációs munkacsoportjának tagja, leírta, milyen eszközökkel tették érthetőbbé a törvényt (Pátkai 2017). Az eszközök jogszabály tervezetére valók, de belső szabályzatnál, szerződésnél és ügyleírásnál is hasznosak. A skill ajánlásként alkalmazza őket, a kész jogszabály szövegét nem írja át.
+
+- Az olvasó: a közigazgatási eljárás mindenkit érint, ezért a szabályt az ügyfelek legszélesebb körének kell érthetőre írni, nem csak a szakmának. A 2011-es népszámlálás szerint a 15 évnél idősebbek legnagyobb csoportja nyolc osztályt végzett, érettségi nélkül (2. pont; K001).
+- Háttér: az Európa Tanács CM/Rec(2007)7 ajánlása szerint a hatóság ügyleírásokat készít, és a jogalkotás könnyen érthető és alkalmazható (4. pont).
+- Két vezérelv, a közérthetőség és a tömörség; a szerkezet, a szóhasználat és a mondatszerkezet egyszerre szolgálja őket (4. pont).
+- A fejezetek egy képzeletbeli eljárás időrendjét követik (4.1. pont).
+- Az alcím és az alatta álló egyetlen szakasz címe ne legyen azonos; a szakaszcím mutassa meg, hogyan viszonyul a részlet az egészhez (4.1. pont).
+- A szakaszcím az olvasó eligazodását segíti, és a jogintézmény megnevezésével értelmező rendelkezést is pótol (4.1. pont).
+- Ötbekezdéses szabály: egy szakaszban legfeljebb öt bekezdés vagy más részegység legyen; a bekezdések sorrendje főszabály, kivétel, kiegészítés (4.1. pont; K011).
+- Felsorolásban legfeljebb hat-hét pont legyen, kivéve, ha a szétbontás éppen az áttekinthetőséget rontaná (4.1. pont; K013).
+- Értelmező rendelkezést az Ákr. szándékosan nem használ, mert a későbbi módosításokkal szótárrá dagadhat; elrettentő példa a „hét” szó meghatározása egy közlekedési törvényben (4.1. pont).
+- Tömörség generálklauzulával: a végrehajtható döntés négy esetét felsoroló régi szabály helyett egyetlen, tizennégy szavas mondat (Ákr. 132. §; 4.2. pont; K005).
+- Legfeljebb három tagmondat egy mondatban (4.2. pont; K023), és feltétel–következmény sorrend, „ha…, (akkor)…” szerkezettel (4.2. pont; K022).
+- Latin és más idegen eredetű szó, valamint tankönyvi fogalom helyett köznyelvhez közeli magyar szó, akár a régi magyar jogi nyelvből („rendtartás”, „sommás eljárás”, „jogkövetkezmény” a „szankció” helyett) (4.2. pont; K032).
+
+A szerző figyelmeztet: a jó törvény önmagában nem hoz jó jogalkalmazást. A régi iratmintákat és ügyleírásokat is át kell dolgozni (5. pont; K078).
+
 <a id="gdpr"></a>
 
 ## Adatkezelési tájékoztató: GDPR 12. cikk és WP260
@@ -78,10 +99,13 @@ A Magyar Nemzeti Bank 9/2020. (VII. 14.) számú, a fogyasztóvédelmi elvekről
 
 A szabvány fizetős; a skill csak nyilvános összefoglalók szintjén hivatkozhatna rá. Nyilvános összefoglalót a v1.0.0 nem dolgozott fel, ezért a négy célját itt nem ismerteti. Feldolgozása nyitott feladat; erre az International Plain Language Federation nyilvános összefoglalói alkalmasak.
 
+<a id="fogalomutkozesek"></a>
+
 ## Fogalomütközések
 
 Egyes jogi kifejezések a köznyelvben vagy más jogterületen mást jelentenek. Ha a szöveg ilyet használ, a skill jelzi, és magyarázatot javasol (K030, K031, K034):
 
 - „általános szerződési feltételek”: a Ptk.-ban az egyoldalúan, előre meghatározott szerződési feltétel (ÁSZF); az uniós adattovábbítási szóhasználatban a Bizottság által elfogadott mintafeltételeket is így nevezik. Adatkezelési tájékoztatóban ezért mindig meg kell mondani, melyikről van szó.
 - „megkeresés”: hatósági eljárásban egy szerv másik szervhez intézett hivatalos kérése; ügyfélkapcsolatban az ügyfél jelentkezése. Ha mindkét értelem előfordulhat, az egyiket más szóval kell megnevezni.
+- „jogerős” és „végleges”: az Ákr. hatálya alá tartozó hatósági döntésnél a „végleges” a helyes szó, a „jogerő” a bírósági döntéshez tartozik (Pátkai 2017, 4.2. pont). Régi sablonban a skill jelzi, ha hatósági döntést „jogerős”-nek nevez, de a cserét jogásznak kell jóváhagynia, mert a két fogalom joghatása eltér.
 - „kézbesítés”, „kézhezvétel”, „közlés”: a határidő kezdete ezektől függ; átírásnál a skill nem cseréli fel őket, és a hűségtáblázatban külön ellenőrzi.

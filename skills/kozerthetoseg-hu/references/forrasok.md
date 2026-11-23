@@ -24,6 +24,7 @@ A skill szabályai az alábbi forrásokra épülnek. Minden forrásnál a biblio
 | [WP260 2018](#wp260-2018) Iránymutatás az (EU) 2016/679 rendelet szerinti átláthatóságról (WP260 rev.01) | A | 16 |
 | [EUB C-26/13](#eub-c-26-13-2014) Kásler és Káslerné Rábai ítélet (C-26/13) | B | 2 |
 | [Inclusion Europe 2012](#inclusion-europe-2012) Információ mindenkinek. A könnyen érthető kommunikáció európai alapelvei | B | 9 |
+| [Pátkai 2017](#patkai-2017) A közérthető jogalkotásról – Az általános közigazgatási rendtartás nyelvezete | B | 26 |
 
 <a id="air-2017"></a>
 
@@ -1501,3 +1502,78 @@ Nincs leltártétel. Ok: Üres jegyzetoldal és kiadói adatok; írási szabály
 | <a id="inclusion-europe-2012-007"></a>007 | 17 | szabály | Minden mondat új sorban kezdődjön, egy mondat lehetőleg egy sor legyen, szóelválasztás nélkül; a sortörés ott legyen, ahol szünetet lehet tartani. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
 | <a id="inclusion-europe-2012-008"></a>008 | 19 | szabály | Balra zárt, nem sorkizárt szöveg; felsorolás pontokkal; nincs hasáb, nincs behúzás. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
 | <a id="inclusion-europe-2012-009"></a>009 | 20–22 | szabály | Képek a szöveg mellett, egyféle képtípussal; az elkészült anyagon a könnyen érthető kommunikáció európai logója. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
+
+<a id="patkai-2017"></a>
+
+## Pátkai 2017: A közérthető jogalkotásról – Az általános közigazgatási rendtartás nyelvezete
+
+- Azonosító: `patkai-2017`
+- Hivatkozás: Pátkai Nándor: A közérthető jogalkotásról – Az általános közigazgatási rendtartás nyelvezete. Magyar Jogi Nyelv 2017/1. https://joginyelv.hu/a-kozertheto-jogalkotasrol-az-altalanos-kozigazgatasi-rendtartas-nyelvezete/
+- Elérhetőség: https://joginyelv.hu/a-kozertheto-jogalkotasrol-az-altalanos-kozigazgatasi-rendtartas-nyelvezete/
+- Felhasználási feltétel: Minden jog fenntartva (ORAC Kiadó); nyílt licenc nincs feltüntetve. A leltár saját szavakkal foglal össze, a törvényszövegeket csak megnevezi, szövegrészt nem vesz át.
+- Feldolgozott kiadás: A folyóirat webes változata: megjelent 2017. július 3-án, utoljára módosítva 2022. szeptember 30-án; öt számozott fejezet, a 4. fejezetben két alponttal, hét lábjegyzettel.
+- Oldalszámozás a leltárban: a cikk fejezetszáma (a webes változatnak nincs oldalszáma)
+- Feldolgozva: 2026-11-23, teljesen
+- Prioritás: B
+- Megjegyzés: A jogi modul (references/jogi.md#akr) forrása: hogyan tették érthetőbbé az Ákr.-t szerkezetben, szóhasználatban és mondatszerkezetben. A szerző a kodifikációs munkacsoport tagja volt, ezért a cikk belső nézőpontból ír a saját munkájáról.
+
+### 1. A közérthetőség iránti igény technokrata elhajlása (1. pont)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="patkai-2017-001"></a>001 | 1. pont | előtte–utána példa | A megkeresést a régi eljárási törvény három, a Ket. tíz bekezdésben szabályozta; az Ákr. 25. §-a két bekezdésben is teljes szabályt ad. | [jogi.md#akr](jogi.md#akr) |
+| <a id="patkai-2017-002"></a>002 | 1. pont | háttér | A szövegszerkesztő elterjedésével nőtt a tervezetek terjedelme, a 2000-es évek technokrata szemlélete pedig logikus, de hivatkozási láncokra épülő, a nem jogász olvasónak érthetetlen szöveget hozott, bár a Jszr. 2. §-a közérthető szövegezést ír elő. | [K015](szabalyok.md#k015) |
+| <a id="patkai-2017-003"></a>003 | 1. pont | előtte–utána példa | A szétaprózott szerkesztés és a gyakori módosítás hibát szül: a Ket. egyik bekezdésébe két, eltérő tartalmú n) pont került. | kihagyva: Kodifikációs hibapélda; a közérthetőségre szabályt nem ad. |
+
+### 2. A közigazgatási jogi kodifikáció társadalmi szerepe (2. pont)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="patkai-2017-004"></a>004 | 2. pont | szabály | A közigazgatási eljárás mindenkit érint (anyakönyvezés, személyi okmány), ezért a szabályát nem csak a szakmának, hanem az ügyfelek legszélesebb körének kell érthetőre írni. | [K001](szabalyok.md#k001) |
+| <a id="patkai-2017-005"></a>005 | 2. pont | háttér | A 2011-es népszámlálás szerint a 15 évnél idősebbek legnagyobb csoportja (48 százalék) nyolc osztályt végzett, érettségi nélkül; ezért az Ákr.-t úgy írták, hogy általános műveltséggel is érthető legyen. | [K001](szabalyok.md#k001) |
+
+### 3. A Ket. fogyatékosságai (3. pont)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="patkai-2017-006"></a>006 | 3. pont | háttér | A Ket.-et többször, egymástól függetlenül módosították; 2014-ben a kormány új, radikálisan rövidebb kódexet kért, amit az ágazati szabályok kiszervezésével és a lényegi szabályokra szűkítéssel értek el. Szövegszintű kötöttség nélkül az új kódex egyszerűbben, akár új szavakkal fogalmazhatott. | kihagyva: Kodifikációtörténet; szabályt nem ad. |
+
+### 4. Az Ákr. közérthető nyelvezete (4. pont)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="patkai-2017-007"></a>007 | 4. pont | háttér | Az Európa Tanács CM/Rec(2007)7 ajánlása (A jó közigazgatás kódexe) szerint a hatóság ügyleírásokat készít, a jogalkotás pedig legyen könnyen érthető és alkalmazható. | [jogi.md#akr](jogi.md#akr) |
+| <a id="patkai-2017-008"></a>008 | 4. pont | háttér | Az Ákr. kodifikációját az „üres lap” elve és két vezérelv, a közérthetőség és a tömörség vezette; a szerző szerint a közérthetőséget egyszerre több úton (szerkezet, szóhasználat, mondat) érdemes keresni. | [jogi.md#akr](jogi.md#akr) |
+
+### 4.1. Közérthetőség a szerkezet szemszögéből (4.1. pont)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="patkai-2017-009"></a>009 | 4.1. pont | háttér | A fejezetek egy képzeletbeli eljárás időrendjét követik, mert ez segíti a megértést. | [jogi.md#akr](jogi.md#akr) |
+| <a id="patkai-2017-010"></a>010 | 4.1. pont | előtte–utána példa | Az alcím és az alatta álló egyetlen szakasz azonos címe felesleges; jobb, ha a szakaszcím az alcímhez képest a rész–egész viszonyt mutatja. | [jogi.md#akr](jogi.md#akr) |
+| <a id="patkai-2017-011"></a>011 | 4.1. pont | háttér | A szakaszcímet az új Ptk. hozta vissza; az olvasó eligazodását segíti, és a jogintézmény megnevezésével értelmező rendelkezést is pótol. | [jogi.md#akr](jogi.md#akr) |
+| <a id="patkai-2017-012"></a>012 | 4.1. pont | szabály | Egy szakaszban legfeljebb öt részegység (bekezdés) legyen („ötbekezdéses szabály”); az Ákr. 14 helyen tér el tőle. | [jogi.md#akr](jogi.md#akr) |
+| <a id="patkai-2017-013"></a>013 | 4.1. pont | előtte–utána példa | A szakasz bekezdései főszabály, kivétel, kiegészítés sorrendben állnak (Ákr. 79. §, a hatósági tanúról). | [K011](szabalyok.md#k011) |
+| <a id="patkai-2017-014"></a>014 | 4.1. pont | szabály | Felsorolásban legfeljebb hat-hét pont legyen; kivétel, ha a szétbontás éppen az áttekinthetőséget rontaná (az önállóan fellebbezhető végzések listája). | [jogi.md#akr](jogi.md#akr) |
+| <a id="patkai-2017-015"></a>015 | 4.1. pont | előtte–utána példa | A kétféle tanúzási akadály egy szakaszban, két külön bekezdésben, pontokba szedve áll (Ákr. 66. § (2)–(3)). | [K013](szabalyok.md#k013) |
+| <a id="patkai-2017-016"></a>016 | 4.1. pont | szabály | Az Ákr. szándékosan nem használ értelmező rendelkezést, mert a módosításokkal szótárrá dagadhat; elrettentő példa a „hét” szó meghatározása a közúti közlekedési törvényben. | [jogi.md#akr](jogi.md#akr) |
+
+### 4.2. Közérthetőség a szövegezés szempontjából (4.2. pont)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="patkai-2017-017"></a>017 | 4.2. pont | szabály | A jogi nyelv távolodása a köznyelvtől szükségszerű, de nem támogatandó; az Ákr. nem tartalmaz latin és más idegen eredetű kifejezést, és kerüli a dogmatikai, tankönyvi fogalmakat. | [K029](szabalyok.md#k029), [K032](szabalyok.md#k032) |
+| <a id="patkai-2017-018"></a>018 | 4.2. pont | előtte–utána példa | Szócserék a köznyelv felé: „szankció” helyett „jogkövetkezmény” (megnevezve, miből következik); a tükörfordítás helyett a régi magyar jogi nyelv szavai („rendtartás”, „sommás eljárás”). | [K032](szabalyok.md#k032) |
+| <a id="patkai-2017-019"></a>019 | 4.2. pont | előtte–utána példa | A körülírás helyett egy szó: a kérelem érdemi vizsgálat nélküli elutasítása helyett „visszautasítás”. | [K036](szabalyok.md#k036) |
+| <a id="patkai-2017-020"></a>020 | 4.2. pont | előtte–utána példa | A „saját maga” fordulat helyett toldalékos alak („hatósági ellenőrzését”); a „saját” szó semmit nem tesz hozzá a jelentéshez. | [K035](szabalyok.md#k035) |
+| <a id="patkai-2017-021"></a>021 | 4.2. pont | meghatározás | A hatósági döntésnél az Ákr. a nehezen érthető, tükörfordításból eredő „jogerő” helyett a „döntés véglegessége” fogalmat használja; a jogerő a bírósági döntéshez tartozik. | [jogi.md#fogalomutkozesek](jogi.md#fogalomutkozesek) |
+| <a id="patkai-2017-022"></a>022 | 4.2. pont | előtte–utána példa | Generálklauzula: a végrehajtható döntés négy esetét felsoroló Ket.-szabály helyett az Ákr. 132. §-a egyetlen, tizennégy szavas mondat, amely minden esetet lefed. | [K005](szabalyok.md#k005) |
+| <a id="patkai-2017-023"></a>023 | 4.2. pont | szabály | Egy mondat legfeljebb három tagmondatból álljon, mert több tagmondatnál a logikai kapcsolatok követhetetlenné válnak. | [K023](szabalyok.md#k023) |
+| <a id="patkai-2017-024"></a>024 | 4.2. pont | szabály | A feltételhez kötött cselekményt mindig feltétel–következmény sorrendben, „ha…, (akkor)…” szerkezettel fogalmazd meg (Ákr. 120. § (1), 110. § (2)). | [K022](szabalyok.md#k022) |
+
+### 5. További feladatok a közérthető közigazgatás megteremtéséhez (5. pont)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="patkai-2017-025"></a>025 | 5. pont | háttér | A jó törvény önmagában nem hoz jó jogalkalmazást: a többoldalas döntéssablonokat és a csak a harmadik oldalon érdemben kezdődő jegyzőkönyveket a jogalkalmazónak kell átdolgoznia. | [K078](szabalyok.md#k078) |
+| <a id="patkai-2017-026"></a>026 | 5. pont | előtte–utána példa | Az ügyfelek nem a jogszabályból, hanem az ügyleírásokból tájékozódnak; két óvodáztatási támogatásról szóló ügyleírás-részlet mondat közepére ékelt jogszabályhelyekkel, amelyből a legfeljebb nyolc osztályt végzett ügyfél valószínűleg nem kap segítséget. | [K012](szabalyok.md#k012), [K024](szabalyok.md#k024) |

@@ -91,7 +91,7 @@ Ellenőrző kérdés: A régi sablont és az átvett részt a mostani helyzethez
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-018).
+Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-018); [Pátkai 2017, 5. pont](forrasok.md#patkai-2017-025).
 
 <a id="k083"></a>
 
