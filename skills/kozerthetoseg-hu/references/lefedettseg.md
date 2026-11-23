@@ -25,7 +25,8 @@ Ez a fájl gépileg mutatja meg, hogy a forrásleltár minden tétele célba ér
 | [EUB C-26/13](forrasok.md#eub-c-26-13-2014) | 2 | 2 | 2 | 0 | 0 | 0 |
 | [Inclusion Europe 2012](forrasok.md#inclusion-europe-2012) | 9 | 0 | 0 | 9 | 0 | 0 |
 | [Pátkai 2017](forrasok.md#patkai-2017) | 26 | 14 | 14 | 10 | 2 | 0 |
-| Összesen | 593 | 469 | 447 | 68 | 56 | 0 |
+| [Gönczi 2025](forrasok.md#gonczi-kek-modszertan-2025) | 10 | 0 | 0 | 8 | 2 | 0 |
+| Összesen | 603 | 469 | 447 | 76 | 58 | 0 |
 
 ## Fejezetek
 
@@ -246,6 +247,19 @@ Részlegesen feldolgozott forrás: csak az alábbi fejezetek kerültek leltárba
 - 4.1. Közérthetőség a szerkezet szemszögéből (4.1. pont): 8 tétel
 - 4.2. Közérthetőség a szövegezés szempontjából (4.2. pont): 8 tétel
 - 5. További feladatok a közérthető közigazgatás megteremtéséhez (5. pont): 2 tétel
+
+### Gönczi 2025
+
+- A könnyen érthető kommunikáció fajtái; elsődleges és másodlagos szöveg (Könnyen érthető kommunikáció fajtái): 1 tétel
+- A könnyen érthető kommunikáció helye a nyelven belüli kommunikációs szintek között (táblázat): 1 tétel
+- A szint kiválasztásának szempontjai (Könnyen érthető kommunikáció szintjének kiválasztási szempontjai): 1 tétel
+- A mondattani szintek (A könnyen érthető kommunikáció szintjei mondattani szempontból): 2 tétel
+- A képi támogatás fokozatai (témaorientáló képek): 1 tétel
+- Alapelvek (Könnyen érthető kommunikáció alapelvei): 1 tétel
+- Tartalmi szabályok (Tartalmi szabályok): 2 tétel
+- Formai szabályok (Formai szabályok): 1 tétel
+- Szabályok Advent időszakban (Szabályok Advent időszakban): nincs tétel. Képes plakátsorozat az előző szabályokról; új tételt nem ad.
+- Felhasznált és további irodalom (Felhasznált irodalom): nincs tétel. Irodalomjegyzék; a felsorolt művek közül az Inclusion Europe alapelvei külön forrásként szerepelnek (inclusion-europe-2012).
 
 ## Szabályok forrásai
 

@@ -25,6 +25,7 @@ A skill szabályai az alábbi forrásokra épülnek. Minden forrásnál a biblio
 | [EUB C-26/13](#eub-c-26-13-2014) Kásler és Káslerné Rábai ítélet (C-26/13) | B | 2 |
 | [Inclusion Europe 2012](#inclusion-europe-2012) Információ mindenkinek. A könnyen érthető kommunikáció európai alapelvei | B | 9 |
 | [Pátkai 2017](#patkai-2017) A közérthető jogalkotásról – Az általános közigazgatási rendtartás nyelvezete | B | 26 |
+| [Gönczi 2025](#gonczi-kek-modszertan-2025) Módszertan – Könnyen érthető kommunikáció alkalmazásához kapcsolódó módszertani ismeretek | C | 10 |
 
 <a id="air-2017"></a>
 
@@ -1577,3 +1578,75 @@ Nincs leltártétel. Ok: Üres jegyzetoldal és kiadói adatok; írási szabály
 |---|---|---|---|---|
 | <a id="patkai-2017-025"></a>025 | 5. pont | háttér | A jó törvény önmagában nem hoz jó jogalkalmazást: a többoldalas döntéssablonokat és a csak a harmadik oldalon érdemben kezdődő jegyzőkönyveket a jogalkalmazónak kell átdolgoznia. | [K078](szabalyok.md#k078) |
 | <a id="patkai-2017-026"></a>026 | 5. pont | előtte–utána példa | Az ügyfelek nem a jogszabályból, hanem az ügyleírásokból tájékozódnak; két óvodáztatási támogatásról szóló ügyleírás-részlet mondat közepére ékelt jogszabályhelyekkel, amelyből a legfeljebb nyolc osztályt végzett ügyfél valószínűleg nem kap segítséget. | [K012](szabalyok.md#k012), [K024](szabalyok.md#k024) |
+
+<a id="gonczi-kek-modszertan-2025"></a>
+
+## Gönczi 2025: Módszertan – Könnyen érthető kommunikáció alkalmazásához kapcsolódó módszertani ismeretek
+
+- Azonosító: `gonczi-kek-modszertan-2025`
+- Hivatkozás: Módszertan. Könnyen érthető kommunikáció alkalmazásához kapcsolódó módszertani ismeretek. Könnyen érthető kommunikáció – Könnyen érthető élet webhely, utolsó módosítás 2025. november 27. https://konnyenertheto.gonczirita.hu/ismeret/modszertan/ Forrásai többek között: Farkasné Gönczi Rita (2018, 2021) és Hansen-Schirra–Maaß (2020).
+- Elérhetőség: https://konnyenertheto.gonczirita.hu/ismeret/modszertan/
+- Felhasználási feltétel: Minden jog fenntartva; a lábléc szerint a szövegek a szerző engedélye nélkül nem terjeszthetők. A leltár saját szavakkal, röviden foglal össze, szövegrészt nem vesz át.
+- Feldolgozott kiadás: Egyetlen weboldal a 2026. november 23-i állapot szerint (utolsó módosítás: 2025. november 27.), táblázattal és irodalomjegyzékkel.
+- Oldalszámozás a leltárban: az oldal szakaszcíme (a weboldalnak nincs oldalszáma)
+- Feldolgozva: 2026-11-23, teljesen
+- Prioritás: C
+- Megjegyzés: A skill a könnyen érthető kommunikációt (KÉK) csak felismeri, nem valósítja meg; a forrás a KÉK-határ (references/kek-hatar.md) hazai, magyar nyelvtanra szabott alátámasztása. Az oldal táblázata a „plain language” megfelelőjeként az „egyszerű nyelv” kifejezést használja; ezt a skill közérthető szövegnek nevezi.
+
+### A könnyen érthető kommunikáció fajtái; elsődleges és másodlagos szöveg (Könnyen érthető kommunikáció fajtái)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="gonczi-kek-modszertan-2025-001"></a>001 | Könnyen érthető kommunikáció fajtái | meghatározás | A könnyen érthető kommunikáció lehet írott, videós, hang- és online információ; a szöveg elsődleges, ha eleve így készül, és másodlagos, ha meglévő szöveg fordítása. | kihagyva: A KÉK-szöveg fajtái; a skill KÉK-szöveget nem készít. |
+
+### A könnyen érthető kommunikáció helye a nyelven belüli kommunikációs szintek között (táblázat)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="gonczi-kek-modszertan-2025-002"></a>002 | táblázat | meghatározás | A nyelven belüli kommunikáció öt szintje: kiegészítő és alternatív kommunikáció, könnyen érthető kommunikáció (KER A1–A2), egyszerű nyelv, azaz plain language (A2–B1), köznyelv, szaknyelv; a KÉK tehát a közérthető szöveg alatti szint. | [kek-hatar.md#kulonbseg](kek-hatar.md#kulonbseg) |
+
+### A szint kiválasztásának szempontjai (Könnyen érthető kommunikáció szintjének kiválasztási szempontjai)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="gonczi-kek-modszertan-2025-003"></a>003 | Könnyen érthető kommunikáció szintjének kiválasztási szempontjai | ellenőrzőlista-pont | A KÉK-szint kiválasztását öt kérdés segíti: ki tájékoztat, kinek, miről, melyik szinten és milyen eszközzel. | kihagyva: A KÉK-szint megválasztása KÉK-szakember dolga; a skill csak azt mondja ki, hogy KÉK kell. |
+
+### A mondattani szintek (A könnyen érthető kommunikáció szintjei mondattani szempontból)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="gonczi-kek-modszertan-2025-004"></a>004 | A könnyen érthető kommunikáció szintjei mondattani szempontból | szabály | A KÉK 2. szintjén a leghosszabb egyszerű mondat is legfeljebb 8 szó, az összetett mondat legfeljebb két tagmondat, a többszörösen összetett mondatot külön egyszerű mondatokra kell bontani. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
+| <a id="gonczi-kek-modszertan-2025-005"></a>005 | A könnyen érthető kommunikáció szintjei mondattani szempontból | szabály | Az összetett mondatban utalószó és mutató névmás helyett valódi kötőszó álljon (például „hogy”), a főmondat előzze meg a mellékmondatot, és a kötőszó egyszavas legyen. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
+
+### A képi támogatás fokozatai (témaorientáló képek)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="gonczi-kek-modszertan-2025-006"></a>006 | témaorientáló képek | háttér | A képek hat fokozatban támogathatják a szöveget: képsorozattól, egy kép egy mondat párosításon át a kép nélküli szövegig. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
+
+### Alapelvek (Könnyen érthető kommunikáció alapelvei)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="gonczi-kek-modszertan-2025-007"></a>007 | Könnyen érthető kommunikáció alapelvei | szabály | Tudd, kinek és milyen formában készül a szöveg, és a kidolgozásba vonj be értelmi fogyatékossággal élő embert. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
+
+### Tartalmi szabályok (Tartalmi szabályok)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="gonczi-kek-modszertan-2025-008"></a>008 | Tartalmi szabályok | szabály | A tartalmi szabályok (lényegre törő fogalmazás, egy mondat egy információ, cselekvő ige, állító szerkezet, mindig ugyanaz a szó, idegen szó és rövidítés helyett magyarázat, azonos téma egy helyen) nagyrészt a közérthető szöveg szabályai is. | [kek-hatar.md#kulonbseg](kek-hatar.md#kulonbseg) |
+| <a id="gonczi-kek-modszertan-2025-009"></a>009 | Tartalmi szabályok | szabály | Arab számot használj, római számot ne. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
+
+### Formai szabályok (Formai szabályok)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="gonczi-kek-modszertan-2025-010"></a>010 | Formai szabályok | szabály | Formai szabályok: egyetlen, könnyen olvasható betűtípus legalább 14-es méretben, dőlt, árnyékolt és csupa nagybetűs szó nélkül; minden mondat új sorban, központozás és zárójel nélkül, kevés szöveg egy oldalon, a fontos információ elöl, kép vagy szimbólum a szöveg mellett. | [kek-hatar.md#mi-mas](kek-hatar.md#mi-mas) |
+
+### Szabályok Advent időszakban (Szabályok Advent időszakban)
+
+Nincs leltártétel. Ok: Képes plakátsorozat az előző szabályokról; új tételt nem ad.
+
+### Felhasznált és további irodalom (Felhasznált irodalom)
+
+Nincs leltártétel. Ok: Irodalomjegyzék; a felsorolt művek közül az Inclusion Europe alapelvei külön forrásként szerepelnek (inclusion-europe-2012).

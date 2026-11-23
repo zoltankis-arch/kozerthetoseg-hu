@@ -1,0 +1,147 @@
+azonosito = "gonczi-kek-modszertan-2025"
+cim = "Módszertan – Könnyen érthető kommunikáció alkalmazásához kapcsolódó módszertani ismeretek"
+rovid = "Gönczi 2025"
+szerzo = "Farkasné Gönczi Rita módszertana alapján; a szöveg szerzőjét az oldal külön nem nevezi meg"
+kiado = "Könnyen érthető kommunikáció – Könnyen érthető élet (konnyenertheto.gonczirita.hu)"
+ev = "2025"
+url = "https://konnyenertheto.gonczirita.hu/ismeret/modszertan/"
+hivatkozas = "Módszertan. Könnyen érthető kommunikáció alkalmazásához kapcsolódó módszertani ismeretek. Könnyen érthető kommunikáció – Könnyen érthető élet webhely, utolsó módosítás 2025. november 27. https://konnyenertheto.gonczirita.hu/ismeret/modszertan/ Forrásai többek között: Farkasné Gönczi Rita (2018, 2021) és Hansen-Schirra–Maaß (2020)."
+licenc = "Minden jog fenntartva; a lábléc szerint a szövegek a szerző engedélye nélkül nem terjeszthetők. A leltár saját szavakkal, röviden foglal össze, szövegrészt nem vesz át."
+kiadas = "Egyetlen weboldal a 2026. november 23-i állapot szerint (utolsó módosítás: 2025. november 27.), táblázattal és irodalomjegyzékkel."
+feldolgozas_datuma = "2026-11-23"
+oldalszamozas = "az oldal szakaszcíme (a weboldalnak nincs oldalszáma)"
+prioritas = "C"
+feldolgozottsag = "teljes"
+megjegyzes = "A skill a könnyen érthető kommunikációt (KÉK) csak felismeri, nem valósítja meg; a forrás a KÉK-határ (references/kek-hatar.md) hazai, magyar nyelvtanra szabott alátámasztása. Az oldal táblázata a „plain language” megfelelőjeként az „egyszerű nyelv” kifejezést használja; ezt a skill közérthető szövegnek nevezi."
+
+[[fejezet]]
+azonosito = "f01"
+cim = "A könnyen érthető kommunikáció fajtái; elsődleges és másodlagos szöveg"
+oldal = "Könnyen érthető kommunikáció fajtái"
+
+[[fejezet]]
+azonosito = "f02"
+cim = "A könnyen érthető kommunikáció helye a nyelven belüli kommunikációs szintek között"
+oldal = "táblázat"
+
+[[fejezet]]
+azonosito = "f03"
+cim = "A szint kiválasztásának szempontjai"
+oldal = "Könnyen érthető kommunikáció szintjének kiválasztási szempontjai"
+
+[[fejezet]]
+azonosito = "f04"
+cim = "A mondattani szintek"
+oldal = "A könnyen érthető kommunikáció szintjei mondattani szempontból"
+
+[[fejezet]]
+azonosito = "f05"
+cim = "A képi támogatás fokozatai"
+oldal = "témaorientáló képek"
+
+[[fejezet]]
+azonosito = "f06"
+cim = "Alapelvek"
+oldal = "Könnyen érthető kommunikáció alapelvei"
+
+[[fejezet]]
+azonosito = "f07"
+cim = "Tartalmi szabályok"
+oldal = "Tartalmi szabályok"
+
+[[fejezet]]
+azonosito = "f08"
+cim = "Formai szabályok"
+oldal = "Formai szabályok"
+
+[[fejezet]]
+azonosito = "f09"
+cim = "Szabályok Advent időszakban"
+oldal = "Szabályok Advent időszakban"
+tetel_nelkul = "Képes plakátsorozat az előző szabályokról; új tételt nem ad."
+
+[[fejezet]]
+azonosito = "f10"
+cim = "Felhasznált és további irodalom"
+oldal = "Felhasznált irodalom"
+tetel_nelkul = "Irodalomjegyzék; a felsorolt művek közül az Inclusion Europe alapelvei külön forrásként szerepelnek (inclusion-europe-2012)."
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#001"
+fejezet = "f01"
+oldal = "Könnyen érthető kommunikáció fajtái"
+tipus = "meghatarozas"
+tartalom = "A könnyen érthető kommunikáció lehet írott, videós, hang- és online információ; a szöveg elsődleges, ha eleve így készül, és másodlagos, ha meglévő szöveg fordítása."
+kihagyva = "A KÉK-szöveg fajtái; a skill KÉK-szöveget nem készít."
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#002"
+fejezet = "f02"
+oldal = "táblázat"
+tipus = "meghatarozas"
+tartalom = "A nyelven belüli kommunikáció öt szintje: kiegészítő és alternatív kommunikáció, könnyen érthető kommunikáció (KER A1–A2), egyszerű nyelv, azaz plain language (A2–B1), köznyelv, szaknyelv; a KÉK tehát a közérthető szöveg alatti szint."
+referencia = "references/kek-hatar.md#kulonbseg"
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#003"
+fejezet = "f03"
+oldal = "Könnyen érthető kommunikáció szintjének kiválasztási szempontjai"
+tipus = "ellenorzolista"
+tartalom = "A KÉK-szint kiválasztását öt kérdés segíti: ki tájékoztat, kinek, miről, melyik szinten és milyen eszközzel."
+kihagyva = "A KÉK-szint megválasztása KÉK-szakember dolga; a skill csak azt mondja ki, hogy KÉK kell."
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#004"
+fejezet = "f04"
+oldal = "A könnyen érthető kommunikáció szintjei mondattani szempontból"
+tipus = "szabaly"
+tartalom = "A KÉK 2. szintjén a leghosszabb egyszerű mondat is legfeljebb 8 szó, az összetett mondat legfeljebb két tagmondat, a többszörösen összetett mondatot külön egyszerű mondatokra kell bontani."
+referencia = "references/kek-hatar.md#mi-mas"
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#005"
+fejezet = "f04"
+oldal = "A könnyen érthető kommunikáció szintjei mondattani szempontból"
+tipus = "szabaly"
+tartalom = "Az összetett mondatban utalószó és mutató névmás helyett valódi kötőszó álljon (például „hogy”), a főmondat előzze meg a mellékmondatot, és a kötőszó egyszavas legyen."
+referencia = "references/kek-hatar.md#mi-mas"
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#006"
+fejezet = "f05"
+oldal = "témaorientáló képek"
+tipus = "hatter"
+tartalom = "A képek hat fokozatban támogathatják a szöveget: képsorozattól, egy kép egy mondat párosításon át a kép nélküli szövegig."
+referencia = "references/kek-hatar.md#mi-mas"
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#007"
+fejezet = "f06"
+oldal = "Könnyen érthető kommunikáció alapelvei"
+tipus = "szabaly"
+tartalom = "Tudd, kinek és milyen formában készül a szöveg, és a kidolgozásba vonj be értelmi fogyatékossággal élő embert."
+referencia = "references/kek-hatar.md#mi-mas"
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#008"
+fejezet = "f07"
+oldal = "Tartalmi szabályok"
+tipus = "szabaly"
+tartalom = "A tartalmi szabályok (lényegre törő fogalmazás, egy mondat egy információ, cselekvő ige, állító szerkezet, mindig ugyanaz a szó, idegen szó és rövidítés helyett magyarázat, azonos téma egy helyen) nagyrészt a közérthető szöveg szabályai is."
+referencia = "references/kek-hatar.md#kulonbseg"
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#009"
+fejezet = "f07"
+oldal = "Tartalmi szabályok"
+tipus = "szabaly"
+tartalom = "Arab számot használj, római számot ne."
+referencia = "references/kek-hatar.md#mi-mas"
+
+[[tetel]]
+azonosito = "gonczi-kek-modszertan-2025#010"
+fejezet = "f08"
+oldal = "Formai szabályok"
+tipus = "szabaly"
+tartalom = "Formai szabályok: egyetlen, könnyen olvasható betűtípus legalább 14-es méretben, dőlt, árnyékolt és csupa nagybetűs szó nélkül; minden mondat új sorban, központozás és zárójel nélkül, kevés szöveg egy oldalon, a fontos információ elöl, kép vagy szimbólum a szöveg mellett."
+referencia = "references/kek-hatar.md#mi-mas"

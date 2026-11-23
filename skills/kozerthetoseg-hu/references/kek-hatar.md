@@ -13,6 +13,8 @@ A skill közérthető (plain language) szöveggel dolgozik. A könnyen érthető
 | Ki készíti és ellenőrzi | a szerző, olvasói próbával | értelmi fogyatékossággal élő emberek bevonásával |
 | Forma | a szöveg saját formája, kevés kiemeléssel | külön formai szabályok (lent) |
 
+Gönczi Rita módszertana (2025) a nyelven belüli kommunikáció öt szintjébe helyezi el a kettőt: 1. kiegészítő és alternatív kommunikáció, 2. könnyen érthető kommunikáció, 3. egyszerű nyelv (angolul plain language, ezt a skill közérthető szövegnek nevezi), 4. köznyelv, 5. szaknyelv. A Közös Európai Referenciakeret szintjeivel a KÉK nagyjából az A1–A2, az egyszerű nyelv az A2–B1 szintnek felel meg. A két szint tartalmi szabályai nagyrészt egyeznek (egy mondat egy információ, cselekvő ige, állító mondat, mindig ugyanaz a szó, idegen szó és rövidítés helyett magyarázat), a különbség a mértékben és a formában van.
+
 Üveges (2026, 1–2. o.) is két külön regiszterként írja le a kettőt: a közérthető nyelv a pontosság megőrzésével szól a széles közönségnek, a könnyen érthető nyelv erősebben egyszerűsít. Az Inclusion Europe (2012, 5–6. o.) szerint a KÉK szabályai az értelmi fogyatékossággal élő embereknek készültek.
 
 <a id="mikor"></a>
@@ -39,9 +41,13 @@ Néhány szabály, amelyben a KÉK eltér a közérthető szövegtől (Inclusion
 - lábjegyzet nincs, a teljes információ a szövegben áll (a közérthető szöveg a jogszabályhelyet éppen lábjegyzetbe teszi, K012);
 - rövidítés (pl., stb.) és különleges jel nincs (a közérthető szöveg rövidítéssel dolgozhat, K040);
 - minden mondat új sorban, egy mondat lehetőleg egy sor, szóelválasztás nélkül;
-- balra zárt szöveg, pontokkal szedett felsorolás, képek a szöveg mellett, és az elkészült anyagon a KÉK európai logója.
+- balra zárt szöveg, pontokkal szedett felsorolás, képek a szöveg mellett, és az elkészült anyagon a KÉK európai logója;
+- Gönczi (2025) szerint a KÉK-ben a leghosszabb egyszerű mondat is legfeljebb 8 szó, az összetett mondat legfeljebb két tagmondat, a többszörösen összetett mondatot pedig külön mondatokra kell bontani (a közérthető szöveg átlaga 15–20 szó, K020; a tagmondatokra lásd K023);
+- az összetett mondatban utalószó és mutató névmás helyett valódi kötőszó áll (például „hogy”), a főmondat megelőzi a mellékmondatot, és egyszavas kötőszót kell használni (Gönczi 2025);
+- arab szám áll, római szám nem; a központozást és a zárójelet is kerülni kell, és egy oldalon kevés szöveg álljon (Gönczi 2025);
+- a képi támogatásnak fokozatai vannak, a képsortól (egy képhez egy mondat) a kép nélküli szövegig (Gönczi 2025).
 
-A lista nem teljes; a KÉK-szöveget az Inclusion Europe alapelvei és KÉK-szakember szerint kell elkészíteni.
+A lista nem teljes; a KÉK-szöveget az Inclusion Europe alapelvei, a hazai KÉK-módszertan és KÉK-szakember szerint kell elkészíteni.
 
 ## Mit tesz a skill
 

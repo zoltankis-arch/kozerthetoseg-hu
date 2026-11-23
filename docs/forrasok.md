@@ -1,6 +1,6 @@
 # A felhasznált források
 
-A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy példa került a forrásból a leltárba. Összesen 593 tétel.
+A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy példa került a forrásból a leltárba. Összesen 603 tétel.
 
 ## Elsődleges útmutatók
 
@@ -29,6 +29,7 @@ A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy péld
 |---|---|---|---|
 | A 29. cikk szerinti adatvédelmi munkacsoport: Iránymutatás az (EU) 2016/679 rendelet szerinti átláthatóságról (WP260 rev.01), 2018. | Adatkezelési tájékoztató: világos nyelv, konkrét cél, határozatlan kifejezések kerülése. | 16 | [NAIH](https://www.naih.hu/files/wp260rev01_hu.pdf) |
 | Inclusion Europe: Információ mindenkinek. A könnyen érthető kommunikáció európai alapelvei, 2012. | A KÉK-határ: mikor kell könnyen érthető szöveg a közérthető helyett. | 9 | [PDF](https://easy-to-read.inclusion-europe.eu/wp-content/uploads/2014/12/HU_Information_for_all.pdf) |
+| Könnyen érthető kommunikáció – Könnyen érthető élet: Módszertan. Farkasné Gönczi Rita módszertana alapján, 2025. | A KÉK-határ: a nyelven belüli szintek, a KÉK mondattani szintjei (legfeljebb 8 szavas mondat), formai szabályok. | 10 | [konnyenertheto.gonczirita.hu](https://konnyenertheto.gonczirita.hu/ismeret/modszertan/) |
 
 ## Jogszabályok és bírósági döntés
 
@@ -50,5 +51,5 @@ A skill ezekre a munkákra épül; a hibák a skill hibái. Köszönet a forrás
 - a Nemzeti Adó- és Vámhivatal Közérthetőségi Programirodájának;
 - az Európai Bizottság Fordítási Főigazgatóságának;
 - Horváth Péternek, Balogh Dorkának, Gerencsér Balázs Szabolcsnak, Üveges Istvánnak és Pátkai Nándornak;
-- a 29. cikk szerinti adatvédelmi munkacsoportnak és az Inclusion Europe-nak.
+- a 29. cikk szerinti adatvédelmi munkacsoportnak, az Inclusion Europe-nak és Farkasné Gönczi Ritának.
 
