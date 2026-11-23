@@ -1,7 +1,7 @@
 # kozerthetoseg-hu
 
 [![Ellenőrzés](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml/badge.svg)](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml)
-[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.6.0-blue)](CHANGELOG.md)
+[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.7.0-blue)](CHANGELOG.md)
 [![Licenc: MIT és CC BY 4.0](https://img.shields.io/badge/licenc-MIT%20%2B%20CC%20BY%204.0-green)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-specifik%C3%A1ci%C3%B3-informational)](https://agentskills.io/specification)
 
@@ -52,11 +52,11 @@ Ezután a szabályok szerint vizsgál, és lefuttatja a mérőszkriptet. A mér�
 
 ## Milyen forrásokra épül?
 
-A skill 17 nyilvános forrást dolgoz fel; az öt elsődleges útmutatót fejezetről fejezetre, összesen 467 tételben. Szövegrészt nem vesz át belőlük, csak a szabályt és a mintázatot.
+A skill 20 nyilvános forrást dolgoz fel; a hat elsődleges útmutatót fejezetről fejezetre, összesen 603 tételben. Szövegrészt nem vesz át belőlük, csak a szabályt és a mintázatot.
 
-- Útmutatók: Világos Beszéd, *Hogyan írjunk közérthetően?* kisokos és kézikönyv (Budapest Főváros, 2025); NAV, *Az érthető hivatal* 1. és 2. kötet (2024); Európai Bizottság, *A pontos fogalmazás művészete* (2013).
-- Tanulmányok: Horváth Péter (2021) a jogi szöveg tömörségéről; Balogh Dorka (2023) a jogi szövegtípusokról; Gerencsér Balázs Szabolcs (2023) a plain language modellről a törvényalkotásban; Üveges István (2026) a közérthetőség gépi felismeréséről.
-- Iránymutatások: az adatvédelmi munkacsoport WP260 iránymutatása az átláthatóságról (2018); az Inclusion Europe könnyen érthető kommunikációs alapelvei (2012).
+- Útmutatók: Világos Beszéd, *Hogyan írjunk közérthetően?* kisokos és kézikönyv (Budapest Főváros, 2025); NAV, *Az érthető hivatal* 1. és 2. kötet (2024); Európai Bizottság, *A pontos fogalmazás művészete* (2013); Gergely Vera, *Közérthető fogalmazás* webhely (kozerthetofogalmazas.hu, 2015 óta).
+- Tanulmányok: Horváth Péter (2021) a jogi szöveg tömörségéről; Balogh Dorka (2023) a jogi szövegtípusokról; Gerencsér Balázs Szabolcs (2023) a plain language modellről a törvényalkotásban; Üveges István (2026) a közérthetőség gépi felismeréséről; Pátkai Nándor (2017) az Ákr. közérthető kodifikációjáról.
+- Iránymutatások: az adatvédelmi munkacsoport WP260 iránymutatása az átláthatóságról (2018); az Inclusion Europe könnyen érthető kommunikációs alapelvei (2012); Gönczi Rita könnyen érthető kommunikációs módszertana (2025).
 - Jogszabályok és ítélet: Jat., Jszr., Air., Ptk. 6:102–6:103. §, GDPR 12. cikk, és az EU Bíróságának Kásler-ítélete (C-26/13).
 
 Linkekkel és tételszámokkal: [docs/forrasok.md](docs/forrasok.md). A skill-lel és nélküle futtatott tesztek eredménye: [evals/eredmenyek/](evals/eredmenyek/iteracio-2/osszesites.md).

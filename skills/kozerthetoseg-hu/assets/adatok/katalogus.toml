@@ -1,4 +1,4 @@
 # A forráskatalógus verziója. Új forrás vagy új szabály: minor;
 # megfogalmazás-javítás: patch; szabály visszavonása: major.
 # A SKILL.md metadata.forraskatalogus mezőjének ezzel kell egyeznie.
-verzio = "1.3.0"
+verzio = "1.4.0"

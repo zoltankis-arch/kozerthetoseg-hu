@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "kozerthetoseg-hu",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Agent Skill, amely magyar szövegek közérthetőségét vizsgálja és javítja, forrásokkal alátámasztva.",
   "author": {
     "name": "Kis Zoltán",

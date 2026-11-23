@@ -2,7 +2,7 @@
 
 # Szabálykatalógus
 
-Katalógusverzió: 1.3.0. Aktív szabályok: 83. Visszavont szabályok: 0.
+Katalógusverzió: 1.4.0. Aktív szabályok: 83. Visszavont szabályok: 0.
 
 Minden szabálynál: mit kér, miért segít az olvasónak, egy saját rossz és jó példa, a kivételek, és hogy melyik forrás mondja ki (oldalszámmal, a forrásleltár tételére mutatva). A „csak jogi szövegnél” jelölésű szabályokat a jogi modul alkalmazza.
 

@@ -9,6 +9,24 @@ patch; szabály visszavonása vagy parancs átnevezése: major.
 
 ## [Kiadatlan]
 
+## [1.7.0] - 2026-11-23
+
+### Hozzáadva
+
+- Három új forrás a forráskatalógusban (1.4.0), összesen 136 leltártétellel:
+  - Gergely Vera: *Közérthető fogalmazás* (kozerthetofogalmazas.hu), mind a 25 aloldal, 100 tétel. A tételek meglévő szabályokba olvadnak; új részletek: sorhossz és sorköz (K053), betűméret (K055), táblázatigazítás (K066), folyamatábra (K067), Cloze-teszt és a szöveg teljesítményének mérése (K076).
+  - Pátkai Nándor (2017): *A közérthető jogalkotásról – Az általános közigazgatási rendtartás nyelvezete*, 26 tétel. A jogi modul új szakasza (`references/jogi.md#akr`) az Ákr. kodifikációs elveiről; új fogalomütközés: „jogerős” és „végleges”.
+  - Gönczi Rita könnyen érthető kommunikációs módszertana (2025), 10 tétel. A KÉK-határ (`references/kek-hatar.md`) kiegészült a nyelven belüli szintekkel és a KÉK mondattani szabályaival (legfeljebb 8 szavas mondat, legfeljebb két tagmondat).
+- Két új eltérésbejegyzés: K044 (a cselekvő elhallgatása a felelősség elmosására nem elfogadott kivétel) és K056 (a skill a helyesírási szabályzatot követi, az érthetőségért átfogalmazást javasol, nem szabálytalan írásmódot).
+
+### Változott
+
+- `tests/test_ellenorzes.py`: a forrás nélküli szabály tesztje a K057-et használja, mert a K031-nek már két forrása van.
+
+### Nem került be
+
+- A budapest.hu *Hogyan írjunk közérthetően? Kézikönyv* és a Szakcikk Adatbázis 3501111. dokumentuma (Horváth Péter 2021-es cikke) már szerepelt a katalógusban (`vilagos-beszed-kezikonyv-2025`, `horvath-2021`).
+
 ## [1.6.0] - 2026-11-23
 
 ### Változott
@@ -110,7 +128,8 @@ A szabálykatalógus nem változott, ezért a forráskatalógus verziója 1.3.0 
 - Szövegtípus-döntés (Balogh, Bennion, NAV) és KÉK-határ.
 - Szkriptek: `meres.py`, `ellenorzes.py`, `generalas.py`, `uj_forras.py`, `uj_szabaly.py`; pytest-tesztek; CI.
 
-[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.6.0...HEAD
+[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.7.0...HEAD
+[1.7.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.1...v1.6.0
 [1.5.1]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.4.0...v1.5.0

@@ -2,7 +2,7 @@
 
 # Szabályindex
 
-Katalógusverzió: 1.3.0. Szabályonként egy sor. Először ezt olvasd el; a részleteket (példa, kivételek, források) csak azoknál a szabályoknál nyisd meg a csoportfájlban, amelyek a vizsgált szövegre vonatkoznak. Ellenőrzés: „gépi” = a meres.py megbízhatóan jelzi; „jelölt” = a meres.py jelöltet ad, olvasva kell dönteni; „olvasva” = csak olvasva ellenőrizhető.
+Katalógusverzió: 1.4.0. Szabályonként egy sor. Először ezt olvasd el; a részleteket (példa, kivételek, források) csak azoknál a szabályoknál nyisd meg a csoportfájlban, amelyek a vizsgált szövegre vonatkoznak. Ellenőrzés: „gépi” = a meres.py megbízhatóan jelzi; „jelölt” = a meres.py jelöltet ad, olvasva kell dönteni; „olvasva” = csak olvasva ellenőrizhető.
 
 ## Cél és tartalom
 

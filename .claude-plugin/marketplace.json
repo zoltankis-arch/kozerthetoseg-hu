@@ -11,7 +11,7 @@
       "source": "./skills/kozerthetoseg-hu",
       "description": "Magyar szövegek közérthetőségének vizsgálata és javítása forrásokkal alátámasztva.",
       "displayName": "Közérthetőség magyarul",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "author": {
         "name": "Kis Zoltán",
         "url": "https://github.com/zoltankis-arch"
