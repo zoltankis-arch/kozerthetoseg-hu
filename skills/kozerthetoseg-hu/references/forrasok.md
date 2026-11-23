@@ -14,6 +14,7 @@ A skill szabályai az alábbi forrásokra épülnek. Minden forrásnál a biblio
 | [Horváth 2021](#horvath-2021) Mitől közérthető és tömör egy jogi szöveg? | A | 27 |
 | [Jat.](#jat-2010) 2010. évi CXXX. törvény a jogalkotásról | A | 1 |
 | [Jszr.](#jszr-2009) 61/2009. (XII. 14.) IRM rendelet a jogszabályszerkesztésről | A | 9 |
+| [Gergely: kozerthetofogalmazas.hu](#kozerthetofogalmazas-2015) Közérthető fogalmazás – Hogyan írj érthetően? | A | 100 |
 | [NAV 2024a](#nav-ertheto-hivatal-1) Az érthető hivatal 1. | A | 38 |
 | [NAV 2024b](#nav-ertheto-hivatal-2) Az érthető hivatal 2. | A | 83 |
 | [Ptk.](#ptk-2013) 2013. évi V. törvény a Polgári Törvénykönyvről | A | 3 |
@@ -479,6 +480,239 @@ Nincs leltártétel. Ok: Bevezető példa egy rossz jogszabályi meghatározásr
 | <a id="jszr-2009-007"></a>007 | 7. § (4) | tilalom | Az „illetőleg” kötőszó nem alkalmazható. | [K047](szabalyok.md#k047) |
 | <a id="jszr-2009-008"></a>008 | 7. § (5) | tilalom | Az „és” és a „vagy” írásjellel összekapcsolva vagy közvetlenül egymás után nem alkalmazható. | [K047](szabalyok.md#k047) |
 | <a id="jszr-2009-009"></a>009 | 8. § (1), (3) | szabály | Mennyiséget arab számmal kell megadni, az azonos mértékegységet azonosan jelölni; a pénznem rövid megjelölése (a forint és az euró kivételével) csak bevezetése után használható. | [jogi.md#jogalkotas](jogi.md#jogalkotas) |
+
+<a id="kozerthetofogalmazas-2015"></a>
+
+## Gergely: kozerthetofogalmazas.hu: Közérthető fogalmazás – Hogyan írj érthetően?
+
+- Azonosító: `kozerthetofogalmazas-2015`
+- Hivatkozás: Gergely Vera: Közérthető fogalmazás – Hogyan írj érthetően? Webhely, Világos Beszéd, 2015 óta folyamatosan frissítve. https://kozerthetofogalmazas.hu/
+- Elérhetőség: https://kozerthetofogalmazas.hu/
+- Felhasználási feltétel: Creative Commons Nevezd meg! – Ne add el! – Így add tovább! 4.0 Nemzetközi (CC BY-NC-SA 4.0), az impresszum szerint. A leltár saját szavakkal foglal össze, szövegrészt nem vesz át.
+- Feldolgozott kiadás: A webhely 2026. november 23-i állapota: 25 aloldal. Az oldal 2015-ben indult; a mostani változat már a WCAG 2.2-re és a 2022. évi XVII. törvényre is hivatkozik.
+- Oldalszámozás a leltárban: aloldal: a webhely URL-útvonala (a webhelynek nincs oldalszáma)
+- Feldolgozva: 2026-11-23, teljesen
+- Prioritás: A
+- Megjegyzés: A Világos Beszéd kisokosa és kézikönyve (vilagos-beszed-kisokos-2025, vilagos-beszed-kezikonyv-2025) szintén a Világos Beszéd munkája, ezért a tételek többsége meglévő szabályba olvad. Új részletek: sorhossz, sorköz, betűméret, táblázatigazítás, folyamatábra, Cloze-teszt és a szöveg teljesítményének mérése.
+
+### Mi az a közérthető fogalmazás? (/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-001"></a>001 | / | meghatározás | Közérthető az a szöveg, amelynek a felépítése, megfogalmazása és kinézete alapján a célközönség megtalálja benne, amire szüksége van, megérti, és a segítségével el tudja érni a célját. | [parancs-audit.md#negy-kerdes](parancs-audit.md#negy-kerdes) |
+| <a id="kozerthetofogalmazas-2015-002"></a>002 | / | előtte–utána példa | Előtte–utána: egy hosszú, főnevesített okmányirodai mondat az időpontfoglalás lehetőségéről, és ugyanez egyetlen rövid, az olvasót megszólító mondatban. | [K035](szabalyok.md#k035), [K048](szabalyok.md#k048) |
+| <a id="kozerthetofogalmazas-2015-003"></a>003 | / | háttér | A tanácsok a szépirodalom kivételével minden szövegre alkalmazhatók, különösen a hivatalos szövegekre, de nincsenek kőbe vésve: a körülmények döntik el, mitől lesz érthető egy szöveg. | kihagyva: Hatókör és szemlélet; a skill hatókörét a SKILL.md „Mikor ne fusson” része mondja ki, szabályt nem ad. |
+
+### Hogyan írj érthetően? (/hogyan-irj-erthetoen/)
+
+Nincs leltártétel. Ok: Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+
+### Határozd meg, kinek és miért írsz (/hatarozd-meg-kinek-es-miert-irsz/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-004"></a>004 | /hatarozd-meg-kinek-es-miert-irsz/ | szabály | Írás előtt tisztázd a célodat: mi a fő üzenet, mitől lesz sikeres a szöveg, és milyen cselekvésre akarod rávenni az olvasót. | [K001](szabalyok.md#k001) |
+| <a id="kozerthetofogalmazas-2015-005"></a>005 | /hatarozd-meg-kinek-es-miert-irsz/ | tilalom | Arra a kérdésre, hogy kinek írsz, a „mindenkinek” rossz válasz: határozd meg a célközönséget. | [K001](szabalyok.md#k001) |
+| <a id="kozerthetofogalmazas-2015-006"></a>006 | /hatarozd-meg-kinek-es-miert-irsz/ | ajánlás | Gyűjtsd össze, mit akar elérni az olvasó, mit tud már, és milyen információ kell még neki; ha te kezdeményezel (levél, e-mail), az olvasó célja az, hogy gyorsan megértse, miről van szó és mi a dolga. | [K001](szabalyok.md#k001) |
+| <a id="kozerthetofogalmazas-2015-007"></a>007 | /hatarozd-meg-kinek-es-miert-irsz/ | ajánlás | Gyűjtsd össze az olvasó kérdéseit, és válaszolj rájuk a szövegben; a kérdések alcímnek is jók. | [K007](szabalyok.md#k007) |
+| <a id="kozerthetofogalmazas-2015-008"></a>008 | /hatarozd-meg-kinek-es-miert-irsz/ | ellenőrzőlista-pont | Vedd számba az olvasási helyzetet (eszköz, környezet, lelkiállapot) és az olvasó jellemzőit (jártasság a témában, iskolázottság, digitális jártasság, látás); a szerző ehhez letölthető tervezési lapot is ad. | [K001](szabalyok.md#k001) |
+
+### Építsd fel logikusan (/epitsd-fel-logikusan/)
+
+Nincs leltártétel. Ok: Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+
+### Hogyan olvasunk (a weben)? (/hogyan-olvasunk-a-weben/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-009"></a>009 | /hogyan-olvasunk-a-weben/ | háttér | A legtöbb szöveget átfutjuk: a szemkövetéses vizsgálatok F alakú mintázatot mutatnak (cím, első bekezdés, a sorok bal széle), ezért a felépítés és az alcímek döntik el, megtalálja-e az olvasó, amit keres. | [K010](szabalyok.md#k010) |
+| <a id="kozerthetofogalmazas-2015-010"></a>010 | /hogyan-olvasunk-a-weben/ | ajánlás | Aki betűről betűre olvas (például olvasási nehézség vagy diszlexia miatt), annak különösen fontos a rövid szöveg. | [K005](szabalyok.md#k005) |
+
+### Kezdd a lényeggel (/kezdd-a-lenyeggel/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-011"></a>011 | /kezdd-a-lenyeggel/ | szabály | A legfontosabb információval kezdj (fordított piramis): az első bekezdés feleljen arra, ki, mit, mikor, hol, hogyan és miért, a részletek és a háttér csökkenő fontossági sorrendben jöjjenek. | [K002](szabalyok.md#k002) |
+| <a id="kozerthetofogalmazas-2015-012"></a>012 | /kezdd-a-lenyeggel/ | előtte–utána példa | Fizetési felszólításban az a legfontosabb, mennyit, meddig és melyik számlára kell fizetni; az előzmény csak ezután jöhet. | [K004](szabalyok.md#k004) |
+| <a id="kozerthetofogalmazas-2015-013"></a>013 | /kezdd-a-lenyeggel/ | ajánlás | Ha az olvasó kezdeményez (weboldal), előbb az ő célját szolgáld ki, a sajátodat csak utána; levélben minél előbb mondd meg, miért írsz és mi a teendő. | [K003](szabalyok.md#k003) |
+| <a id="kozerthetofogalmazas-2015-014"></a>014 | /kezdd-a-lenyeggel/ | ajánlás | A fő üzenet utáni részeket a helyzethez illően rendezd: a legtöbbeket érintőt előre, történetnél időrendben, ügyfélszolgálati levélnél probléma–ok–megoldás sorrendben. | [K011](szabalyok.md#k011) |
+
+### Tagold a szöveget érthető alcímekkel (/tagold-a-szoveget-ertheto-alcimekkel/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-015"></a>015 | /tagold-a-szoveget-ertheto-alcimekkel/ | szabály | Tördeld a szöveget kisebb, logikailag összefüggő részekre, és írj magukban is értelmes alcímeket, mert átfutáskor ezek alapján dönt az olvasó, hol olvas bele. | [K010](szabalyok.md#k010) |
+| <a id="kozerthetofogalmazas-2015-016"></a>016 | /tagold-a-szoveget-ertheto-alcimekkel/ | szabály | A cím legyen egyértelmű és érthető. | [K016](szabalyok.md#k016) |
+| <a id="kozerthetofogalmazas-2015-017"></a>017 | /tagold-a-szoveget-ertheto-alcimekkel/ | ajánlás | Új szövegnél előbb az alcímeket, vagyis a szerkezetet írd meg, és csak utána a részleteket. | [K074](szabalyok.md#k074) |
+| <a id="kozerthetofogalmazas-2015-018"></a>018 | /tagold-a-szoveget-ertheto-alcimekkel/ | szabály | A cím, az alcím és a bekezdés a kulcsszóval kezdődjön, mert a sorok bal szélét olvassuk el; a webhely két hírcímmel mutatja be, melyik vonzza a tekintetet. | [K014](szabalyok.md#k014), [K016](szabalyok.md#k016) |
+| <a id="kozerthetofogalmazas-2015-019"></a>019 | /tagold-a-szoveget-ertheto-alcimekkel/ | ajánlás | Az alcímek legyenek párhuzamos szerkezetűek: például mind az olvasó egy-egy kérdése, vagy mind egy-egy felszólítás. | [K010](szabalyok.md#k010) |
+| <a id="kozerthetofogalmazas-2015-020"></a>020 | /tagold-a-szoveget-ertheto-alcimekkel/ | ajánlás | Néhány oldalnál hosszabb szöveghez írj tartalomjegyzéket, weben oldalon belüli hivatkozásokkal. | [K017](szabalyok.md#k017) |
+
+### Fogalmazz érthetően (/fogalmazz-erthetoen/)
+
+Nincs leltártétel. Ok: Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+
+### Miről írj? (/mirol-irj/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-021"></a>021 | /mirol-irj/ | szabály | Ne írj arról, amire az olvasónak nincs szüksége; a kötelező, de neki nem fontos információt (például a jogszabályhelyet) tedd lábjegyzetbe vagy a hátoldalra, kisebb betűvel. | [K005](szabalyok.md#k005), [K012](szabalyok.md#k012) |
+| <a id="kozerthetofogalmazas-2015-022"></a>022 | /mirol-irj/ | tilalom | Az olvasónak fontos információt sosem szabad lábjegyzetbe vagy apró betűbe rejteni: ez már az olvasó becsapása. | [K005](szabalyok.md#k005) |
+| <a id="kozerthetofogalmazas-2015-023"></a>023 | /mirol-irj/ | ajánlás | Mobilon olvasott szövegnél különösen fontos a tömörség; bonyolult szöveghez vagy feladathoz érdemes külön mobilos változatot írni. | [K018](szabalyok.md#k018) |
+| <a id="kozerthetofogalmazas-2015-024"></a>024 | /mirol-irj/ | szabály | Írj bele mindent, ami az olvasónak a célja eléréséhez kell, hogy semmit ne kelljen fejben tartania. | [K004](szabalyok.md#k004) |
+| <a id="kozerthetofogalmazas-2015-025"></a>025 | /mirol-irj/ | tilalom | Kerüld a kereszthivatkozást (az egyik pont alatti személyekre egy másik pont alatti esetekben), mert többletmunkát ad az olvasónak. | [K015](szabalyok.md#k015) |
+
+### Hogyan írj? (/hogyan-irj/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-026"></a>026 | /hogyan-irj/ | szabály | Az olvasóhoz beszélj, ne róla; a saját szervezetedről többes szám első személyben írj. Hogy tegezel vagy magázol, az a helyzettől függ. | [K048](szabalyok.md#k048) |
+| <a id="kozerthetofogalmazas-2015-027"></a>027 | /hogyan-irj/ | előtte–utána példa | Előtte–utána: a késedelmes adófizetésről szóló, „adóalany”-t emlegető mondat helyett megszólító mondat, amely a feltétellel kezdődik. | [K022](szabalyok.md#k022), [K048](szabalyok.md#k048) |
+| <a id="kozerthetofogalmazas-2015-028"></a>028 | /hogyan-irj/ | ajánlás | Folytass párbeszédet: találd ki és válaszold meg az olvasó kérdéseit, mintha egy nagyon elfoglalt embernek felelnél. | [K007](szabalyok.md#k007) |
+| <a id="kozerthetofogalmazas-2015-029"></a>029 | /hogyan-irj/ | előtte–utána példa | Legyél barátságos: a szerződésfelmondással fenyegető mondat helyett jelezd, hogy nem érkezett meg a befizetés, és kérd, hogy ellenőrizze. | [K050](szabalyok.md#k050) |
+| <a id="kozerthetofogalmazas-2015-030"></a>030 | /hogyan-irj/ | szabály | Írj helyesen: a helyesírási hiba nehezíti a szókép felismerését, és rontja a szöveg hitelét. | [K056](szabalyok.md#k056) |
+| <a id="kozerthetofogalmazas-2015-031"></a>031 | /hogyan-irj/ | ajánlás | A szerző szerint a különírás, az egybeírás és a kötőjelezés kérdésében az érthetőség előbbre való a szabályzatnál; példái a „kamatadó-mentes” és az „email” alak. | [K056](szabalyok.md#k056) |
+| <a id="kozerthetofogalmazas-2015-032"></a>032 | /hogyan-irj/ | előtte–utána példa | Ellenőrizd, hogy a szöveg nem félreérthető-e: egy villamospótlásról szóló hirdetményből nem derül ki, hogy a megadott napokon napközben jár-e a villamos; az átírt változat a napot és az órát is egyértelműen megadja. | [K075](szabalyok.md#k075) |
+
+### Szavak (/szavak/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-033"></a>033 | /szavak/ | szabály | Húzd ki azokat a szavakat, amelyek nem adnak új információt: a „tájékoztatjuk, hogy” típusú bevezetőt, a tautológiát („de viszont”, „jelenleg most”) és a semmit nem pontosító jelzőt. | [K035](szabalyok.md#k035) |
+| <a id="kozerthetofogalmazas-2015-034"></a>034 | /szavak/ | szabály | A terpeszkedő kifejezés (előadást tart) helyett használd az igét; különösen kerülendő, ha közben szenvedő szerkezet lesz belőle („megrendezésre kerül”). | [K043](szabalyok.md#k043), [K045](szabalyok.md#k045) |
+| <a id="kozerthetofogalmazas-2015-035"></a>035 | /szavak/ | szabály | Ahol rag is elég, ne használj névutót vagy határozós szerkezetet (a közönség számára → a közönségnek). | [K038](szabalyok.md#k038) |
+| <a id="kozerthetofogalmazas-2015-036"></a>036 | /szavak/ | szabály | Hagyd el az igekötőt, ha nem tesz hozzá semmit az igéhez (kihangsúlyoz, beazonosít). | [K037](szabalyok.md#k037) |
+| <a id="kozerthetofogalmazas-2015-037"></a>037 | /szavak/ | szabály | Az olvasó szavait használd (jogosítvány, ingyenes); ha bizonytalan vagy, a keresőben nézd meg, melyik kifejezés a gyakoribb. | [K029](szabalyok.md#k029) |
+| <a id="kozerthetofogalmazas-2015-038"></a>038 | /szavak/ | szabály | Kerüld a szakzsargont; kivétel, ha szakmai közönségnek írsz, mert ők értik, és hitelesebbnek tartanak tőle. | [K029](szabalyok.md#k029) |
+| <a id="kozerthetofogalmazas-2015-039"></a>039 | /szavak/ | szabály | Ha szakszót kell használnod, magyarázd meg, akár külön szövegdobozban; hosszú szövegben adj szószedetet. | [K030](szabalyok.md#k030) |
+| <a id="kozerthetofogalmazas-2015-040"></a>040 | /szavak/ | tilalom | Kerüld a kliséket és a felkapott, de semmitmondó kifejezéseket. | [K041](szabalyok.md#k041) |
+| <a id="kozerthetofogalmazas-2015-041"></a>041 | /szavak/ | előtte–utána példa | Figyelj a többértelmű szóra: a „szignifikáns” a kutatónak azt jelenti, hogy a változás nem a véletlen műve, a laikus olvasónak azt, hogy nagy mértékű. | [K031](szabalyok.md#k031) |
+| <a id="kozerthetofogalmazas-2015-042"></a>042 | /szavak/ | szabály | Ne félj a szóismétléstől: ugyanarra a dologra ugyanazt a szót használd. | [K033](szabalyok.md#k033) |
+| <a id="kozerthetofogalmazas-2015-043"></a>043 | /szavak/ | szabály | Idegen szó helyett használj magyart (applikáció → alkalmazás), kivéve, ha az idegen szó már meghonosodott (fájl, tablet). | [K032](szabalyok.md#k032) |
+| <a id="kozerthetofogalmazas-2015-044"></a>044 | /szavak/ | szabály | Fogalmazz konkrétan, ne elvontan, és az általános ige (csinál) helyett válaszd az egyedit (készít). | [K041](szabalyok.md#k041) |
+| <a id="kozerthetofogalmazas-2015-045"></a>045 | /szavak/ | szabály | Kerüld a rövidítést és a betűszót; ha mégis kell, az első előfordulásnál írd ki a teljes nevet, zárójelben a rövidítést, vagy vezess be rövid megjelölést („a továbbiakban: a Hivatal”). | [K040](szabalyok.md#k040) |
+
+### Mondatok (/mondatok/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-046"></a>046 | /mondatok/ | szabály | Egy mondat egy dologról szóljon; legfeljebb egy szorosan hozzá kapcsolódó információval egészítsd ki. | [K019](szabalyok.md#k019) |
+| <a id="kozerthetofogalmazas-2015-047"></a>047 | /mondatok/ | szabály | Ha lehet, a mondat ne legyen 15–20 szónál hosszabb; a rövidebb és hosszabb mondatok váltakozása oldja az egyhangúságot. | [K020](szabalyok.md#k020) |
+| <a id="kozerthetofogalmazas-2015-048"></a>048 | /mondatok/ | szabály | Kettőnél több tagmondatnál nézd meg, egyszerűsíthető-e a mondat; háromnál több tagmondat csak nagyon indokolt esetben legyen. | [K023](szabalyok.md#k023) |
+| <a id="kozerthetofogalmazas-2015-049"></a>049 | /mondatok/ | szabály | Cselekvő mondatot írj, és kerüld a szenvedő szerkezetet, hogy kiderüljön, ki cselekszik. | [K044](szabalyok.md#k044) |
+| <a id="kozerthetofogalmazas-2015-050"></a>050 | /mondatok/ | ajánlás | A cselekvőt a szerző szerint akkor nem kell megnevezni, ha a tárgy a fontos, ha a nyílt megfogalmazás túl ellenséges volna, vagy ha a felelősséget el akarod mosni. | [K044](szabalyok.md#k044) |
+| <a id="kozerthetofogalmazas-2015-051"></a>051 | /mondatok/ | szabály | Ahol az olvasónak tennie kell valamit, használj felszólító módot („Kérjen engedélyt”) a személytelen leírás („az ügyfél kérelmére indul az eljárás”) helyett. | [K008](szabalyok.md#k008) |
+| <a id="kozerthetofogalmazas-2015-052"></a>052 | /mondatok/ | szabály | Kerüld az udvariaskodó feltételes módot: „szeretném kérni” helyett „kérem”, így az is kiderül, hogy most kéred. | [K035](szabalyok.md#k035) |
+| <a id="kozerthetofogalmazas-2015-053"></a>053 | /mondatok/ | szabály | Inkább állító mondatot írj; a „nem kell fizetnie, kivéve, ha” típusú tagadás tagadása helyett „csak akkor kell fizetnie, ha”. Tiltásnál a tagadásnak helye van. | [K026](szabalyok.md#k026), [K046](szabalyok.md#k046) |
+| <a id="kozerthetofogalmazas-2015-054"></a>054 | /mondatok/ | szabály | Kösd össze a mondatokat kötőszóval; kötőszóval nyugodtan kezdhetsz mondatot. | [K027](szabalyok.md#k027) |
+| <a id="kozerthetofogalmazas-2015-055"></a>055 | /mondatok/ | előtte–utána példa | Kerüld az angolos, tükörfordított mondatszerkezetet; két példa az angol kiemelő és óhajtó szerkezetre a magyar megfelelőjével. | [K028](szabalyok.md#k028) |
+| <a id="kozerthetofogalmazas-2015-056"></a>056 | /mondatok/ | előtte–utána példa | Ne halmozd a főneveket: két hivatali főnévi szerkezet átírva „ha”-val kezdődő, igés mondatra. | [K042](szabalyok.md#k042) |
+| <a id="kozerthetofogalmazas-2015-057"></a>057 | /mondatok/ | szabály | Az alany és az állítmány a mondat elején álljon, hogy hamar kiderüljön, miről szól a mondat. | [K021](szabalyok.md#k021) |
+| <a id="kozerthetofogalmazas-2015-058"></a>058 | /mondatok/ | szabály | A fontos információ a mondat elejére vagy végére kerüljön, ne a közepére; a szórend és az igekötő helye a jelentést is megváltoztatja. | [K025](szabalyok.md#k025) |
+| <a id="kozerthetofogalmazas-2015-059"></a>059 | /mondatok/ | szabály | A feltételes mondatot a feltétellel kezdd, hogy akire nem vonatkozik, annak ne kelljen a mondat első felét is értelmeznie. | [K022](szabalyok.md#k022) |
+
+### Bekezdések (/bekezdesek/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-060"></a>060 | /bekezdesek/ | szabály | Írj rövid bekezdéseket, lehetőleg legfeljebb 5–6 sorosakat; egy-két mondatos bekezdés is lehet, csak ne legyen belőle túl sok. | [K014](szabalyok.md#k014) |
+| <a id="kozerthetofogalmazas-2015-061"></a>061 | /bekezdesek/ | szabály | A bekezdés első mondata nevezze meg a témát, kulcsszóval kezdve, és a bekezdés végig erről az egy témáról szóljon. | [K014](szabalyok.md#k014) |
+| <a id="kozerthetofogalmazas-2015-062"></a>062 | /bekezdesek/ | szabály | A bekezdéseket is kösd össze kötőszóval, hogy látszódjon, folytatja, cáfolja vagy összegzi-e az előzőt. | [K027](szabalyok.md#k027) |
+
+### Bonyolult dolgokról egyszerűen (/bonyolult-dolgokrol-egyszeruen/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-063"></a>063 | /bonyolult-dolgokrol-egyszeruen/ | ajánlás | Bonyolult dolgot mutass be példával: mit jelent a könnyű testmozgás, vagy mennyi pénzt kap a megtakarító konkrét számokkal. | [K006](szabalyok.md#k006) |
+| <a id="kozerthetofogalmazas-2015-064"></a>064 | /bonyolult-dolgokrol-egyszeruen/ | ajánlás | Bontsd a bonyolult dolgot kisebb részekre, a hasonló dolgokat azonos mondatszerkezettel mutasd be, bonyolultabb esetben táblázatban. | [K064](szabalyok.md#k064) |
+| <a id="kozerthetofogalmazas-2015-065"></a>065 | /bonyolult-dolgokrol-egyszeruen/ | ajánlás | Hasonlítsd az ismeretlent olyasmihez, amit az olvasó már ismer, és mondd meg azt is, miben különbözik a kettő. | [K006](szabalyok.md#k006) |
+
+### Legyen áttekinthető a kinézet (/legyen-attekintheto-a-kinezet/)
+
+Nincs leltártétel. Ok: Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+
+### Az oldal felépítése (/az-oldal-felepitese/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-066"></a>066 | /az-oldal-felepitese/ | szabály | Legyen egyértelmű az olvasási sorrend, különösen többhasábos, képes elrendezésben. | [K053](szabalyok.md#k053) |
+| <a id="kozerthetofogalmazas-2015-067"></a>067 | /az-oldal-felepitese/ | szabály | Az üres tér mutassa, mi tartozik össze: alcím előtt több hely legyen, mint utána. | [K051](szabalyok.md#k051) |
+| <a id="kozerthetofogalmazas-2015-068"></a>068 | /az-oldal-felepitese/ | szabály | A cím és az alcímszintek mérete, betűtípusa vagy stílusa jól megkülönböztethetően, fokozatosan térjen el. | [K051](szabalyok.md#k051) |
+| <a id="kozerthetofogalmazas-2015-069"></a>069 | /az-oldal-felepitese/ | szabály | Apró betűvel csak az álljon, ami az olvasónak sem fontos, például a jogszabályhely; ami neki fontos, legyen jól olvasható. | [K012](szabalyok.md#k012) |
+| <a id="kozerthetofogalmazas-2015-070"></a>070 | /az-oldal-felepitese/ | szabály | Légy következetes a szóhasználatban, az írásmódban és a hangnemben is: ne váltogasd a személyt, a számot, a tegezést és a magázást. | [K049](szabalyok.md#k049) |
+| <a id="kozerthetofogalmazas-2015-071"></a>071 | /az-oldal-felepitese/ | szabály | A többoldalas dokumentum és a webhely oldalai egyformán épüljenek fel (margó, oldalszám, fejléc, betű, sorköz, behúzás, igazítás); ebben a rácsszerkezet segít. | [K053](szabalyok.md#k053) |
+
+### Tipográfia (/tipografia/)
+
+Nincs leltártétel. Ok: Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+
+### Szóképet olvasunk (/szokepet-olvasunk/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-072"></a>072 | /szokepet-olvasunk/ | háttér | Szóképet olvasunk; a felismerést rontja a csupa nagybetű, az elválasztás, a mintás háttér, a gyenge kontraszt és a díszes betűtípus. | [K053](szabalyok.md#k053) |
+
+### Betűk (/betuk/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-073"></a>073 | /betuk/ | ajánlás | Általában két, egymástól jól megkülönböztethető betűtípus elég: egy a főszövegnek, egy a címeknek és feliratoknak; a főszöveg betűje könnyen olvasható legyen. | [K053](szabalyok.md#k053) |
+| <a id="kozerthetofogalmazas-2015-074"></a>074 | /betuk/ | ajánlás | Főszövegnek nyomtatásban 10–12 pontos, weben 15–25 képpontos betűt szoktak ajánlani; a címek ennél nagyobbak, annál inkább, minél fontosabbak. | [K055](szabalyok.md#k055) |
+| <a id="kozerthetofogalmazas-2015-075"></a>075 | /betuk/ | szabály | Kiemelésre a félkövér való; aláhúzás és színváltás a hivatkozásnak jár, a csupa nagybetű nehezen olvasható, és a túl sok kiemelés rosszabb, mint a semmi. | [K052](szabalyok.md#k052) |
+| <a id="kozerthetofogalmazas-2015-076"></a>076 | /betuk/ | szabály | Legyen elég kontraszt a betű és az egyszínű háttér között, a fényerő is térjen el; ezt a WCAG szerinti eszközökkel lehet ellenőrizni. | [K053](szabalyok.md#k053) |
+
+### Sorok (/sorok/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-077"></a>077 | /sorok/ | szabály | A folyószöveget balra igazítsd, ne középre vagy jobbra; weben sorkizárást se használj. | [K053](szabalyok.md#k053) |
+| <a id="kozerthetofogalmazas-2015-078"></a>078 | /sorok/ | ajánlás | A bekezdéseket sorkihagyással vagy első sori behúzással válaszd el, a kettőt együtt ne használd. | [K053](szabalyok.md#k053) |
+| <a id="kozerthetofogalmazas-2015-079"></a>079 | /sorok/ | ajánlás | A sor hossza 45–90 karakter, a sorköz a betűméret 120–150 százaléka legyen; hosszabb sorhoz nagyobb sorköz kell. | [K053](szabalyok.md#k053) |
+
+### Felsorolások, táblázatok, illusztrációk (/felsorolasok-tablazatok-illusztraciok/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-080"></a>080 | /felsorolasok-tablazatok-illusztraciok/ | szabály | Ha egy mondatban legalább három azonos szerepű elem van, mérlegeld a felsorolást. | [K013](szabalyok.md#k013) |
+| <a id="kozerthetofogalmazas-2015-081"></a>081 | /felsorolasok-tablazatok-illusztraciok/ | előtte–utána példa | Előtte–utána: a visszavásárlás négy feltétele előbb egyetlen mondatban, majd felsorolásban. | [K013](szabalyok.md#k013) |
+| <a id="kozerthetofogalmazas-2015-082"></a>082 | /felsorolasok-tablazatok-illusztraciok/ | szabály | A felsorolás bevezető félmondata és minden eleme együtt adjon ki teljes mondatot; ami nem illik bele, a felsorolás után álljon. | [K013](szabalyok.md#k013) |
+| <a id="kozerthetofogalmazas-2015-083"></a>083 | /felsorolasok-tablazatok-illusztraciok/ | ajánlás | Időben egymást követő lépésekhez számozott listát használj, azonos mondatszerkezettel, például mindig igével kezdve. | [K013](szabalyok.md#k013) |
+| <a id="kozerthetofogalmazas-2015-084"></a>084 | /felsorolasok-tablazatok-illusztraciok/ | ajánlás | Táblázat akkor jó, ha több dologról ugyanazt közlöd, ha számokat hasonlítasz össze, vagy ha a válasz feltételtől függ („ha…, akkor…”). | [K064](szabalyok.md#k064) |
+| <a id="kozerthetofogalmazas-2015-085"></a>085 | /felsorolasok-tablazatok-illusztraciok/ | szabály | A táblázatban a tartalom domináljon, ne a rácsvonal; a szöveget balra, a számot jobbra igazítsd. | [K066](szabalyok.md#k066) |
+| <a id="kozerthetofogalmazas-2015-086"></a>086 | /felsorolasok-tablazatok-illusztraciok/ | szabály | A folyamatábrának egy jól látható belépési és legalább egy egyértelmű kilépési pontja legyen, és minden kérdés minden lehetséges válaszához tartozzon továbbvezető út. | [K067](szabalyok.md#k067) |
+| <a id="kozerthetofogalmazas-2015-087"></a>087 | /felsorolasok-tablazatok-illusztraciok/ | szabály | Weben az illusztrációhoz adj szöveges alternatívát. | kihagyva: Webes akadálymentesítési műszaki követelmény; a skill a szöveg megfogalmazását vizsgálja, a weboldal kódját nem. |
+
+### Akadálymentesítés a weben (/akadalymentesites-a-weben/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-088"></a>088 | /akadalymentesites-a-weben/ | háttér | A közszféra honlapjainak akadálymentesnek kell lenniük (2018. évi LXXV. törvény), és 2025. június 28. óta számos vállalkozásra is vonatkozik ez (2022. évi XVII. törvény); a mérce a WCAG-alapú európai szabvány, amely az érthető tartalmat is elvárja. | kihagyva: A két törvény szövegét a skill nem dolgozta fel; a szerző összefoglalóját jogszabályi forrásként nem használja. |
+| <a id="kozerthetofogalmazas-2015-089"></a>089 | /akadalymentesites-a-weben/ | tilalom | Ne készíts külön akadálymentes változatot: a fő oldalt tedd akadálymentessé. | kihagyva: Webfejlesztési döntés, a szöveg megfogalmazására nem ad szabályt. |
+| <a id="kozerthetofogalmazas-2015-090"></a>090 | /akadalymentesites-a-weben/ | szabály | Az alcímeket jelöld a megfelelő HTML-címkével, és a hivatkozás szövege legyen beszédes („Tovább”, „Bővebben” helyett). | [K009](szabalyok.md#k009) |
+| <a id="kozerthetofogalmazas-2015-091"></a>091 | /akadalymentesites-a-weben/ | szabály | Írj úgy, hogy az is megértse, aki nyolc általánost végzett; ha ennél bonyolultabban kell írnod, készíts egyszerűbb változatot. | [K018](szabalyok.md#k018) |
+| <a id="kozerthetofogalmazas-2015-092"></a>092 | /akadalymentesites-a-weben/ | szabály | Videóhoz add meg a szövegét, képhez az alt mezőben a leírását. | kihagyva: Webes akadálymentesítési műszaki követelmény; a skill a szöveg megfogalmazását vizsgálja, a weboldal kódját nem. |
+
+### Ellenőrizd (/ellenorizd/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-093"></a>093 | /ellenorizd/ | ajánlás | Csiszold a szöveget, amíg elégedett nem vagy vele; aludj rá egyet, és olvasd újra friss szemmel. | [K074](szabalyok.md#k074) |
+| <a id="kozerthetofogalmazas-2015-094"></a>094 | /ellenorizd/ | szabály | Olvasd fel hangosan: hallod, hol akad meg, mi félreérthető vagy túl hosszú. | [K075](szabalyok.md#k075) |
+| <a id="kozerthetofogalmazas-2015-095"></a>095 | /ellenorizd/ | szabály | Teszteld a célközönséggel: megértik-e, azt teszik-e, amit szeretnél, és megkapták-e minden kérdésükre a választ; ha nincs célközönség, bárkivel jobb tesztelni, mint senkivel. | [K076](szabalyok.md#k076) |
+| <a id="kozerthetofogalmazas-2015-096"></a>096 | /ellenorizd/ | tilalom | Ne a munkatársaiddal tesztelj, mert ők nem tudnak elvonatkoztatni a szakmai tudásuktól. | [K076](szabalyok.md#k076) |
+| <a id="kozerthetofogalmazas-2015-097"></a>097 | /ellenorizd/ | ajánlás | Tesztelhetsz konkrét feladattal (keressen ki egy adatot) vagy nyitott kérdéssel (mit tenne, ha ilyen levelet kapna). | [K076](szabalyok.md#k076) |
+| <a id="kozerthetofogalmazas-2015-098"></a>098 | /ellenorizd/ | ajánlás | Cloze-teszt: töröld a szöveg minden ötödik-hatodik szavát, és kérd az olvasót, hogy találja ki őket; átlagosan 60 százalékos találat a siker jele. | [K076](szabalyok.md#k076) |
+| <a id="kozerthetofogalmazas-2015-099"></a>099 | /ellenorizd/ | ajánlás | Mérd a szöveg teljesítményét a várt cselekvés szerint (visszaküldött és helyesen kitöltött űrlap, befizetés, ügyfélszolgálati hívások), lehetőleg a régi szövegen is; weben A/B teszttel. | [K076](szabalyok.md#k076) |
+
+### További olvasnivaló (/tovabbi-olvasnivalo/)
+
+| Tétel | Oldal | Fajta | Tartalom | Leképezés |
+|---|---|---|---|---|
+| <a id="kozerthetofogalmazas-2015-100"></a>100 | /tovabbi-olvasnivalo/ | háttér | Az ISO 24495-1:2023 négy alapelve (releváns, megtalálható, érthető, felhasználható) közel áll a webhely definíciójához; a fejezet többi része ajánlott irodalom és webhely. | [parancs-audit.md#negy-kerdes](parancs-audit.md#negy-kerdes) |
+
+### Impresszum (/impresszum/)
+
+Nincs leltártétel. Ok: Kiadói adatok és a licenc; a forrásrekord rögzíti őket.
 
 <a id="nav-ertheto-hivatal-1"></a>
 

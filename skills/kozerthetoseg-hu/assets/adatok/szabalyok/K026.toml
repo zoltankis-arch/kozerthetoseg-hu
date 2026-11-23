@@ -10,6 +10,7 @@ ellenorzes = "vegyes"
 sulyossag = "kozepes"
 forrasok = [
   "eu-pontos-fogalmazas-2013#028",
+  "kozerthetofogalmazas-2015#053",
   "nav-ertheto-hivatal-2#038",
   "vilagos-beszed-kezikonyv-2025#119",
 ]

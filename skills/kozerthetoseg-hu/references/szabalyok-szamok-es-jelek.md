@@ -19,7 +19,9 @@ Ellenőrző kérdés: A nehéz helyesírású szakkifejezéseket szótárban ell
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 14. o.](forrasok.md#eu-pontos-fogalmazas-2013-049); [NAV 2024a, 30. o.](forrasok.md#nav-ertheto-hivatal-1-015); [NAV 2024b, 2, 66. o.](forrasok.md#nav-ertheto-hivatal-2-001); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-005).
+Források: [Európai Bizottság 2013, 14. o.](forrasok.md#eu-pontos-fogalmazas-2013-049); [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-030); [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-031); [NAV 2024a, 30. o.](forrasok.md#nav-ertheto-hivatal-1-015); [NAV 2024b, 2, 66. o.](forrasok.md#nav-ertheto-hivatal-2-001); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-005).
+
+Ha a források eltérnek: A kozerthetofogalmazas.hu szerzője szerint a különírás, az egybeírás és a kötőjelezés kérdésében az érthetőség előbbre való a helyesírási szabályzatnál (például „kamatadó-mentes”, „email”). A NAV a pontos helyesírást a közérthetőség részének tekinti. A skill döntése: A skill a szabályzat szerinti alakot javasolja. Ok: hivatali és jogi szövegben a helyesírási hiba rontja a hitelt, és a szabályzat ad egységes mércét. Ha a szabályos alak nehezen olvasható, a skill átfogalmazást javasol (például „nem kell utána kamatadót fizetni”), nem szabálytalan írásmódot. ([Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-031); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-005))
 
 <a id="k057"></a>
 

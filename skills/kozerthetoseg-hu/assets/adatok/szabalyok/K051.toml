@@ -9,6 +9,8 @@ allapot = "aktiv"
 ellenorzes = "itelet"
 sulyossag = "alacsony"
 forrasok = [
+  "kozerthetofogalmazas-2015#067",
+  "kozerthetofogalmazas-2015#068",
   "vilagos-beszed-kezikonyv-2025#079",
   "vilagos-beszed-kezikonyv-2025#080",
   "vilagos-beszed-kezikonyv-2025#096",

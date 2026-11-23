@@ -45,7 +45,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Balogh 2023, 179. o.](forrasok.md#balogh-2023-002); [Európai Bizottság 2013, 3. o.](forrasok.md#eu-pontos-fogalmazas-2013-003); [Európai Bizottság 2013, 3. o.](forrasok.md#eu-pontos-fogalmazas-2013-004); [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-008); [Gerencsér 2023, 13. o.](forrasok.md#gerencser-2023-003); [Világos Beszéd kézikönyv 2025, 8. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-008); [Világos Beszéd kézikönyv 2025, 8. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-009); [Világos Beszéd kézikönyv 2025, 10. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-011); [Világos Beszéd kézikönyv 2025, 10. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-012); [Világos Beszéd kézikönyv 2025, 10–11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-013); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-014); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-018); [Világos Beszéd 2025, 2–3. o.](forrasok.md#vilagos-beszed-kisokos-2025-004); [Világos Beszéd 2025, 4. o.](forrasok.md#vilagos-beszed-kisokos-2025-005); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-008); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-012); [WP260 2018, 7. o.](forrasok.md#wp260-2018-003).
+Források: [Balogh 2023, 179. o.](forrasok.md#balogh-2023-002); [Európai Bizottság 2013, 3. o.](forrasok.md#eu-pontos-fogalmazas-2013-003); [Európai Bizottság 2013, 3. o.](forrasok.md#eu-pontos-fogalmazas-2013-004); [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-008); [Gerencsér 2023, 13. o.](forrasok.md#gerencser-2023-003); [Gergely: kozerthetofogalmazas.hu, /hatarozd-meg-kinek-es-miert-irsz/](forrasok.md#kozerthetofogalmazas-2015-004); [Gergely: kozerthetofogalmazas.hu, /hatarozd-meg-kinek-es-miert-irsz/](forrasok.md#kozerthetofogalmazas-2015-005); [Gergely: kozerthetofogalmazas.hu, /hatarozd-meg-kinek-es-miert-irsz/](forrasok.md#kozerthetofogalmazas-2015-006); [Gergely: kozerthetofogalmazas.hu, /hatarozd-meg-kinek-es-miert-irsz/](forrasok.md#kozerthetofogalmazas-2015-008); [Világos Beszéd kézikönyv 2025, 8. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-008); [Világos Beszéd kézikönyv 2025, 8. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-009); [Világos Beszéd kézikönyv 2025, 10. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-011); [Világos Beszéd kézikönyv 2025, 10. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-012); [Világos Beszéd kézikönyv 2025, 10–11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-013); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-014); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-018); [Világos Beszéd 2025, 2–3. o.](forrasok.md#vilagos-beszed-kisokos-2025-004); [Világos Beszéd 2025, 4. o.](forrasok.md#vilagos-beszed-kisokos-2025-005); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-008); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-012); [WP260 2018, 7. o.](forrasok.md#wp260-2018-003).
 
 <a id="k002"></a>
 
@@ -66,7 +66,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: magas. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-019); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-020); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-015); [Világos Beszéd kézikönyv 2025, 13. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-022); [Világos Beszéd kézikönyv 2025, 14–15. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-023); [Világos Beszéd kézikönyv 2025, 14. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-024); [Világos Beszéd kézikönyv 2025, 14. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-025); [Világos Beszéd kézikönyv 2025, 15. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-027); [Világos Beszéd kézikönyv 2025, 16–17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-032); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-086); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-009); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-014); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-015).
+Források: [Gergely: kozerthetofogalmazas.hu, /kezdd-a-lenyeggel/](forrasok.md#kozerthetofogalmazas-2015-011); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-019); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-020); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-015); [Világos Beszéd kézikönyv 2025, 13. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-022); [Világos Beszéd kézikönyv 2025, 14–15. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-023); [Világos Beszéd kézikönyv 2025, 14. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-024); [Világos Beszéd kézikönyv 2025, 14. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-025); [Világos Beszéd kézikönyv 2025, 15. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-027); [Világos Beszéd kézikönyv 2025, 16–17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-032); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-086); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-009); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-014); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-015).
 
 <a id="k003"></a>
 
@@ -83,7 +83,7 @@ Ellenőrző kérdés: Közvetlenül a fő üzenet után áll, mit kell vagy lehe
 
 Kör: általános. Alapértelmezett súlyosság: magas. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 8. o.](forrasok.md#nav-ertheto-hivatal-2-006); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-017); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-028); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-029); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-031); [Világos Beszéd kézikönyv 2025, 16–17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-032); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-086); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd kézikönyv 2025, 38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-121); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-011); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-016).
+Források: [Gergely: kozerthetofogalmazas.hu, /kezdd-a-lenyeggel/](forrasok.md#kozerthetofogalmazas-2015-013); [NAV 2024b, 8. o.](forrasok.md#nav-ertheto-hivatal-2-006); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-017); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-028); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-029); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-031); [Világos Beszéd kézikönyv 2025, 16–17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-032); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-086); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd kézikönyv 2025, 38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-121); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-011); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-016).
 
 <a id="k004"></a>
 
@@ -100,7 +100,7 @@ Ellenőrző kérdés: Megvan a teendőhöz minden adat: mit, mennyit, meddig, ho
 
 Kör: általános. Alapértelmezett súlyosság: magas. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 3. o.](forrasok.md#eu-pontos-fogalmazas-2013-007); [NAV 2024a, 55. o.](forrasok.md#nav-ertheto-hivatal-1-032); [NAV 2024b, 11. o.](forrasok.md#nav-ertheto-hivatal-2-010); [Világos Beszéd kézikönyv 2025, 4. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-002); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-016); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-028); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-030); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-010).
+Források: [Európai Bizottság 2013, 3. o.](forrasok.md#eu-pontos-fogalmazas-2013-007); [Gergely: kozerthetofogalmazas.hu, /kezdd-a-lenyeggel/](forrasok.md#kozerthetofogalmazas-2015-012); [Gergely: kozerthetofogalmazas.hu, /mirol-irj/](forrasok.md#kozerthetofogalmazas-2015-024); [NAV 2024a, 55. o.](forrasok.md#nav-ertheto-hivatal-1-032); [NAV 2024b, 11. o.](forrasok.md#nav-ertheto-hivatal-2-010); [Világos Beszéd kézikönyv 2025, 4. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-002); [Világos Beszéd kézikönyv 2025, 11. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-016); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-028); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-030); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-010).
 
 <a id="k005"></a>
 
@@ -121,7 +121,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-011); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-004); [Világos Beszéd kézikönyv 2025, 19–20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-043); [Világos Beszéd kézikönyv 2025, 20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-044); [Világos Beszéd kézikönyv 2025, 20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-045); [Világos Beszéd kézikönyv 2025, 21. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-047); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-088); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd 2025, 6–7. o.](forrasok.md#vilagos-beszed-kisokos-2025-019).
+Források: [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-011); [Gergely: kozerthetofogalmazas.hu, /hogyan-olvasunk-a-weben/](forrasok.md#kozerthetofogalmazas-2015-010); [Gergely: kozerthetofogalmazas.hu, /mirol-irj/](forrasok.md#kozerthetofogalmazas-2015-021); [Gergely: kozerthetofogalmazas.hu, /mirol-irj/](forrasok.md#kozerthetofogalmazas-2015-022); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-004); [Világos Beszéd kézikönyv 2025, 19–20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-043); [Világos Beszéd kézikönyv 2025, 20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-044); [Világos Beszéd kézikönyv 2025, 20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-045); [Világos Beszéd kézikönyv 2025, 21. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-047); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-088); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd 2025, 6–7. o.](forrasok.md#vilagos-beszed-kisokos-2025-019).
 
 <a id="k006"></a>
 
@@ -138,7 +138,7 @@ Ellenőrző kérdés: A szöveg azt írja le, mit jelent a szabály az olvasó �
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 10. o.](forrasok.md#nav-ertheto-hivatal-2-008); [NAV 2024b, 10. o.](forrasok.md#nav-ertheto-hivatal-2-009).
+Források: [Gergely: kozerthetofogalmazas.hu, /bonyolult-dolgokrol-egyszeruen/](forrasok.md#kozerthetofogalmazas-2015-063); [Gergely: kozerthetofogalmazas.hu, /bonyolult-dolgokrol-egyszeruen/](forrasok.md#kozerthetofogalmazas-2015-065); [NAV 2024b, 10. o.](forrasok.md#nav-ertheto-hivatal-2-008); [NAV 2024b, 10. o.](forrasok.md#nav-ertheto-hivatal-2-009).
 
 <a id="k007"></a>
 
@@ -155,7 +155,7 @@ Ellenőrző kérdés: Válaszol a szöveg azokra a kérdésekre is, amelyeket az
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-010); [Világos Beszéd kézikönyv 2025, 12. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-019); [Világos Beszéd kézikönyv 2025, 12. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-020); [Világos Beszéd kézikönyv 2025, 19–20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-043); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-013).
+Források: [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-010); [Gergely: kozerthetofogalmazas.hu, /hatarozd-meg-kinek-es-miert-irsz/](forrasok.md#kozerthetofogalmazas-2015-007); [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-028); [Világos Beszéd kézikönyv 2025, 12. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-019); [Világos Beszéd kézikönyv 2025, 12. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-020); [Világos Beszéd kézikönyv 2025, 19–20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-043); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-013).
 
 <a id="k008"></a>
 
@@ -172,7 +172,7 @@ Ellenőrző kérdés: A folyamat az olvasó oldaláról van leírva (mit küld e
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [NAV 2024a, 8. o.](forrasok.md#nav-ertheto-hivatal-1-004); [NAV 2024a, 10. o.](forrasok.md#nav-ertheto-hivatal-1-005); [NAV 2024b, 8. o.](forrasok.md#nav-ertheto-hivatal-2-006); [NAV 2024b, 9. o.](forrasok.md#nav-ertheto-hivatal-2-007).
+Források: [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-051); [NAV 2024a, 8. o.](forrasok.md#nav-ertheto-hivatal-1-004); [NAV 2024a, 10. o.](forrasok.md#nav-ertheto-hivatal-1-005); [NAV 2024b, 8. o.](forrasok.md#nav-ertheto-hivatal-2-006); [NAV 2024b, 9. o.](forrasok.md#nav-ertheto-hivatal-2-007).
 
 <a id="k009"></a>
 
@@ -193,7 +193,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Gerencsér 2023, 14. o.](forrasok.md#gerencser-2023-008); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-030); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-062); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-063); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-064); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-092); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-026).
+Források: [Gerencsér 2023, 14. o.](forrasok.md#gerencser-2023-008); [Gergely: kozerthetofogalmazas.hu, /akadalymentesites-a-weben/](forrasok.md#kozerthetofogalmazas-2015-090); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-030); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-062); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-063); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-064); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-092); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-026).
 
 <a id="k079"></a>
 
@@ -256,7 +256,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-010); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-025); [Világos Beszéd kézikönyv 2025, 12. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-019); [Világos Beszéd kézikönyv 2025, 13. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-022); [Világos Beszéd kézikönyv 2025, 14. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-026); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-031); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-033); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-034); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-035); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-036); [Világos Beszéd kézikönyv 2025, 18. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-037); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-087); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-013); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-017).
+Források: [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-010); [Gergely: kozerthetofogalmazas.hu, /hogyan-olvasunk-a-weben/](forrasok.md#kozerthetofogalmazas-2015-009); [Gergely: kozerthetofogalmazas.hu, /tagold-a-szoveget-ertheto-alcimekkel/](forrasok.md#kozerthetofogalmazas-2015-015); [Gergely: kozerthetofogalmazas.hu, /tagold-a-szoveget-ertheto-alcimekkel/](forrasok.md#kozerthetofogalmazas-2015-019); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-025); [Világos Beszéd kézikönyv 2025, 12. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-019); [Világos Beszéd kézikönyv 2025, 13. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-022); [Világos Beszéd kézikönyv 2025, 14. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-026); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-031); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-033); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-034); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-035); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-036); [Világos Beszéd kézikönyv 2025, 18. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-037); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-087); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd 2025, 5. o.](forrasok.md#vilagos-beszed-kisokos-2025-013); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-017).
 
 <a id="k011"></a>
 
@@ -273,7 +273,7 @@ Ellenőrző kérdés: A legtöbbeket érintő információ és a teendő áll el
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Balogh 2023, 187. o.](forrasok.md#balogh-2023-016); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-020); [NAV 2024b, 16. o.](forrasok.md#nav-ertheto-hivatal-2-021); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-022); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-034); [Világos Beszéd kézikönyv 2025, 20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-045).
+Források: [Balogh 2023, 187. o.](forrasok.md#balogh-2023-016); [Gergely: kozerthetofogalmazas.hu, /kezdd-a-lenyeggel/](forrasok.md#kozerthetofogalmazas-2015-014); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-020); [NAV 2024b, 16. o.](forrasok.md#nav-ertheto-hivatal-2-021); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-022); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-034); [Világos Beszéd kézikönyv 2025, 20. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-045).
 
 <a id="k012"></a>
 
@@ -294,7 +294,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: magas. Ellenőrzés: jelölt. Keresőminta: jogszabályhely a folyó szövegben (nézd meg, a mondat közepén áll-e).
 
-Források: [NAV 2024a, 10. o.](forrasok.md#nav-ertheto-hivatal-1-005); [NAV 2024b, 18. o.](forrasok.md#nav-ertheto-hivatal-2-028); [Világos Beszéd kézikönyv 2025, 14. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-025); [Világos Beszéd kézikönyv 2025, 18. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-038); [Világos Beszéd kézikönyv 2025, 19. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-040); [Világos Beszéd kézikönyv 2025, 19. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-041); [Világos Beszéd kézikönyv 2025, 19. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-042); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-088); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd kézikönyv 2025, 39. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-123); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-018).
+Források: [Gergely: kozerthetofogalmazas.hu, /mirol-irj/](forrasok.md#kozerthetofogalmazas-2015-021); [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-069); [NAV 2024a, 10. o.](forrasok.md#nav-ertheto-hivatal-1-005); [NAV 2024b, 18. o.](forrasok.md#nav-ertheto-hivatal-2-028); [Világos Beszéd kézikönyv 2025, 14. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-025); [Világos Beszéd kézikönyv 2025, 18. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-038); [Világos Beszéd kézikönyv 2025, 19. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-040); [Világos Beszéd kézikönyv 2025, 19. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-041); [Világos Beszéd kézikönyv 2025, 19. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-042); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-088); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-097); [Világos Beszéd kézikönyv 2025, 39. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-123); [Világos Beszéd 2025, 6. o.](forrasok.md#vilagos-beszed-kisokos-2025-018).
 
 <a id="k013"></a>
 
@@ -319,7 +319,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Gerencsér 2023, 14. o.](forrasok.md#gerencser-2023-007); [NAV 2024a, 55. o.](forrasok.md#nav-ertheto-hivatal-1-033); [NAV 2024a, 58–59. o.](forrasok.md#nav-ertheto-hivatal-1-036); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-015); [NAV 2024b, 18. o.](forrasok.md#nav-ertheto-hivatal-2-027); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-071); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-072); [WP260 2018, 10. o.](forrasok.md#wp260-2018-011).
+Források: [Gerencsér 2023, 14. o.](forrasok.md#gerencser-2023-007); [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-080); [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-081); [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-082); [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-083); [NAV 2024a, 55. o.](forrasok.md#nav-ertheto-hivatal-1-033); [NAV 2024a, 58–59. o.](forrasok.md#nav-ertheto-hivatal-1-036); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-015); [NAV 2024b, 18. o.](forrasok.md#nav-ertheto-hivatal-2-027); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-071); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-072); [WP260 2018, 10. o.](forrasok.md#wp260-2018-011).
 
 <a id="k014"></a>
 
@@ -336,7 +336,7 @@ Ellenőrző kérdés: Minden bekezdés egy témáról szól?
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Gerencsér 2023, 14. o.](forrasok.md#gerencser-2023-006); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-026); [Világos Beszéd kézikönyv 2025, 21. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-046); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-031).
+Források: [Gerencsér 2023, 14. o.](forrasok.md#gerencser-2023-006); [Gergely: kozerthetofogalmazas.hu, /tagold-a-szoveget-ertheto-alcimekkel/](forrasok.md#kozerthetofogalmazas-2015-018); [Gergely: kozerthetofogalmazas.hu, /bekezdesek/](forrasok.md#kozerthetofogalmazas-2015-060); [Gergely: kozerthetofogalmazas.hu, /bekezdesek/](forrasok.md#kozerthetofogalmazas-2015-061); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-026); [Világos Beszéd kézikönyv 2025, 21. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-046); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-031).
 
 <a id="k015"></a>
 
@@ -357,7 +357,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 18. o.](forrasok.md#nav-ertheto-hivatal-2-029); [Világos Beszéd kézikönyv 2025, 19. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-039).
+Források: [Gergely: kozerthetofogalmazas.hu, /mirol-irj/](forrasok.md#kozerthetofogalmazas-2015-025); [NAV 2024b, 18. o.](forrasok.md#nav-ertheto-hivatal-2-029); [Világos Beszéd kézikönyv 2025, 19. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-039).
 
 <a id="k016"></a>
 
@@ -378,7 +378,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-013); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-017); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-018).
+Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-013); [Gergely: kozerthetofogalmazas.hu, /tagold-a-szoveget-ertheto-alcimekkel/](forrasok.md#kozerthetofogalmazas-2015-016); [Gergely: kozerthetofogalmazas.hu, /tagold-a-szoveget-ertheto-alcimekkel/](forrasok.md#kozerthetofogalmazas-2015-018); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-017); [NAV 2024b, 15. o.](forrasok.md#nav-ertheto-hivatal-2-018).
 
 <a id="k017"></a>
 
@@ -395,7 +395,7 @@ Ellenőrző kérdés: Hosszabb szövegnél van rövid összefoglaló az elején,
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-012); [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-015); [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-016).
+Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-012); [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-015); [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-016); [Gergely: kozerthetofogalmazas.hu, /tagold-a-szoveget-ertheto-alcimekkel/](forrasok.md#kozerthetofogalmazas-2015-020).
 
 <a id="k018"></a>
 
@@ -412,7 +412,7 @@ Ellenőrző kérdés: Bonyolult, sokakat érintő témánál van a teljes anyag 
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [NAV 2024a, 44–45. o.](forrasok.md#nav-ertheto-hivatal-1-026); [Világos Beszéd kézikönyv 2025, 21. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-047); [WP260 2018, 7. o.](forrasok.md#wp260-2018-002).
+Források: [Gergely: kozerthetofogalmazas.hu, /mirol-irj/](forrasok.md#kozerthetofogalmazas-2015-023); [Gergely: kozerthetofogalmazas.hu, /akadalymentesites-a-weben/](forrasok.md#kozerthetofogalmazas-2015-091); [NAV 2024a, 44–45. o.](forrasok.md#nav-ertheto-hivatal-1-026); [Világos Beszéd kézikönyv 2025, 21. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-047); [WP260 2018, 7. o.](forrasok.md#wp260-2018-002).
 
 <a id="mondat"></a>
 
@@ -433,7 +433,7 @@ Ellenőrző kérdés: Minden mondat egy dologról szól?
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Horváth 2021, 108–109. o.](forrasok.md#horvath-2021-019); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-037); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-066); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-093); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-027).
+Források: [Horváth 2021, 108–109. o.](forrasok.md#horvath-2021-019); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-046); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-037); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-066); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-093); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-027).
 
 <a id="k020"></a>
 
@@ -455,7 +455,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): mondathossz.
 
-Források: [Balogh 2023, 186–187. o.](forrasok.md#balogh-2023-014); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-022); [NAV 2024a, 10. o.](forrasok.md#nav-ertheto-hivatal-1-005); [Üveges 2026, 9. o.](forrasok.md#uveges-2026-003); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-093); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-027).
+Források: [Balogh 2023, 186–187. o.](forrasok.md#balogh-2023-014); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-022); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-047); [NAV 2024a, 10. o.](forrasok.md#nav-ertheto-hivatal-1-005); [Üveges 2026, 9. o.](forrasok.md#uveges-2026-003); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-093); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-027).
 
 Ha a források eltérnek: A Világos Beszéd kisokosa szerint egy mondat legfeljebb 15–20 szóból álljon, a kézikönyv szerint húsz szónál semmiképp se legyen hosszabb; az uniós útmutató ugyanezt átlagként adja meg. Üveges korpuszában a szakértők által közérthetőre átírt hivatali mondatok átlaga is 25 token fölött van. A skill döntése: A skill az átlagot követi (15–20 szó), és a 20 szó feletti mondatot jelöltként mutatja, nem hibaként. Ok: jogi és hivatali szövegben egy pontos feltétel gyakran hosszabb mondatot kíván, és Üveges eredménye szerint a felszíni hossz önmagában nem dönti el az érthetőséget. ([Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-027); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-022); [Üveges 2026, 9. o.](forrasok.md#uveges-2026-003))
 
@@ -474,7 +474,7 @@ Ellenőrző kérdés: A mondatok elején, egymás közelében áll az alany és 
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Balogh 2023, 183. o.](forrasok.md#balogh-2023-008); [Horváth 2021, 105. o.](forrasok.md#horvath-2021-009); [NAV 2024b, 20–21. o.](forrasok.md#nav-ertheto-hivatal-2-031); [NAV 2024b, 21. o.](forrasok.md#nav-ertheto-hivatal-2-033); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-034); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-067); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-028).
+Források: [Balogh 2023, 183. o.](forrasok.md#balogh-2023-008); [Horváth 2021, 105. o.](forrasok.md#horvath-2021-009); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-057); [NAV 2024b, 20–21. o.](forrasok.md#nav-ertheto-hivatal-2-031); [NAV 2024b, 21. o.](forrasok.md#nav-ertheto-hivatal-2-033); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-034); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-067); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-028).
 
 <a id="k022"></a>
 
@@ -491,7 +491,7 @@ Ellenőrző kérdés: A feltételes mondatok a feltétellel kezdődnek?
 
 Kör: általános. Alapértelmezett súlyosság: magas. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-035); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-060); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-070).
+Források: [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-027); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-059); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-035); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-060); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-070).
 
 <a id="k023"></a>
 
@@ -512,7 +512,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): mondathossz, huspacy.
 
-Források: [Balogh 2023, 186–187. o.](forrasok.md#balogh-2023-014); [Gerencsér 2023, 13–14. o.](forrasok.md#gerencser-2023-005); [Horváth 2021, 110. o.](forrasok.md#horvath-2021-023); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-036); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [WP260 2018, 9. o.](forrasok.md#wp260-2018-005).
+Források: [Balogh 2023, 186–187. o.](forrasok.md#balogh-2023-014); [Gerencsér 2023, 13–14. o.](forrasok.md#gerencser-2023-005); [Horváth 2021, 110. o.](forrasok.md#horvath-2021-023); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-048); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-036); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [WP260 2018, 9. o.](forrasok.md#wp260-2018-005).
 
 Ha a források eltérnek: A NAV a kettőnél több tagmondatú mondatot bontaná, a Világos Beszéd kézikönyve legfeljebb három tagmondatot enged egy mondatban. A skill döntése: A skill már a kettőnél több tagmondatú mondatot is jelöli, de csak megvizsgálandó jelöltként: a kivétel szerint az összetett mondat maradhat, ha a bontás rontana rajta. Ok: a jelölés csak figyelmeztet, a bontásról az író dönt a szöveg ismeretében. ([Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-065); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-036))
 
@@ -548,7 +548,7 @@ Ellenőrző kérdés: A mondatok lényeges része elöl áll, és a szórend azt
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-029); [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-030); [Horváth 2021, 106. o.](forrasok.md#horvath-2021-010); [Horváth 2021, 106. o.](forrasok.md#horvath-2021-011); [Horváth 2021, 109. o.](forrasok.md#horvath-2021-020); [NAV 2024a, 55. o.](forrasok.md#nav-ertheto-hivatal-1-033); [NAV 2024b, 21. o.](forrasok.md#nav-ertheto-hivatal-2-032); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-069); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-093).
+Források: [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-029); [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-030); [Horváth 2021, 106. o.](forrasok.md#horvath-2021-010); [Horváth 2021, 106. o.](forrasok.md#horvath-2021-011); [Horváth 2021, 109. o.](forrasok.md#horvath-2021-020); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-058); [NAV 2024a, 55. o.](forrasok.md#nav-ertheto-hivatal-1-033); [NAV 2024b, 21. o.](forrasok.md#nav-ertheto-hivatal-2-032); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-069); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-093).
 
 <a id="k026"></a>
 
@@ -565,7 +565,7 @@ Ellenőrző kérdés: Ami állítóan is megfogalmazható, az állító mondatba
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): tagadas.
 
-Források: [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-028); [NAV 2024b, 22–23. o.](forrasok.md#nav-ertheto-hivatal-2-038); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-119).
+Források: [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-028); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-053); [NAV 2024b, 22–23. o.](forrasok.md#nav-ertheto-hivatal-2-038); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-119).
 
 <a id="k027"></a>
 
@@ -582,7 +582,7 @@ Ellenőrző kérdés: Kiderül a mondatok kapcsolata (ok, következmény, ellent
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-023); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-023).
+Források: [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-023); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-054); [Gergely: kozerthetofogalmazas.hu, /bekezdesek/](forrasok.md#kozerthetofogalmazas-2015-062); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-023).
 
 <a id="k028"></a>
 
@@ -599,7 +599,7 @@ Ellenőrző kérdés: A mondatok magyar szerkezetűek, nincs bennük idegen mint
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-031); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-005).
+Források: [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-031); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-055); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-005).
 
 <a id="k082"></a>
 
@@ -648,7 +648,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): hosszu_szavak.
 
-Források: [Horváth 2021, 103. o.](forrasok.md#horvath-2021-002); [Horváth 2021, 104. o.](forrasok.md#horvath-2021-003); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-052); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-090); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-113); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-022); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-023).
+Források: [Horváth 2021, 103. o.](forrasok.md#horvath-2021-002); [Horváth 2021, 104. o.](forrasok.md#horvath-2021-003); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-037); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-038); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-052); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-090); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-113); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-022); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-023).
 
 <a id="k030"></a>
 
@@ -665,7 +665,7 @@ Ellenőrző kérdés: Minden szakszó meg van magyarázva az első előfordulás
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-014); [Európai Bizottság 2013, 12. o.](forrasok.md#eu-pontos-fogalmazas-2013-045); [Európai Bizottság 2013, 12. o.](forrasok.md#eu-pontos-fogalmazas-2013-046); [Gerencsér 2023, 13–14. o.](forrasok.md#gerencser-2023-004); [NAV 2024a, 55. o.](forrasok.md#nav-ertheto-hivatal-1-034); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-060); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-053); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-054); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-090); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 39. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-124); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-022); [WP260 2018, 10. o.](forrasok.md#wp260-2018-013).
+Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-014); [Európai Bizottság 2013, 12. o.](forrasok.md#eu-pontos-fogalmazas-2013-045); [Európai Bizottság 2013, 12. o.](forrasok.md#eu-pontos-fogalmazas-2013-046); [Gerencsér 2023, 13–14. o.](forrasok.md#gerencser-2023-004); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-039); [NAV 2024a, 55. o.](forrasok.md#nav-ertheto-hivatal-1-034); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-060); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-053); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-054); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-090); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 39. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-124); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-022); [WP260 2018, 10. o.](forrasok.md#wp260-2018-013).
 
 <a id="k031"></a>
 
@@ -682,7 +682,7 @@ Ellenőrző kérdés: Nincs olyan köznyelvi szó, amelyet az olvasó más jelen
 
 Kör: általános. Alapértelmezett súlyosság: magas. Ellenőrzés: olvasva.
 
-Források: [Horváth 2021, 104. o.](forrasok.md#horvath-2021-005).
+Források: [Horváth 2021, 104. o.](forrasok.md#horvath-2021-005); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-041).
 
 <a id="k032"></a>
 
@@ -703,7 +703,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): hosszu_szavak.
 
-Források: [Európai Bizottság 2013, 11. o.](forrasok.md#eu-pontos-fogalmazas-2013-044); [Horváth 2021, 105. o.](forrasok.md#horvath-2021-006); [Horváth 2021, 105. o.](forrasok.md#horvath-2021-007); [Horváth 2021, 105. o.](forrasok.md#horvath-2021-008); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-060); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-056); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-113).
+Források: [Európai Bizottság 2013, 11. o.](forrasok.md#eu-pontos-fogalmazas-2013-044); [Horváth 2021, 105. o.](forrasok.md#horvath-2021-006); [Horváth 2021, 105. o.](forrasok.md#horvath-2021-007); [Horváth 2021, 105. o.](forrasok.md#horvath-2021-008); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-043); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-060); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-056); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-113).
 
 <a id="k033"></a>
 
@@ -724,7 +724,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Balogh 2023, 187. o.](forrasok.md#balogh-2023-015); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-021); [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-027); [Horváth 2021, 107. o.](forrasok.md#horvath-2021-016); [Jszr., 4. § (1)–(2)](forrasok.md#jszr-2009-003); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-061); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-057).
+Források: [Balogh 2023, 187. o.](forrasok.md#balogh-2023-015); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-021); [Európai Bizottság 2013, 7. o.](forrasok.md#eu-pontos-fogalmazas-2013-027); [Horváth 2021, 107. o.](forrasok.md#horvath-2021-016); [Jszr., 4. § (1)–(2)](forrasok.md#jszr-2009-003); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-042); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-061); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-057).
 
 Ha a források eltérnek: A NAV példatára szerint ne féljünk a szóismétléstől; az uniós útmutató az önismétlés kerülését kéri. A skill döntése: A kettő nem ütközik: a fogalom megnevezése ismétlődhet és ismétlődjön is, a hosszú név vagy a már elmondott tartalom ismételgetése viszont felesleges. A skill a terminust nem cseréli szinonimára, a felesleges ismétlést kihúzza. ([NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-061); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-021))
 
@@ -764,7 +764,7 @@ Ellenőrző kérdés: Kimaradtak a jelentés nélküli fordulatok, a felesleges 
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): hivatali_fordulatok.
 
-Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-017); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-019); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-020); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-021); [Gerencsér 2023, 13–14. o.](forrasok.md#gerencser-2023-005); [Horváth 2021, 106. o.](forrasok.md#horvath-2021-012); [Horváth 2021, 107. o.](forrasok.md#horvath-2021-013); [Horváth 2021, 107. o.](forrasok.md#horvath-2021-014); [Horváth 2021, 107. o.](forrasok.md#horvath-2021-015); [Horváth 2021, 108. o.](forrasok.md#horvath-2021-017); [Horváth 2021, 108. o.](forrasok.md#horvath-2021-018); [NAV 2024b, 36. o.](forrasok.md#nav-ertheto-hivatal-2-055); [NAV 2024b, 36–37. o.](forrasok.md#nav-ertheto-hivatal-2-056); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-064); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-074); [Világos Beszéd kézikönyv 2025, 27. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-075); [Világos Beszéd kézikönyv 2025, 27. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-076); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-094); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-116); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-029).
+Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-017); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-019); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-020); [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-021); [Gerencsér 2023, 13–14. o.](forrasok.md#gerencser-2023-005); [Horváth 2021, 106. o.](forrasok.md#horvath-2021-012); [Horváth 2021, 107. o.](forrasok.md#horvath-2021-013); [Horváth 2021, 107. o.](forrasok.md#horvath-2021-014); [Horváth 2021, 107. o.](forrasok.md#horvath-2021-015); [Horváth 2021, 108. o.](forrasok.md#horvath-2021-017); [Horváth 2021, 108. o.](forrasok.md#horvath-2021-018); [Gergely: kozerthetofogalmazas.hu, /](forrasok.md#kozerthetofogalmazas-2015-002); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-033); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-052); [NAV 2024b, 36. o.](forrasok.md#nav-ertheto-hivatal-2-055); [NAV 2024b, 36–37. o.](forrasok.md#nav-ertheto-hivatal-2-056); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-064); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-074); [Világos Beszéd kézikönyv 2025, 27. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-075); [Világos Beszéd kézikönyv 2025, 27. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-076); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-094); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-116); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-029).
 
 <a id="k036"></a>
 
@@ -798,7 +798,7 @@ Ellenőrző kérdés: Nincs felesleges igekötő?
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: gépi. Keresőminta: leellenőriz, kihangsúlyoz és hasonló felesleges igekötős alak.
 
-Források: [Európai Bizottság 2013, 8. o.](forrasok.md#eu-pontos-fogalmazas-2013-034); [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-041); [NAV 2024b, 38. o.](forrasok.md#nav-ertheto-hivatal-2-057).
+Források: [Európai Bizottság 2013, 8. o.](forrasok.md#eu-pontos-fogalmazas-2013-034); [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-041); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-036); [NAV 2024b, 38. o.](forrasok.md#nav-ertheto-hivatal-2-057).
 
 <a id="k038"></a>
 
@@ -815,7 +815,7 @@ Ellenőrző kérdés: Ahol rag is elég, ott nincs névutó vagy hosszabb szerke
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt.
 
-Források: [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-040); [NAV 2024b, 38–39. o.](forrasok.md#nav-ertheto-hivatal-2-058); [Világos Beszéd kézikönyv 2025, 27. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-075); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-116).
+Források: [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-040); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-035); [NAV 2024b, 38–39. o.](forrasok.md#nav-ertheto-hivatal-2-058); [Világos Beszéd kézikönyv 2025, 27. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-075); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-116).
 
 <a id="k039"></a>
 
@@ -856,7 +856,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-021); [Európai Bizottság 2013, 13. o.](forrasok.md#eu-pontos-fogalmazas-2013-047); [Európai Bizottság 2013, 13. o.](forrasok.md#eu-pontos-fogalmazas-2013-048); [Jszr., 5. §](forrasok.md#jszr-2009-004); [NAV 2024b, 23. o.](forrasok.md#nav-ertheto-hivatal-2-042); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-062); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-056).
+Források: [Európai Bizottság 2013, 6. o.](forrasok.md#eu-pontos-fogalmazas-2013-021); [Európai Bizottság 2013, 13. o.](forrasok.md#eu-pontos-fogalmazas-2013-047); [Európai Bizottság 2013, 13. o.](forrasok.md#eu-pontos-fogalmazas-2013-048); [Jszr., 5. §](forrasok.md#jszr-2009-004); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-045); [NAV 2024b, 23. o.](forrasok.md#nav-ertheto-hivatal-2-042); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-062); [Világos Beszéd kézikönyv 2025, 23. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-056).
 
 <a id="k041"></a>
 
@@ -873,7 +873,7 @@ Ellenőrző kérdés: Az elvont és divatos kifejezések helyén konkrét szó �
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 9. o.](forrasok.md#eu-pontos-fogalmazas-2013-035); [Európai Bizottság 2013, 9. o.](forrasok.md#eu-pontos-fogalmazas-2013-036); [Európai Bizottság 2013, 9. o.](forrasok.md#eu-pontos-fogalmazas-2013-037); [WP260 2018, 9. o.](forrasok.md#wp260-2018-006).
+Források: [Európai Bizottság 2013, 9. o.](forrasok.md#eu-pontos-fogalmazas-2013-035); [Európai Bizottság 2013, 9. o.](forrasok.md#eu-pontos-fogalmazas-2013-036); [Európai Bizottság 2013, 9. o.](forrasok.md#eu-pontos-fogalmazas-2013-037); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-040); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-044); [WP260 2018, 9. o.](forrasok.md#wp260-2018-006).
 
 <a id="k080"></a>
 
@@ -911,7 +911,7 @@ Ellenőrző kérdés: A cselekvéseket ige fejezi ki, nem főnévvé tett ige (�
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): fonevesites, altal_torteno_valo.
 
-Források: [Balogh 2023, 181. o.](forrasok.md#balogh-2023-006); [Európai Bizottság 2013, 8. o.](forrasok.md#eu-pontos-fogalmazas-2013-032); [Európai Bizottság 2013, 8. o.](forrasok.md#eu-pontos-fogalmazas-2013-033); [Horváth 2021, 110. o.](forrasok.md#horvath-2021-024); [NAV 2024b, 23. o.](forrasok.md#nav-ertheto-hivatal-2-041); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-051); [NAV 2024b, 30–33. o.](forrasok.md#nav-ertheto-hivatal-2-052); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-029); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-058); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-060); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-061); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-091); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-024); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-025); [WP260 2018, 10. o.](forrasok.md#wp260-2018-012).
+Források: [Balogh 2023, 181. o.](forrasok.md#balogh-2023-006); [Európai Bizottság 2013, 8. o.](forrasok.md#eu-pontos-fogalmazas-2013-032); [Európai Bizottság 2013, 8. o.](forrasok.md#eu-pontos-fogalmazas-2013-033); [Horváth 2021, 110. o.](forrasok.md#horvath-2021-024); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-056); [NAV 2024b, 23. o.](forrasok.md#nav-ertheto-hivatal-2-041); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-051); [NAV 2024b, 30–33. o.](forrasok.md#nav-ertheto-hivatal-2-052); [Világos Beszéd kézikönyv 2025, 16. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-029); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-058); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-060); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-061); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-091); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-024); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-025); [WP260 2018, 10. o.](forrasok.md#wp260-2018-012).
 
 <a id="k043"></a>
 
@@ -932,7 +932,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: gépi. Mérés (meres.py): kerul_szerkezet.
 
-Források: [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-039); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-039); [NAV 2024b, 25. o.](forrasok.md#nav-ertheto-hivatal-2-044); [NAV 2024b, 26. o.](forrasok.md#nav-ertheto-hivatal-2-045); [NAV 2024b, 27–29. o.](forrasok.md#nav-ertheto-hivatal-2-046); [Világos Beszéd kézikönyv 2025, 38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-115); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-025).
+Források: [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-039); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-034); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-039); [NAV 2024b, 25. o.](forrasok.md#nav-ertheto-hivatal-2-044); [NAV 2024b, 26. o.](forrasok.md#nav-ertheto-hivatal-2-045); [NAV 2024b, 27–29. o.](forrasok.md#nav-ertheto-hivatal-2-046); [Világos Beszéd kézikönyv 2025, 38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-115); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-025).
 
 <a id="k044"></a>
 
@@ -953,7 +953,9 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt.
 
-Források: [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-042); [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-043); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-039); [NAV 2024b, 25. o.](forrasok.md#nav-ertheto-hivatal-2-043); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-047); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-048); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-049); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-050); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-058); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-119); [WP260 2018, 10. o.](forrasok.md#wp260-2018-012).
+Források: [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-042); [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-043); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-049); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-050); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-039); [NAV 2024b, 25. o.](forrasok.md#nav-ertheto-hivatal-2-043); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-047); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-048); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-049); [NAV 2024b, 30. o.](forrasok.md#nav-ertheto-hivatal-2-050); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-058); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-119); [WP260 2018, 10. o.](forrasok.md#wp260-2018-012).
+
+Ha a források eltérnek: A kozerthetofogalmazas.hu három esetben enged a cselekvő megnevezése nélküli mondatot: ha a tárgy a fontos, ha a nyílt megfogalmazás túl ellenséges volna, és ha a szerző a felelősséget el akarja mosni. A NAV szerint a cselekvő elhallgatása ködösítésnek hat; a többi forrás csak azt engedi, hogy ismeretlen vagy lényegtelen cselekvőnél általános alany álljon. A skill döntése: A skill az első két esetet elfogadja, a harmadikat nem. Ok: a skill az olvasóért dolgozik, és az olvasónak tudnia kell, kitől kérhet számon valamit; a felelősség elmosása éppen ezt veszi el tőle. ([Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-050); [NAV 2024b, 25. o.](forrasok.md#nav-ertheto-hivatal-2-043))
 
 <a id="k045"></a>
 
@@ -970,7 +972,7 @@ Ellenőrző kérdés: Nincs terpeszkedő szerkezet („döntést hoz” a „dö
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): hivatali_fordulatok.
 
-Források: [Európai Bizottság 2013, 8. o.](forrasok.md#eu-pontos-fogalmazas-2013-033); [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-039); [NAV 2024b, 34. o.](forrasok.md#nav-ertheto-hivatal-2-053); [NAV 2024b, 35. o.](forrasok.md#nav-ertheto-hivatal-2-054); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-059); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-114).
+Források: [Európai Bizottság 2013, 8. o.](forrasok.md#eu-pontos-fogalmazas-2013-033); [Európai Bizottság 2013, 10. o.](forrasok.md#eu-pontos-fogalmazas-2013-039); [Gergely: kozerthetofogalmazas.hu, /szavak/](forrasok.md#kozerthetofogalmazas-2015-034); [NAV 2024b, 34. o.](forrasok.md#nav-ertheto-hivatal-2-053); [NAV 2024b, 35. o.](forrasok.md#nav-ertheto-hivatal-2-054); [Világos Beszéd kézikönyv 2025, 24. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-059); [Világos Beszéd kézikönyv 2025, 37–38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-114).
 
 <a id="k046"></a>
 
@@ -987,7 +989,7 @@ Ellenőrző kérdés: Nincs kettős tagadás, rejtett formában sem?
 
 Kör: általános. Alapértelmezett súlyosság: magas. Ellenőrzés: jelölt. Mérés (meres.py): tagadas.
 
-Források: [Horváth 2021, 109. o.](forrasok.md#horvath-2021-021); [Horváth 2021, 109. o.](forrasok.md#horvath-2021-022); [NAV 2024b, 22–23. o.](forrasok.md#nav-ertheto-hivatal-2-038).
+Források: [Horváth 2021, 109. o.](forrasok.md#horvath-2021-021); [Horváth 2021, 109. o.](forrasok.md#horvath-2021-022); [Gergely: kozerthetofogalmazas.hu, /mondatok/](forrasok.md#kozerthetofogalmazas-2015-053); [NAV 2024b, 22–23. o.](forrasok.md#nav-ertheto-hivatal-2-038).
 
 <a id="k047"></a>
 
@@ -1035,7 +1037,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt.
 
-Források: [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-009); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-040); [Világos Beszéd kézikönyv 2025, 22. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-049); [Világos Beszéd kézikönyv 2025, 22. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-050); [Világos Beszéd kézikönyv 2025, 22. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-051); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-089); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-118); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-020); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-021).
+Források: [Európai Bizottság 2013, 4. o.](forrasok.md#eu-pontos-fogalmazas-2013-009); [Gergely: kozerthetofogalmazas.hu, /](forrasok.md#kozerthetofogalmazas-2015-002); [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-026); [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-027); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-040); [Világos Beszéd kézikönyv 2025, 22. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-049); [Világos Beszéd kézikönyv 2025, 22. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-050); [Világos Beszéd kézikönyv 2025, 22. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-051); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-089); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-118); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-020); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-021).
 
 <a id="k049"></a>
 
@@ -1052,7 +1054,7 @@ Ellenőrző kérdés: Végig ugyanaz a megszólítás és ugyanaz a megnevezés 
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-035); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-065); [Világos Beszéd kézikönyv 2025, 22. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-049); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-020).
+Források: [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-070); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-035); [NAV 2024b, 41. o.](forrasok.md#nav-ertheto-hivatal-2-065); [Világos Beszéd kézikönyv 2025, 22. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-049); [Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-020).
 
 Ha a források eltérnek: A Világos Beszéd kisokosa nagybetűs „Ön” megszólítást ír elő; a NAV példatárának egyik példájában kisbetűs „ön” áll, a tanácsai között viszont nagybetűs. A skill döntése: A skill a szöveg saját választását tartja meg, és azt egységesíti. Ha a szöveg nem dönt, hivatali levélben a nagybetűs „Ön”-t javasolja, mert a kisokos ezt írja elő, és a NAV is így ír a saját tanácsaiban. ([Világos Beszéd 2025, 8. o.](forrasok.md#vilagos-beszed-kisokos-2025-020); [NAV 2024b, 22. o.](forrasok.md#nav-ertheto-hivatal-2-035))
 
@@ -1071,7 +1073,7 @@ Ellenőrző kérdés: Udvarias és partneri a hang, merev hivatali fordulatok n�
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: jelölt. Mérés (meres.py): hivatali_fordulatok.
 
-Források: [Világos Beszéd kézikönyv 2025, 4. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-002); [Világos Beszéd kézikönyv 2025, 5. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-003); [Világos Beszéd kézikönyv 2025, 27–28. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-077); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-095); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-121); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-032).
+Források: [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-029); [Világos Beszéd kézikönyv 2025, 4. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-002); [Világos Beszéd kézikönyv 2025, 5. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-003); [Világos Beszéd kézikönyv 2025, 27–28. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-077); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-095); [Világos Beszéd kézikönyv 2025, 32–33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-098); [Világos Beszéd kézikönyv 2025, 38. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-121); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-032).
 
 <a id="kinezet"></a>
 
@@ -1092,7 +1094,7 @@ Ellenőrző kérdés: Az alcímek nagyobb, félkövér betűvel látszanak, és 
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-079); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-080); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-096); [Világos Beszéd kézikönyv 2025, 33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-099); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-108); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-033); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-045).
+Források: [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-067); [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-068); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-079); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-080); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-096); [Világos Beszéd kézikönyv 2025, 33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-099); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-108); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-033); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-045).
 
 <a id="k052"></a>
 
@@ -1109,7 +1111,7 @@ Ellenőrző kérdés: Kevés, rövid és önmagában is érthető a kiemelés?
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-014); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-024); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-063); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-081); [Világos Beszéd kézikönyv 2025, 29–30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-082); [Világos Beszéd kézikönyv 2025, 30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-083); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-096); [Világos Beszéd kézikönyv 2025, 33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-099); [Világos Beszéd kézikönyv 2025, 37. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-120); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-034).
+Források: [Gergely: kozerthetofogalmazas.hu, /betuk/](forrasok.md#kozerthetofogalmazas-2015-075); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-014); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-024); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-063); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-081); [Világos Beszéd kézikönyv 2025, 29–30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-082); [Világos Beszéd kézikönyv 2025, 30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-083); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-096); [Világos Beszéd kézikönyv 2025, 33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-099); [Világos Beszéd kézikönyv 2025, 37. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-120); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-034).
 
 <a id="k053"></a>
 
@@ -1126,7 +1128,7 @@ Ellenőrző kérdés: Szellős és egységes az íráskép (betű, sorköz, tér
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 12. o.](forrasok.md#nav-ertheto-hivatal-2-011); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-012); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-013); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-080); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-081); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-108); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-046).
+Források: [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-066); [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-071); [Gergely: kozerthetofogalmazas.hu, /szokepet-olvasunk/](forrasok.md#kozerthetofogalmazas-2015-072); [Gergely: kozerthetofogalmazas.hu, /betuk/](forrasok.md#kozerthetofogalmazas-2015-073); [Gergely: kozerthetofogalmazas.hu, /betuk/](forrasok.md#kozerthetofogalmazas-2015-076); [Gergely: kozerthetofogalmazas.hu, /sorok/](forrasok.md#kozerthetofogalmazas-2015-077); [Gergely: kozerthetofogalmazas.hu, /sorok/](forrasok.md#kozerthetofogalmazas-2015-078); [Gergely: kozerthetofogalmazas.hu, /sorok/](forrasok.md#kozerthetofogalmazas-2015-079); [NAV 2024b, 12. o.](forrasok.md#nav-ertheto-hivatal-2-011); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-012); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-013); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-080); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-081); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-108); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-046).
 
 <a id="k054"></a>
 
@@ -1164,7 +1166,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [Világos Beszéd kézikönyv 2025, 30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-083); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-109); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-047).
+Források: [Gergely: kozerthetofogalmazas.hu, /betuk/](forrasok.md#kozerthetofogalmazas-2015-074); [Világos Beszéd kézikönyv 2025, 30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-083); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-109); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-047).
 
 <a id="szamok-es-jelek"></a>
 
@@ -1185,7 +1187,9 @@ Ellenőrző kérdés: A nehéz helyesírású szakkifejezéseket szótárban ell
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 14. o.](forrasok.md#eu-pontos-fogalmazas-2013-049); [NAV 2024a, 30. o.](forrasok.md#nav-ertheto-hivatal-1-015); [NAV 2024b, 2, 66. o.](forrasok.md#nav-ertheto-hivatal-2-001); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-005).
+Források: [Európai Bizottság 2013, 14. o.](forrasok.md#eu-pontos-fogalmazas-2013-049); [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-030); [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-031); [NAV 2024a, 30. o.](forrasok.md#nav-ertheto-hivatal-1-015); [NAV 2024b, 2, 66. o.](forrasok.md#nav-ertheto-hivatal-2-001); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-005).
+
+Ha a források eltérnek: A kozerthetofogalmazas.hu szerzője szerint a különírás, az egybeírás és a kötőjelezés kérdésében az érthetőség előbbre való a helyesírási szabályzatnál (például „kamatadó-mentes”, „email”). A NAV a pontos helyesírást a közérthetőség részének tekinti. A skill döntése: A skill a szabályzat szerinti alakot javasolja. Ok: hivatali és jogi szövegben a helyesírási hiba rontja a hitelt, és a szabályzat ad egységes mércét. Ha a szabályos alak nehezen olvasható, a skill átfogalmazást javasol (például „nem kell utána kamatadót fizetni”), nem szabálytalan írásmódot. ([Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-031); [NAV 2024b, 6. o.](forrasok.md#nav-ertheto-hivatal-2-005))
 
 <a id="k057"></a>
 
@@ -1333,7 +1337,7 @@ Ellenőrző kérdés: Ahol táblázat, ábra vagy ikon világosabb volna, ott az
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-014); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-073).
+Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-014); [Gergely: kozerthetofogalmazas.hu, /bonyolult-dolgokrol-egyszeruen/](forrasok.md#kozerthetofogalmazas-2015-064); [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-084); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-073).
 
 <a id="k065"></a>
 
@@ -1367,7 +1371,7 @@ Ellenőrző kérdés: A táblázatban egységes a dátum, a rövidítés és a k
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 59. o.](forrasok.md#nav-ertheto-hivatal-2-077); [NAV 2024b, 60. o.](forrasok.md#nav-ertheto-hivatal-2-078); [NAV 2024b, 61. o.](forrasok.md#nav-ertheto-hivatal-2-079); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-073).
+Források: [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-085); [NAV 2024b, 59. o.](forrasok.md#nav-ertheto-hivatal-2-077); [NAV 2024b, 60. o.](forrasok.md#nav-ertheto-hivatal-2-078); [NAV 2024b, 61. o.](forrasok.md#nav-ertheto-hivatal-2-079); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-073).
 
 <a id="k067"></a>
 
@@ -1384,7 +1388,7 @@ Ellenőrző kérdés: A diagram illeszkedik az adatokhoz, és könnyen olvashat�
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 62. o.](forrasok.md#nav-ertheto-hivatal-2-080).
+Források: [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-086); [NAV 2024b, 62. o.](forrasok.md#nav-ertheto-hivatal-2-080).
 
 <a id="nyomtatvany"></a>
 
@@ -1511,7 +1515,7 @@ Ellenőrző kérdés: Végigmentél az írás lépésein: olvasó és cél, váz
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 3. o.](forrasok.md#eu-pontos-fogalmazas-2013-005); [Világos Beszéd kézikönyv 2025, 9. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-010); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-035); [Világos Beszéd 2025, 4. o.](forrasok.md#vilagos-beszed-kisokos-2025-006).
+Források: [Európai Bizottság 2013, 3. o.](forrasok.md#eu-pontos-fogalmazas-2013-005); [Gergely: kozerthetofogalmazas.hu, /tagold-a-szoveget-ertheto-alcimekkel/](forrasok.md#kozerthetofogalmazas-2015-017); [Gergely: kozerthetofogalmazas.hu, /ellenorizd/](forrasok.md#kozerthetofogalmazas-2015-093); [Világos Beszéd kézikönyv 2025, 9. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-010); [Világos Beszéd kézikönyv 2025, 17. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-035); [Világos Beszéd 2025, 4. o.](forrasok.md#vilagos-beszed-kisokos-2025-006).
 
 <a id="k075"></a>
 
@@ -1528,7 +1532,7 @@ Ellenőrző kérdés: Ellenőrizted a szöveget ellenőrző listával, és felol
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 14. o.](forrasok.md#eu-pontos-fogalmazas-2013-050); [Gerencsér 2023, 18. o.](forrasok.md#gerencser-2023-015); [NAV 2024a, 34. o.](forrasok.md#nav-ertheto-hivatal-1-019); [NAV 2024a, 46. o.](forrasok.md#nav-ertheto-hivatal-1-027); [NAV 2024b, 64. o.](forrasok.md#nav-ertheto-hivatal-2-081); [NAV 2024b, 65. o.](forrasok.md#nav-ertheto-hivatal-2-082); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-084); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-085).
+Források: [Európai Bizottság 2013, 14. o.](forrasok.md#eu-pontos-fogalmazas-2013-050); [Gerencsér 2023, 18. o.](forrasok.md#gerencser-2023-015); [Gergely: kozerthetofogalmazas.hu, /hogyan-irj/](forrasok.md#kozerthetofogalmazas-2015-032); [Gergely: kozerthetofogalmazas.hu, /ellenorizd/](forrasok.md#kozerthetofogalmazas-2015-094); [NAV 2024a, 34. o.](forrasok.md#nav-ertheto-hivatal-1-019); [NAV 2024a, 46. o.](forrasok.md#nav-ertheto-hivatal-1-027); [NAV 2024b, 64. o.](forrasok.md#nav-ertheto-hivatal-2-081); [NAV 2024b, 65. o.](forrasok.md#nav-ertheto-hivatal-2-082); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-084); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-085).
 
 <a id="k076"></a>
 
@@ -1549,7 +1553,7 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 14. o.](forrasok.md#eu-pontos-fogalmazas-2013-051); [Gerencsér 2023, 15. o.](forrasok.md#gerencser-2023-009); [Horváth 2021, 104. o.](forrasok.md#horvath-2021-004); [Horváth 2021, 112. o.](forrasok.md#horvath-2021-026); [NAV 2024a, 38. o.](forrasok.md#nav-ertheto-hivatal-1-023); [Világos Beszéd 2025, 15. o.](forrasok.md#vilagos-beszed-kisokos-2025-051); [WP260 2018, 8. o.](forrasok.md#wp260-2018-004).
+Források: [Európai Bizottság 2013, 14. o.](forrasok.md#eu-pontos-fogalmazas-2013-051); [Gerencsér 2023, 15. o.](forrasok.md#gerencser-2023-009); [Horváth 2021, 104. o.](forrasok.md#horvath-2021-004); [Horváth 2021, 112. o.](forrasok.md#horvath-2021-026); [Gergely: kozerthetofogalmazas.hu, /ellenorizd/](forrasok.md#kozerthetofogalmazas-2015-095); [Gergely: kozerthetofogalmazas.hu, /ellenorizd/](forrasok.md#kozerthetofogalmazas-2015-096); [Gergely: kozerthetofogalmazas.hu, /ellenorizd/](forrasok.md#kozerthetofogalmazas-2015-097); [Gergely: kozerthetofogalmazas.hu, /ellenorizd/](forrasok.md#kozerthetofogalmazas-2015-098); [Gergely: kozerthetofogalmazas.hu, /ellenorizd/](forrasok.md#kozerthetofogalmazas-2015-099); [NAV 2024a, 38. o.](forrasok.md#nav-ertheto-hivatal-1-023); [Világos Beszéd 2025, 15. o.](forrasok.md#vilagos-beszed-kisokos-2025-051); [WP260 2018, 8. o.](forrasok.md#wp260-2018-004).
 
 <a id="k077"></a>
 

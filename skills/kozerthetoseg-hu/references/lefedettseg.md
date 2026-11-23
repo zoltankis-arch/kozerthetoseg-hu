@@ -8,14 +8,15 @@ Ez a fájl gépileg mutatja meg, hogy a forrásleltár minden tétele célba ér
 |---|---|---|---|---|---|---|
 | [Air.](forrasok.md#air-2017) | 2 | 0 | 0 | 2 | 0 | 0 |
 | [Balogh 2023](forrasok.md#balogh-2023) | 26 | 6 | 6 | 16 | 4 | 0 |
-| [Európai Bizottság 2013](forrasok.md#eu-pontos-fogalmazas-2013) | 53 | 47 | 43 | 1 | 5 | 0 |
+| [Európai Bizottság 2013](forrasok.md#eu-pontos-fogalmazas-2013) | 53 | 47 | 46 | 1 | 5 | 0 |
 | [GDPR](forrasok.md#gdpr-2016) | 1 | 0 | 0 | 1 | 0 | 0 |
 | [Gerencsér 2023](forrasok.md#gerencser-2023) | 15 | 8 | 8 | 6 | 1 | 0 |
-| [Horváth 2021](forrasok.md#horvath-2021) | 27 | 24 | 23 | 1 | 2 | 0 |
+| [Horváth 2021](forrasok.md#horvath-2021) | 27 | 24 | 24 | 1 | 2 | 0 |
 | [Jat.](forrasok.md#jat-2010) | 1 | 0 | 0 | 1 | 0 | 0 |
 | [Jszr.](forrasok.md#jszr-2009) | 9 | 6 | 3 | 3 | 0 | 0 |
+| [Gergely: kozerthetofogalmazas.hu](forrasok.md#kozerthetofogalmazas-2015) | 100 | 93 | 93 | 2 | 5 | 0 |
 | [NAV 2024a](forrasok.md#nav-ertheto-hivatal-1) | 38 | 16 | 12 | 5 | 17 | 0 |
-| [NAV 2024b](forrasok.md#nav-ertheto-hivatal-2) | 83 | 80 | 65 | 1 | 2 | 0 |
+| [NAV 2024b](forrasok.md#nav-ertheto-hivatal-2) | 83 | 80 | 68 | 1 | 2 | 0 |
 | [Ptk.](forrasok.md#ptk-2013) | 3 | 2 | 2 | 1 | 0 | 0 |
 | [Üveges 2026](forrasok.md#uveges-2026) | 6 | 1 | 1 | 5 | 0 | 0 |
 | [Világos Beszéd kézikönyv 2025](forrasok.md#vilagos-beszed-kezikonyv-2025) | 125 | 113 | 113 | 1 | 11 | 0 |
@@ -23,7 +24,7 @@ Ez a fájl gépileg mutatja meg, hogy a forrásleltár minden tétele célba ér
 | [WP260 2018](forrasok.md#wp260-2018) | 16 | 12 | 9 | 2 | 2 | 0 |
 | [EUB C-26/13](forrasok.md#eub-c-26-13-2014) | 2 | 2 | 2 | 0 | 0 | 0 |
 | [Inclusion Europe 2012](forrasok.md#inclusion-europe-2012) | 9 | 0 | 0 | 9 | 0 | 0 |
-| Összesen | 467 | 362 | 332 | 56 | 49 | 0 |
+| Összesen | 567 | 455 | 432 | 58 | 54 | 0 |
 
 ## Fejezetek
 
@@ -103,6 +104,34 @@ Részlegesen feldolgozott forrás: csak az alábbi fejezetek kerültek leltárba
 Részlegesen feldolgozott forrás: csak az alábbi fejezetek kerültek leltárba.
 
 - I. Fejezet: A jogszabály tervezetének megszövegezésére vonatkozó általános követelmények (2–8. §) (2–8. §): 9 tétel
+
+### Gergely: kozerthetofogalmazas.hu
+
+- Mi az a közérthető fogalmazás? (/): 3 tétel
+- Hogyan írj érthetően? (/hogyan-irj-erthetoen/): nincs tétel. Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+- Határozd meg, kinek és miért írsz (/hatarozd-meg-kinek-es-miert-irsz/): 5 tétel
+- Építsd fel logikusan (/epitsd-fel-logikusan/): nincs tétel. Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+- Hogyan olvasunk (a weben)? (/hogyan-olvasunk-a-weben/): 2 tétel
+- Kezdd a lényeggel (/kezdd-a-lenyeggel/): 4 tétel
+- Tagold a szöveget érthető alcímekkel (/tagold-a-szoveget-ertheto-alcimekkel/): 6 tétel
+- Fogalmazz érthetően (/fogalmazz-erthetoen/): nincs tétel. Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+- Miről írj? (/mirol-irj/): 5 tétel
+- Hogyan írj? (/hogyan-irj/): 7 tétel
+- Szavak (/szavak/): 13 tétel
+- Mondatok (/mondatok/): 14 tétel
+- Bekezdések (/bekezdesek/): 3 tétel
+- Bonyolult dolgokról egyszerűen (/bonyolult-dolgokrol-egyszeruen/): 3 tétel
+- Legyen áttekinthető a kinézet (/legyen-attekintheto-a-kinezet/): nincs tétel. Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+- Az oldal felépítése (/az-oldal-felepitese/): 6 tétel
+- Tipográfia (/tipografia/): nincs tétel. Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak.
+- Szóképet olvasunk (/szokepet-olvasunk/): 1 tétel
+- Betűk (/betuk/): 4 tétel
+- Sorok (/sorok/): 3 tétel
+- Felsorolások, táblázatok, illusztrációk (/felsorolasok-tablazatok-illusztraciok/): 8 tétel
+- Akadálymentesítés a weben (/akadalymentesites-a-weben/): 5 tétel
+- Ellenőrizd (/ellenorizd/): 7 tétel
+- További olvasnivaló (/tovabbi-olvasnivalo/): 1 tétel
+- Impresszum (/impresszum/): nincs tétel. Kiadói adatok és a licenc; a forrásrekord rögzíti őket.
 
 ### NAV 2024a
 
@@ -211,62 +240,62 @@ Részlegesen feldolgozott forrás: csak az alábbi fejezetek kerültek leltárba
 
 | Szabály | Források száma | Leltártételek | Eltérés jelölve |
 |---|---|---|---|
-| [K001](szabalyok.md#k001) Az olvasó és a cél tisztázása írás előtt | 6 | 17 |  |
-| [K002](szabalyok.md#k002) A fő üzenet elöl | 3 | 14 |  |
-| [K003](szabalyok.md#k003) A teendő a fő üzenet után; ha nincs teendő, azt is mondd ki | 3 | 11 |  |
-| [K004](szabalyok.md#k004) A teendőhöz minden szükséges adat | 5 | 8 |  |
-| [K005](szabalyok.md#k005) Csak az olvasónak szükséges információ | 4 | 9 |  |
-| [K006](szabalyok.md#k006) Konkrétan, az olvasó helyzetére vetítve | 1 | 2 |  |
-| [K007](szabalyok.md#k007) Az olvasó kimondatlan kérdései | 3 | 5 |  |
-| [K008](szabalyok.md#k008) A cselekvés az olvasó oldaláról | 2 | 4 |  |
-| [K009](szabalyok.md#k009) Webhely: beszédes link vagy lépésenkénti útvonal | 3 | 8 |  |
-| [K010](szabalyok.md#k010) Önmagukban érthető, kérdés formájú alcímek | 4 | 15 |  |
-| [K011](szabalyok.md#k011) A legtöbbeket érintő információtól a különös esetekig | 3 | 6 |  |
-| [K012](szabalyok.md#k012) A jogszabályhely a végére; a szabályt magyarázd el | 4 | 11 |  |
-| [K013](szabalyok.md#k013) Tételes tartalom listába, folyó gondolat bekezdésbe | 5 | 8 |  |
-| [K014](szabalyok.md#k014) Rövid bekezdés, egy témával | 4 | 4 |  |
-| [K015](szabalyok.md#k015) Kereszthivatkozás helyett a szükséges információ helyben | 2 | 2 |  |
-| [K016](szabalyok.md#k016) Rövid, informatív cím | 2 | 3 |  |
-| [K017](szabalyok.md#k017) Hosszabb szövegnél összefoglaló, tartalomjegyzék és világos zárás | 1 | 3 |  |
-| [K018](szabalyok.md#k018) Rétegzett tájékoztatás: rövid változat a teljes mellé | 3 | 3 |  |
-| [K019](szabalyok.md#k019) Egy mondat, egy dolog | 4 | 7 |  |
-| [K020](szabalyok.md#k020) Mondathossz: átlagosan 15–20 szó | 6 | 8 | igen |
-| [K021](szabalyok.md#k021) Az alany és az állítmány elöl, egymás közelében | 5 | 7 |  |
-| [K022](szabalyok.md#k022) Feltételes mondat a feltétellel kezdődjön | 2 | 3 |  |
-| [K023](szabalyok.md#k023) Kevesebb tagmondat | 6 | 6 | igen |
+| [K001](szabalyok.md#k001) Az olvasó és a cél tisztázása írás előtt | 7 | 21 |  |
+| [K002](szabalyok.md#k002) A fő üzenet elöl | 4 | 15 |  |
+| [K003](szabalyok.md#k003) A teendő a fő üzenet után; ha nincs teendő, azt is mondd ki | 4 | 12 |  |
+| [K004](szabalyok.md#k004) A teendőhöz minden szükséges adat | 6 | 10 |  |
+| [K005](szabalyok.md#k005) Csak az olvasónak szükséges információ | 5 | 12 |  |
+| [K006](szabalyok.md#k006) Konkrétan, az olvasó helyzetére vetítve | 2 | 4 |  |
+| [K007](szabalyok.md#k007) Az olvasó kimondatlan kérdései | 4 | 7 |  |
+| [K008](szabalyok.md#k008) A cselekvés az olvasó oldaláról | 3 | 5 |  |
+| [K009](szabalyok.md#k009) Webhely: beszédes link vagy lépésenkénti útvonal | 4 | 9 |  |
+| [K010](szabalyok.md#k010) Önmagukban érthető, kérdés formájú alcímek | 5 | 18 |  |
+| [K011](szabalyok.md#k011) A legtöbbeket érintő információtól a különös esetekig | 4 | 7 |  |
+| [K012](szabalyok.md#k012) A jogszabályhely a végére; a szabályt magyarázd el | 5 | 13 |  |
+| [K013](szabalyok.md#k013) Tételes tartalom listába, folyó gondolat bekezdésbe | 6 | 12 |  |
+| [K014](szabalyok.md#k014) Rövid bekezdés, egy témával | 5 | 7 |  |
+| [K015](szabalyok.md#k015) Kereszthivatkozás helyett a szükséges információ helyben | 3 | 3 |  |
+| [K016](szabalyok.md#k016) Rövid, informatív cím | 3 | 5 |  |
+| [K017](szabalyok.md#k017) Hosszabb szövegnél összefoglaló, tartalomjegyzék és világos zárás | 2 | 4 |  |
+| [K018](szabalyok.md#k018) Rétegzett tájékoztatás: rövid változat a teljes mellé | 4 | 5 |  |
+| [K019](szabalyok.md#k019) Egy mondat, egy dolog | 5 | 8 |  |
+| [K020](szabalyok.md#k020) Mondathossz: átlagosan 15–20 szó | 7 | 9 | igen |
+| [K021](szabalyok.md#k021) Az alany és az állítmány elöl, egymás közelében | 6 | 8 |  |
+| [K022](szabalyok.md#k022) Feltételes mondat a feltétellel kezdődjön | 3 | 5 |  |
+| [K023](szabalyok.md#k023) Kevesebb tagmondat | 7 | 7 | igen |
 | [K024](szabalyok.md#k024) Nincs közbevetés és beágyazott hivatkozás a mondat közepén | 4 | 4 |  |
-| [K025](szabalyok.md#k025) A lényeg előre: a szórend jelentést és hangsúlyt hordoz | 5 | 9 |  |
-| [K026](szabalyok.md#k026) Állító mondat a tagadó helyett | 3 | 3 |  |
-| [K027](szabalyok.md#k027) Logikai kötőszavak, halmozás nélkül | 2 | 2 |  |
-| [K028](szabalyok.md#k028) Magyar mondatszerkezet idegen minták helyett | 2 | 2 |  |
-| [K029](szabalyok.md#k029) Az olvasó szavai | 3 | 8 |  |
-| [K030](szabalyok.md#k030) Szakszó csak magyarázattal | 7 | 13 |  |
-| [K031](szabalyok.md#k031) Szakszó, ha a köznyelvi szó félrevezet | 1 | 1 |  |
-| [K032](szabalyok.md#k032) Az ismertebb szó, akár idegen, akár magyar | 4 | 7 |  |
-| [K033](szabalyok.md#k033) Egy fogalom, egy szó végig | 6 | 7 | igen |
+| [K025](szabalyok.md#k025) A lényeg előre: a szórend jelentést és hangsúlyt hordoz | 6 | 10 |  |
+| [K026](szabalyok.md#k026) Állító mondat a tagadó helyett | 4 | 4 |  |
+| [K027](szabalyok.md#k027) Logikai kötőszavak, halmozás nélkül | 3 | 4 |  |
+| [K028](szabalyok.md#k028) Magyar mondatszerkezet idegen minták helyett | 3 | 3 |  |
+| [K029](szabalyok.md#k029) Az olvasó szavai | 4 | 10 |  |
+| [K030](szabalyok.md#k030) Szakszó csak magyarázattal | 8 | 14 |  |
+| [K031](szabalyok.md#k031) Szakszó, ha a köznyelvi szó félrevezet | 2 | 2 |  |
+| [K032](szabalyok.md#k032) Az ismertebb szó, akár idegen, akár magyar | 5 | 8 |  |
+| [K033](szabalyok.md#k033) Egy fogalom, egy szó végig | 7 | 8 | igen |
 | [K034](szabalyok.md#k034) Egy szó, egy jelentés | 3 | 3 |  |
-| [K035](szabalyok.md#k035) Felesleges szavak és magától értetődő közlések nélkül | 6 | 21 |  |
+| [K035](szabalyok.md#k035) Felesleges szavak és magától értetődő közlések nélkül | 7 | 24 |  |
 | [K036](szabalyok.md#k036) Egyszerűbb szó a körülményes helyett | 4 | 7 |  |
-| [K037](szabalyok.md#k037) Felesleges igekötő nélkül | 2 | 3 |  |
-| [K038](szabalyok.md#k038) Névutó helyett rag | 3 | 4 |  |
+| [K037](szabalyok.md#k037) Felesleges igekötő nélkül | 3 | 4 |  |
+| [K038](szabalyok.md#k038) Névutó helyett rag | 4 | 5 |  |
 | [K039](szabalyok.md#k039) Lehetőség: „lehet” vagy -hat/-het a „lehetőség van” helyett | 2 | 2 | igen |
-| [K040](szabalyok.md#k040) Rövidítés és rövid megjelölés | 4 | 7 |  |
-| [K041](szabalyok.md#k041) Konkrét szó az elvont és a divatszó helyett | 2 | 4 |  |
-| [K042](szabalyok.md#k042) Ige a főnévvé tett cselekvés helyett | 7 | 16 |  |
-| [K043](szabalyok.md#k043) Cselekvő ige az „-ásra/-ésre kerül” helyett | 4 | 7 |  |
-| [K044](szabalyok.md#k044) Nevezd meg, ki cselekszik | 4 | 11 |  |
-| [K045](szabalyok.md#k045) Ige a terpeszkedő szerkezet helyett | 3 | 6 |  |
-| [K046](szabalyok.md#k046) Kettős tagadás nélkül | 2 | 3 |  |
+| [K040](szabalyok.md#k040) Rövidítés és rövid megjelölés | 5 | 8 |  |
+| [K041](szabalyok.md#k041) Konkrét szó az elvont és a divatszó helyett | 3 | 6 |  |
+| [K042](szabalyok.md#k042) Ige a főnévvé tett cselekvés helyett | 8 | 17 |  |
+| [K043](szabalyok.md#k043) Cselekvő ige az „-ásra/-ésre kerül” helyett | 5 | 8 |  |
+| [K044](szabalyok.md#k044) Nevezd meg, ki cselekszik | 5 | 13 | igen |
+| [K045](szabalyok.md#k045) Ige a terpeszkedő szerkezet helyett | 4 | 7 |  |
+| [K046](szabalyok.md#k046) Kettős tagadás nélkül | 3 | 4 |  |
 | [K047](szabalyok.md#k047) „illetve”, „illetőleg” és „és/vagy” jogi szövegben | 1 | 3 |  |
-| [K048](szabalyok.md#k048) Az olvasóhoz beszélj, ne róla | 4 | 10 |  |
-| [K049](szabalyok.md#k049) Egy megszólítás végig | 3 | 4 | igen |
-| [K050](szabalyok.md#k050) Udvarias, partneri hang | 2 | 7 |  |
-| [K051](szabalyok.md#k051) Látható alcímek | 2 | 7 |  |
-| [K052](szabalyok.md#k052) Kevés, rövid kiemelés | 3 | 10 |  |
-| [K053](szabalyok.md#k053) Szellős, egységes íráskép | 3 | 7 |  |
+| [K048](szabalyok.md#k048) Az olvasóhoz beszélj, ne róla | 5 | 13 |  |
+| [K049](szabalyok.md#k049) Egy megszólítás végig | 4 | 5 | igen |
+| [K050](szabalyok.md#k050) Udvarias, partneri hang | 3 | 8 |  |
+| [K051](szabalyok.md#k051) Látható alcímek | 3 | 9 |  |
+| [K052](szabalyok.md#k052) Kevés, rövid kiemelés | 4 | 11 |  |
+| [K053](szabalyok.md#k053) Szellős, egységes íráskép | 4 | 15 |  |
 | [K054](szabalyok.md#k054) Legfeljebb három listaszint | 1 | 1 |  |
-| [K055](szabalyok.md#k055) Olvasható betűméret | 2 | 3 |  |
-| [K056](szabalyok.md#k056) A szakkifejezések helyesírása | 3 | 4 |  |
+| [K055](szabalyok.md#k055) Olvasható betűméret | 3 | 4 |  |
+| [K056](szabalyok.md#k056) A szakkifejezések helyesírása | 4 | 6 | igen |
 | [K057](szabalyok.md#k057) Egységes dátum | 1 | 1 |  |
 | [K058](szabalyok.md#k058) Számok egységes írása | 1 | 2 |  |
 | [K059](szabalyok.md#k059) Pénzösszeg | 1 | 1 |  |
@@ -274,19 +303,19 @@ Részlegesen feldolgozott forrás: csak az alábbi fejezetek kerültek leltárba
 | [K061](szabalyok.md#k061) Kötőjel, gondolatjel, nagykötőjel | 1 | 1 |  |
 | [K062](szabalyok.md#k062) Vessző az „illetve”, az „és” és a „mint” előtt | 1 | 3 |  |
 | [K063](szabalyok.md#k063) Felkiáltójel a felszólító mondat végén | 1 | 1 |  |
-| [K064](szabalyok.md#k064) Ábra, táblázat, ikon a szöveg helyett, ha világosabb | 2 | 2 |  |
+| [K064](szabalyok.md#k064) Ábra, táblázat, ikon a szöveg helyett, ha világosabb | 3 | 4 |  |
 | [K065](szabalyok.md#k065) Rövid, egységes táblázat- és ábracím | 1 | 1 |  |
-| [K066](szabalyok.md#k066) Következetesség és magyarázat a táblázatban | 2 | 4 |  |
-| [K067](szabalyok.md#k067) Olvasható diagram | 1 | 1 |  |
+| [K066](szabalyok.md#k066) Következetesség és magyarázat a táblázatban | 3 | 5 |  |
+| [K067](szabalyok.md#k067) Olvasható diagram | 2 | 2 |  |
 | [K068](szabalyok.md#k068) Csak a szükséges adatot kérd | 2 | 3 |  |
 | [K069](szabalyok.md#k069) Egyértelmű, mi kötelező | 2 | 3 |  |
 | [K070](szabalyok.md#k070) Kitöltési segítség a mezőnél | 2 | 5 |  |
 | [K071](szabalyok.md#k071) Zárt válaszlehetőség, ha kevés a válasz | 2 | 2 |  |
 | [K072](szabalyok.md#k072) Gyakori kérdések a nyomtatvány végén | 2 | 2 |  |
 | [K073](szabalyok.md#k073) Áttekinthető nyomtatvány | 2 | 6 |  |
-| [K074](szabalyok.md#k074) Az írás lépései | 3 | 4 |  |
-| [K075](szabalyok.md#k075) Ellenőrző lista és hangos felolvasás | 5 | 8 |  |
-| [K076](szabalyok.md#k076) Olvasói próba | 6 | 7 |  |
+| [K074](szabalyok.md#k074) Az írás lépései | 4 | 6 |  |
+| [K075](szabalyok.md#k075) Ellenőrző lista és hangos felolvasás | 6 | 10 |  |
+| [K076](szabalyok.md#k076) Olvasói próba | 7 | 12 |  |
 | [K077](szabalyok.md#k077) A szakmai tartalom hűsége | 1 | 4 |  |
 | [K078](szabalyok.md#k078) Régi sablon és átvett szöveg átdolgozása | 1 | 1 |  |
 | [K079](szabalyok.md#k079) Adatkezelési tájékoztató: konkrét cél és jogalap | 1 | 3 |  |

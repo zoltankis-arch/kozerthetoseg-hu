@@ -10,6 +10,8 @@ ellenorzes = "itelet"
 sulyossag = "alacsony"
 forrasok = [
   "eu-pontos-fogalmazas-2013#049",
+  "kozerthetofogalmazas-2015#030",
+  "kozerthetofogalmazas-2015#031",
   "nav-ertheto-hivatal-1#015",
   "nav-ertheto-hivatal-2#001",
   "nav-ertheto-hivatal-2#005",
@@ -18,3 +20,8 @@ forrasok = [
 [pelda]
 rossz = "Az SZJA bevallás és az ÁFA visszatérítés határideje..."
 jo = "Az szja-bevallás és az áfa-visszatérítés határideje..."
+
+[[elteres]]
+forrasok = ["kozerthetofogalmazas-2015#031", "nav-ertheto-hivatal-2#005"]
+leiras = "A kozerthetofogalmazas.hu szerzője szerint a különírás, az egybeírás és a kötőjelezés kérdésében az érthetőség előbbre való a helyesírási szabályzatnál (például „kamatadó-mentes”, „email”). A NAV a pontos helyesírást a közérthetőség részének tekinti."
+dontes = "A skill a szabályzat szerinti alakot javasolja. Ok: hivatali és jogi szövegben a helyesírási hiba rontja a hitelt, és a szabályzat ad egységes mércét. Ha a szabályos alak nehezen olvasható, a skill átfogalmazást javasol (például „nem kell utána kamatadót fizetni”), nem szabálytalan írásmódot."

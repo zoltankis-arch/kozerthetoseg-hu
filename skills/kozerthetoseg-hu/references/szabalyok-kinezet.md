@@ -19,7 +19,7 @@ Ellenőrző kérdés: Az alcímek nagyobb, félkövér betűvel látszanak, és 
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-079); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-080); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-096); [Világos Beszéd kézikönyv 2025, 33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-099); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-108); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-033); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-045).
+Források: [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-067); [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-068); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-079); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-080); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-096); [Világos Beszéd kézikönyv 2025, 33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-099); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-108); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-033); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-045).
 
 <a id="k052"></a>
 
@@ -36,7 +36,7 @@ Ellenőrző kérdés: Kevés, rövid és önmagában is érthető a kiemelés?
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-014); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-024); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-063); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-081); [Világos Beszéd kézikönyv 2025, 29–30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-082); [Világos Beszéd kézikönyv 2025, 30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-083); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-096); [Világos Beszéd kézikönyv 2025, 33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-099); [Világos Beszéd kézikönyv 2025, 37. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-120); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-034).
+Források: [Gergely: kozerthetofogalmazas.hu, /betuk/](forrasok.md#kozerthetofogalmazas-2015-075); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-014); [NAV 2024b, 17. o.](forrasok.md#nav-ertheto-hivatal-2-024); [Világos Beszéd kézikönyv 2025, 25. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-063); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-081); [Világos Beszéd kézikönyv 2025, 29–30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-082); [Világos Beszéd kézikönyv 2025, 30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-083); [Világos Beszéd kézikönyv 2025, 31. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-096); [Világos Beszéd kézikönyv 2025, 33. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-099); [Világos Beszéd kézikönyv 2025, 37. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-120); [Világos Beszéd 2025, 9. o.](forrasok.md#vilagos-beszed-kisokos-2025-034).
 
 <a id="k053"></a>
 
@@ -53,7 +53,7 @@ Ellenőrző kérdés: Szellős és egységes az íráskép (betű, sorköz, tér
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 12. o.](forrasok.md#nav-ertheto-hivatal-2-011); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-012); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-013); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-080); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-081); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-108); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-046).
+Források: [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-066); [Gergely: kozerthetofogalmazas.hu, /az-oldal-felepitese/](forrasok.md#kozerthetofogalmazas-2015-071); [Gergely: kozerthetofogalmazas.hu, /szokepet-olvasunk/](forrasok.md#kozerthetofogalmazas-2015-072); [Gergely: kozerthetofogalmazas.hu, /betuk/](forrasok.md#kozerthetofogalmazas-2015-073); [Gergely: kozerthetofogalmazas.hu, /betuk/](forrasok.md#kozerthetofogalmazas-2015-076); [Gergely: kozerthetofogalmazas.hu, /sorok/](forrasok.md#kozerthetofogalmazas-2015-077); [Gergely: kozerthetofogalmazas.hu, /sorok/](forrasok.md#kozerthetofogalmazas-2015-078); [Gergely: kozerthetofogalmazas.hu, /sorok/](forrasok.md#kozerthetofogalmazas-2015-079); [NAV 2024b, 12. o.](forrasok.md#nav-ertheto-hivatal-2-011); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-012); [NAV 2024b, 13. o.](forrasok.md#nav-ertheto-hivatal-2-013); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-080); [Világos Beszéd kézikönyv 2025, 29. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-081); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-108); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-046).
 
 <a id="k054"></a>
 
@@ -91,4 +91,4 @@ Kivételek:
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [Világos Beszéd kézikönyv 2025, 30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-083); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-109); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-047).
+Források: [Gergely: kozerthetofogalmazas.hu, /betuk/](forrasok.md#kozerthetofogalmazas-2015-074); [Világos Beszéd kézikönyv 2025, 30. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-083); [Világos Beszéd kézikönyv 2025, 36. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-109); [Világos Beszéd 2025, 11. o.](forrasok.md#vilagos-beszed-kisokos-2025-047).

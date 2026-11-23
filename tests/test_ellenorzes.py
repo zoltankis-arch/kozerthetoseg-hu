@@ -77,9 +77,9 @@ def test_ketiranyu_egyezes(skill, szabalydir, capsys):
 
 
 def test_forras_nelkuli_aktiv_szabaly(skill, szabalydir, capsys):
-    # A K031-nek egyetlen forrása van; ha azt elvesszük, forrás nélkül marad.
-    csere(szabalydir / "K031.toml", '  "horvath-2021#005",\n', "")
-    csere(skill / "assets" / "adatok" / "forrasok" / "horvath-2021.toml", 'szabalyok = ["K031"]', 'kihagyva = "teszt"')
+    # A K057-nek egyetlen forrása van; ha azt elvesszük, forrás nélkül marad.
+    csere(szabalydir / "K057.toml", '  "nav-ertheto-hivatal-2#073",\n', "")
+    csere(skill / "assets" / "adatok" / "forrasok" / "nav-ertheto-hivatal-2.toml", 'szabalyok = ["K057"]', 'kihagyva = "teszt"')
     kod, _, hiba = ellenoriz(skill, capsys)
     assert kod == 1 and "legalább egy forrása legyen" in hiba
 

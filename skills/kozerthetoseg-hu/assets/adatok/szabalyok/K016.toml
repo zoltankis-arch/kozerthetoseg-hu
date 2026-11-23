@@ -10,6 +10,8 @@ ellenorzes = "itelet"
 sulyossag = "kozepes"
 forrasok = [
   "eu-pontos-fogalmazas-2013#013",
+  "kozerthetofogalmazas-2015#016",
+  "kozerthetofogalmazas-2015#018",
   "nav-ertheto-hivatal-2#017",
   "nav-ertheto-hivatal-2#018",
 ]

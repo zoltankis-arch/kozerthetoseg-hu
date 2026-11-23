@@ -1,6 +1,6 @@
 # A felhasznált források
 
-A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy példa került a forrásból a leltárba. Összesen 467 tétel.
+A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy példa került a forrásból a leltárba. Összesen 567 tétel.
 
 ## Elsődleges útmutatók
 
@@ -11,6 +11,7 @@ A „Tétel” oszlop azt mutatja, hány szabály, ajánlás, tilalom vagy péld
 | NAV: Az érthető hivatal 1. Nemzeti Adó- és Vámhivatal, 2024. | Hogyan vezeti be egy hivatal a közérthető írást: ellenőrzés, sablonok, a szövegtípusok elhatárolása. | 38 | [NAV](https://nav.gov.hu/kiadvanyok/kozerthetosegi-program) |
 | NAV: Az érthető hivatal 2. Nemzeti Adó- és Vámhivatal, 2024. | Gyakorlati fogások hivatali szöveghez: felépítés, szerkezetek, szavak, számok, írásjelek, táblázatok. | 83 | [NAV](https://nav.gov.hu/kiadvanyok/kozerthetosegi-program) |
 | Európai Bizottság, Fordítási Főigazgatóság: A pontos fogalmazás művészete. Az Európai Unió Kiadóhivatala, 2013. | Tervezés, az olvasó szempontja, mondat- és szóhasználat, rövidítések, ellenőrzés. | 53 | [doi:10.2782/56340](https://doi.org/10.2782/56340) |
+| Gergely Vera: Közérthető fogalmazás – Hogyan írj érthetően? Világos Beszéd, webhely, 2015 óta. | Tervezés, felépítés, szavak, mondatok, tipográfia, táblázat, folyamatábra, tesztelés (Cloze-teszt) és a szöveg teljesítményének mérése. | 100 | [kozerthetofogalmazas.hu](https://kozerthetofogalmazas.hu/) |
 
 ## Tanulmányok
 
@@ -44,7 +45,7 @@ A teljes bibliográfiai adatok, a felhasználási feltételek és tételenként 
 
 A skill ezekre a munkákra épül; a hibák a skill hibái. Köszönet a források szerzőinek és kiadóinak:
 
-- a Világos Beszédnek és Budapest Főváros Főpolgármesteri Hivatalának;
+- a Világos Beszédnek, Gergely Verának és Budapest Főváros Főpolgármesteri Hivatalának;
 - a Nemzeti Adó- és Vámhivatal Közérthetőségi Programirodájának;
 - az Európai Bizottság Fordítási Főigazgatóságának;
 - Horváth Péternek, Balogh Dorkának, Gerencsér Balázs Szabolcsnak és Üveges Istvánnak;

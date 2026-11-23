@@ -11,6 +11,8 @@ sulyossag = "kozepes"
 forrasok = [
   "eu-pontos-fogalmazas-2013#042",
   "eu-pontos-fogalmazas-2013#043",
+  "kozerthetofogalmazas-2015#049",
+  "kozerthetofogalmazas-2015#050",
   "nav-ertheto-hivatal-2#039",
   "nav-ertheto-hivatal-2#043",
   "nav-ertheto-hivatal-2#047",
@@ -26,3 +28,8 @@ kivetelek = ["Általános alanyt (elintézték) csak akkor használj, ha a csele
 [pelda]
 rossz = "A hiba ki lett javítva, a számla újra lett küldve."
 jo = "Kijavítottuk a hibát, és újra elküldtük a számlát."
+
+[[elteres]]
+forrasok = ["kozerthetofogalmazas-2015#050", "nav-ertheto-hivatal-2#043"]
+leiras = "A kozerthetofogalmazas.hu három esetben enged a cselekvő megnevezése nélküli mondatot: ha a tárgy a fontos, ha a nyílt megfogalmazás túl ellenséges volna, és ha a szerző a felelősséget el akarja mosni. A NAV szerint a cselekvő elhallgatása ködösítésnek hat; a többi forrás csak azt engedi, hogy ismeretlen vagy lényegtelen cselekvőnél általános alany álljon."
+dontes = "A skill az első két esetet elfogadja, a harmadikat nem. Ok: a skill az olvasóért dolgozik, és az olvasónak tudnia kell, kitől kérhet számon valamit; a felelősség elmosása éppen ezt veszi el tőle."

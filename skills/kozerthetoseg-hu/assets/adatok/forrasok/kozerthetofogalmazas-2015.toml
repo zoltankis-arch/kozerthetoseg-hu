@@ -1,0 +1,946 @@
+azonosito = "kozerthetofogalmazas-2015"
+cim = "Közérthető fogalmazás – Hogyan írj érthetően?"
+rovid = "Gergely: kozerthetofogalmazas.hu"
+szerzo = "Gergely Vera (Világos Beszéd)"
+kiado = "Világos Beszéd"
+ev = "2015"
+url = "https://kozerthetofogalmazas.hu/"
+hivatkozas = "Gergely Vera: Közérthető fogalmazás – Hogyan írj érthetően? Webhely, Világos Beszéd, 2015 óta folyamatosan frissítve. https://kozerthetofogalmazas.hu/"
+licenc = "Creative Commons Nevezd meg! – Ne add el! – Így add tovább! 4.0 Nemzetközi (CC BY-NC-SA 4.0), az impresszum szerint. A leltár saját szavakkal foglal össze, szövegrészt nem vesz át."
+kiadas = "A webhely 2026. november 23-i állapota: 25 aloldal. Az oldal 2015-ben indult; a mostani változat már a WCAG 2.2-re és a 2022. évi XVII. törvényre is hivatkozik."
+feldolgozas_datuma = "2026-11-23"
+oldalszamozas = "aloldal: a webhely URL-útvonala (a webhelynek nincs oldalszáma)"
+prioritas = "A"
+feldolgozottsag = "teljes"
+megjegyzes = "A Világos Beszéd kisokosa és kézikönyve (vilagos-beszed-kisokos-2025, vilagos-beszed-kezikonyv-2025) szintén a Világos Beszéd munkája, ezért a tételek többsége meglévő szabályba olvad. Új részletek: sorhossz, sorköz, betűméret, táblázatigazítás, folyamatábra, Cloze-teszt és a szöveg teljesítményének mérése."
+
+[[fejezet]]
+azonosito = "f01"
+cim = "Mi az a közérthető fogalmazás?"
+oldal = "/"
+
+[[fejezet]]
+azonosito = "f02"
+cim = "Hogyan írj érthetően?"
+oldal = "/hogyan-irj-erthetoen/"
+tetel_nelkul = "Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak."
+
+[[fejezet]]
+azonosito = "f03"
+cim = "Határozd meg, kinek és miért írsz"
+oldal = "/hatarozd-meg-kinek-es-miert-irsz/"
+
+[[fejezet]]
+azonosito = "f04"
+cim = "Építsd fel logikusan"
+oldal = "/epitsd-fel-logikusan/"
+tetel_nelkul = "Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak."
+
+[[fejezet]]
+azonosito = "f05"
+cim = "Hogyan olvasunk (a weben)?"
+oldal = "/hogyan-olvasunk-a-weben/"
+
+[[fejezet]]
+azonosito = "f06"
+cim = "Kezdd a lényeggel"
+oldal = "/kezdd-a-lenyeggel/"
+
+[[fejezet]]
+azonosito = "f07"
+cim = "Tagold a szöveget érthető alcímekkel"
+oldal = "/tagold-a-szoveget-ertheto-alcimekkel/"
+
+[[fejezet]]
+azonosito = "f08"
+cim = "Fogalmazz érthetően"
+oldal = "/fogalmazz-erthetoen/"
+tetel_nelkul = "Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak."
+
+[[fejezet]]
+azonosito = "f09"
+cim = "Miről írj?"
+oldal = "/mirol-irj/"
+
+[[fejezet]]
+azonosito = "f10"
+cim = "Hogyan írj?"
+oldal = "/hogyan-irj/"
+
+[[fejezet]]
+azonosito = "f11"
+cim = "Szavak"
+oldal = "/szavak/"
+
+[[fejezet]]
+azonosito = "f12"
+cim = "Mondatok"
+oldal = "/mondatok/"
+
+[[fejezet]]
+azonosito = "f13"
+cim = "Bekezdések"
+oldal = "/bekezdesek/"
+
+[[fejezet]]
+azonosito = "f14"
+cim = "Bonyolult dolgokról egyszerűen"
+oldal = "/bonyolult-dolgokrol-egyszeruen/"
+
+[[fejezet]]
+azonosito = "f15"
+cim = "Legyen áttekinthető a kinézet"
+oldal = "/legyen-attekintheto-a-kinezet/"
+tetel_nelkul = "Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak."
+
+[[fejezet]]
+azonosito = "f16"
+cim = "Az oldal felépítése"
+oldal = "/az-oldal-felepitese/"
+
+[[fejezet]]
+azonosito = "f17"
+cim = "Tipográfia"
+oldal = "/tipografia/"
+tetel_nelkul = "Összefoglaló oldal: az aloldalak tartalmát egy-egy mondatban ismétli, a tételek az aloldalak leltárában vannak."
+
+[[fejezet]]
+azonosito = "f18"
+cim = "Szóképet olvasunk"
+oldal = "/szokepet-olvasunk/"
+
+[[fejezet]]
+azonosito = "f19"
+cim = "Betűk"
+oldal = "/betuk/"
+
+[[fejezet]]
+azonosito = "f20"
+cim = "Sorok"
+oldal = "/sorok/"
+
+[[fejezet]]
+azonosito = "f21"
+cim = "Felsorolások, táblázatok, illusztrációk"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+
+[[fejezet]]
+azonosito = "f22"
+cim = "Akadálymentesítés a weben"
+oldal = "/akadalymentesites-a-weben/"
+
+[[fejezet]]
+azonosito = "f23"
+cim = "Ellenőrizd"
+oldal = "/ellenorizd/"
+
+[[fejezet]]
+azonosito = "f24"
+cim = "További olvasnivaló"
+oldal = "/tovabbi-olvasnivalo/"
+
+[[fejezet]]
+azonosito = "f25"
+cim = "Impresszum"
+oldal = "/impresszum/"
+tetel_nelkul = "Kiadói adatok és a licenc; a forrásrekord rögzíti őket."
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#001"
+fejezet = "f01"
+oldal = "/"
+tipus = "meghatarozas"
+tartalom = "Közérthető az a szöveg, amelynek a felépítése, megfogalmazása és kinézete alapján a célközönség megtalálja benne, amire szüksége van, megérti, és a segítségével el tudja érni a célját."
+referencia = "references/parancs-audit.md#negy-kerdes"
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#002"
+fejezet = "f01"
+oldal = "/"
+tipus = "pelda"
+tartalom = "Előtte–utána: egy hosszú, főnevesített okmányirodai mondat az időpontfoglalás lehetőségéről, és ugyanez egyetlen rövid, az olvasót megszólító mondatban."
+szabalyok = ["K035", "K048"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#003"
+fejezet = "f01"
+oldal = "/"
+tipus = "hatter"
+tartalom = "A tanácsok a szépirodalom kivételével minden szövegre alkalmazhatók, különösen a hivatalos szövegekre, de nincsenek kőbe vésve: a körülmények döntik el, mitől lesz érthető egy szöveg."
+kihagyva = "Hatókör és szemlélet; a skill hatókörét a SKILL.md „Mikor ne fusson” része mondja ki, szabályt nem ad."
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#004"
+fejezet = "f03"
+oldal = "/hatarozd-meg-kinek-es-miert-irsz/"
+tipus = "szabaly"
+tartalom = "Írás előtt tisztázd a célodat: mi a fő üzenet, mitől lesz sikeres a szöveg, és milyen cselekvésre akarod rávenni az olvasót."
+szabalyok = ["K001"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#005"
+fejezet = "f03"
+oldal = "/hatarozd-meg-kinek-es-miert-irsz/"
+tipus = "tilalom"
+tartalom = "Arra a kérdésre, hogy kinek írsz, a „mindenkinek” rossz válasz: határozd meg a célközönséget."
+szabalyok = ["K001"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#006"
+fejezet = "f03"
+oldal = "/hatarozd-meg-kinek-es-miert-irsz/"
+tipus = "ajanlas"
+tartalom = "Gyűjtsd össze, mit akar elérni az olvasó, mit tud már, és milyen információ kell még neki; ha te kezdeményezel (levél, e-mail), az olvasó célja az, hogy gyorsan megértse, miről van szó és mi a dolga."
+szabalyok = ["K001"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#007"
+fejezet = "f03"
+oldal = "/hatarozd-meg-kinek-es-miert-irsz/"
+tipus = "ajanlas"
+tartalom = "Gyűjtsd össze az olvasó kérdéseit, és válaszolj rájuk a szövegben; a kérdések alcímnek is jók."
+szabalyok = ["K007"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#008"
+fejezet = "f03"
+oldal = "/hatarozd-meg-kinek-es-miert-irsz/"
+tipus = "ellenorzolista"
+tartalom = "Vedd számba az olvasási helyzetet (eszköz, környezet, lelkiállapot) és az olvasó jellemzőit (jártasság a témában, iskolázottság, digitális jártasság, látás); a szerző ehhez letölthető tervezési lapot is ad."
+szabalyok = ["K001"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#009"
+fejezet = "f05"
+oldal = "/hogyan-olvasunk-a-weben/"
+tipus = "hatter"
+tartalom = "A legtöbb szöveget átfutjuk: a szemkövetéses vizsgálatok F alakú mintázatot mutatnak (cím, első bekezdés, a sorok bal széle), ezért a felépítés és az alcímek döntik el, megtalálja-e az olvasó, amit keres."
+szabalyok = ["K010"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#010"
+fejezet = "f05"
+oldal = "/hogyan-olvasunk-a-weben/"
+tipus = "ajanlas"
+tartalom = "Aki betűről betűre olvas (például olvasási nehézség vagy diszlexia miatt), annak különösen fontos a rövid szöveg."
+szabalyok = ["K005"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#011"
+fejezet = "f06"
+oldal = "/kezdd-a-lenyeggel/"
+tipus = "szabaly"
+tartalom = "A legfontosabb információval kezdj (fordított piramis): az első bekezdés feleljen arra, ki, mit, mikor, hol, hogyan és miért, a részletek és a háttér csökkenő fontossági sorrendben jöjjenek."
+szabalyok = ["K002"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#012"
+fejezet = "f06"
+oldal = "/kezdd-a-lenyeggel/"
+tipus = "pelda"
+tartalom = "Fizetési felszólításban az a legfontosabb, mennyit, meddig és melyik számlára kell fizetni; az előzmény csak ezután jöhet."
+szabalyok = ["K004"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#013"
+fejezet = "f06"
+oldal = "/kezdd-a-lenyeggel/"
+tipus = "ajanlas"
+tartalom = "Ha az olvasó kezdeményez (weboldal), előbb az ő célját szolgáld ki, a sajátodat csak utána; levélben minél előbb mondd meg, miért írsz és mi a teendő."
+szabalyok = ["K003"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#014"
+fejezet = "f06"
+oldal = "/kezdd-a-lenyeggel/"
+tipus = "ajanlas"
+tartalom = "A fő üzenet utáni részeket a helyzethez illően rendezd: a legtöbbeket érintőt előre, történetnél időrendben, ügyfélszolgálati levélnél probléma–ok–megoldás sorrendben."
+szabalyok = ["K011"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#015"
+fejezet = "f07"
+oldal = "/tagold-a-szoveget-ertheto-alcimekkel/"
+tipus = "szabaly"
+tartalom = "Tördeld a szöveget kisebb, logikailag összefüggő részekre, és írj magukban is értelmes alcímeket, mert átfutáskor ezek alapján dönt az olvasó, hol olvas bele."
+szabalyok = ["K010"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#016"
+fejezet = "f07"
+oldal = "/tagold-a-szoveget-ertheto-alcimekkel/"
+tipus = "szabaly"
+tartalom = "A cím legyen egyértelmű és érthető."
+szabalyok = ["K016"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#017"
+fejezet = "f07"
+oldal = "/tagold-a-szoveget-ertheto-alcimekkel/"
+tipus = "ajanlas"
+tartalom = "Új szövegnél előbb az alcímeket, vagyis a szerkezetet írd meg, és csak utána a részleteket."
+szabalyok = ["K074"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#018"
+fejezet = "f07"
+oldal = "/tagold-a-szoveget-ertheto-alcimekkel/"
+tipus = "szabaly"
+tartalom = "A cím, az alcím és a bekezdés a kulcsszóval kezdődjön, mert a sorok bal szélét olvassuk el; a webhely két hírcímmel mutatja be, melyik vonzza a tekintetet."
+szabalyok = ["K014", "K016"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#019"
+fejezet = "f07"
+oldal = "/tagold-a-szoveget-ertheto-alcimekkel/"
+tipus = "ajanlas"
+tartalom = "Az alcímek legyenek párhuzamos szerkezetűek: például mind az olvasó egy-egy kérdése, vagy mind egy-egy felszólítás."
+szabalyok = ["K010"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#020"
+fejezet = "f07"
+oldal = "/tagold-a-szoveget-ertheto-alcimekkel/"
+tipus = "ajanlas"
+tartalom = "Néhány oldalnál hosszabb szöveghez írj tartalomjegyzéket, weben oldalon belüli hivatkozásokkal."
+szabalyok = ["K017"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#021"
+fejezet = "f09"
+oldal = "/mirol-irj/"
+tipus = "szabaly"
+tartalom = "Ne írj arról, amire az olvasónak nincs szüksége; a kötelező, de neki nem fontos információt (például a jogszabályhelyet) tedd lábjegyzetbe vagy a hátoldalra, kisebb betűvel."
+szabalyok = ["K005", "K012"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#022"
+fejezet = "f09"
+oldal = "/mirol-irj/"
+tipus = "tilalom"
+tartalom = "Az olvasónak fontos információt sosem szabad lábjegyzetbe vagy apró betűbe rejteni: ez már az olvasó becsapása."
+szabalyok = ["K005"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#023"
+fejezet = "f09"
+oldal = "/mirol-irj/"
+tipus = "ajanlas"
+tartalom = "Mobilon olvasott szövegnél különösen fontos a tömörség; bonyolult szöveghez vagy feladathoz érdemes külön mobilos változatot írni."
+szabalyok = ["K018"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#024"
+fejezet = "f09"
+oldal = "/mirol-irj/"
+tipus = "szabaly"
+tartalom = "Írj bele mindent, ami az olvasónak a célja eléréséhez kell, hogy semmit ne kelljen fejben tartania."
+szabalyok = ["K004"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#025"
+fejezet = "f09"
+oldal = "/mirol-irj/"
+tipus = "tilalom"
+tartalom = "Kerüld a kereszthivatkozást (az egyik pont alatti személyekre egy másik pont alatti esetekben), mert többletmunkát ad az olvasónak."
+szabalyok = ["K015"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#026"
+fejezet = "f10"
+oldal = "/hogyan-irj/"
+tipus = "szabaly"
+tartalom = "Az olvasóhoz beszélj, ne róla; a saját szervezetedről többes szám első személyben írj. Hogy tegezel vagy magázol, az a helyzettől függ."
+szabalyok = ["K048"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#027"
+fejezet = "f10"
+oldal = "/hogyan-irj/"
+tipus = "pelda"
+tartalom = "Előtte–utána: a késedelmes adófizetésről szóló, „adóalany”-t emlegető mondat helyett megszólító mondat, amely a feltétellel kezdődik."
+szabalyok = ["K022", "K048"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#028"
+fejezet = "f10"
+oldal = "/hogyan-irj/"
+tipus = "ajanlas"
+tartalom = "Folytass párbeszédet: találd ki és válaszold meg az olvasó kérdéseit, mintha egy nagyon elfoglalt embernek felelnél."
+szabalyok = ["K007"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#029"
+fejezet = "f10"
+oldal = "/hogyan-irj/"
+tipus = "pelda"
+tartalom = "Legyél barátságos: a szerződésfelmondással fenyegető mondat helyett jelezd, hogy nem érkezett meg a befizetés, és kérd, hogy ellenőrizze."
+szabalyok = ["K050"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#030"
+fejezet = "f10"
+oldal = "/hogyan-irj/"
+tipus = "szabaly"
+tartalom = "Írj helyesen: a helyesírási hiba nehezíti a szókép felismerését, és rontja a szöveg hitelét."
+szabalyok = ["K056"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#031"
+fejezet = "f10"
+oldal = "/hogyan-irj/"
+tipus = "ajanlas"
+tartalom = "A szerző szerint a különírás, az egybeírás és a kötőjelezés kérdésében az érthetőség előbbre való a szabályzatnál; példái a „kamatadó-mentes” és az „email” alak."
+szabalyok = ["K056"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#032"
+fejezet = "f10"
+oldal = "/hogyan-irj/"
+tipus = "pelda"
+tartalom = "Ellenőrizd, hogy a szöveg nem félreérthető-e: egy villamospótlásról szóló hirdetményből nem derül ki, hogy a megadott napokon napközben jár-e a villamos; az átírt változat a napot és az órát is egyértelműen megadja."
+szabalyok = ["K075"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#033"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Húzd ki azokat a szavakat, amelyek nem adnak új információt: a „tájékoztatjuk, hogy” típusú bevezetőt, a tautológiát („de viszont”, „jelenleg most”) és a semmit nem pontosító jelzőt."
+szabalyok = ["K035"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#034"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "A terpeszkedő kifejezés (előadást tart) helyett használd az igét; különösen kerülendő, ha közben szenvedő szerkezet lesz belőle („megrendezésre kerül”)."
+szabalyok = ["K043", "K045"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#035"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Ahol rag is elég, ne használj névutót vagy határozós szerkezetet (a közönség számára → a közönségnek)."
+szabalyok = ["K038"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#036"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Hagyd el az igekötőt, ha nem tesz hozzá semmit az igéhez (kihangsúlyoz, beazonosít)."
+szabalyok = ["K037"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#037"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Az olvasó szavait használd (jogosítvány, ingyenes); ha bizonytalan vagy, a keresőben nézd meg, melyik kifejezés a gyakoribb."
+szabalyok = ["K029"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#038"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Kerüld a szakzsargont; kivétel, ha szakmai közönségnek írsz, mert ők értik, és hitelesebbnek tartanak tőle."
+szabalyok = ["K029"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#039"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Ha szakszót kell használnod, magyarázd meg, akár külön szövegdobozban; hosszú szövegben adj szószedetet."
+szabalyok = ["K030"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#040"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "tilalom"
+tartalom = "Kerüld a kliséket és a felkapott, de semmitmondó kifejezéseket."
+szabalyok = ["K041"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#041"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "pelda"
+tartalom = "Figyelj a többértelmű szóra: a „szignifikáns” a kutatónak azt jelenti, hogy a változás nem a véletlen műve, a laikus olvasónak azt, hogy nagy mértékű."
+szabalyok = ["K031"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#042"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Ne félj a szóismétléstől: ugyanarra a dologra ugyanazt a szót használd."
+szabalyok = ["K033"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#043"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Idegen szó helyett használj magyart (applikáció → alkalmazás), kivéve, ha az idegen szó már meghonosodott (fájl, tablet)."
+szabalyok = ["K032"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#044"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Fogalmazz konkrétan, ne elvontan, és az általános ige (csinál) helyett válaszd az egyedit (készít)."
+szabalyok = ["K041"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#045"
+fejezet = "f11"
+oldal = "/szavak/"
+tipus = "szabaly"
+tartalom = "Kerüld a rövidítést és a betűszót; ha mégis kell, az első előfordulásnál írd ki a teljes nevet, zárójelben a rövidítést, vagy vezess be rövid megjelölést („a továbbiakban: a Hivatal”)."
+szabalyok = ["K040"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#046"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Egy mondat egy dologról szóljon; legfeljebb egy szorosan hozzá kapcsolódó információval egészítsd ki."
+szabalyok = ["K019"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#047"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Ha lehet, a mondat ne legyen 15–20 szónál hosszabb; a rövidebb és hosszabb mondatok váltakozása oldja az egyhangúságot."
+szabalyok = ["K020"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#048"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Kettőnél több tagmondatnál nézd meg, egyszerűsíthető-e a mondat; háromnál több tagmondat csak nagyon indokolt esetben legyen."
+szabalyok = ["K023"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#049"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Cselekvő mondatot írj, és kerüld a szenvedő szerkezetet, hogy kiderüljön, ki cselekszik."
+szabalyok = ["K044"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#050"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "ajanlas"
+tartalom = "A cselekvőt a szerző szerint akkor nem kell megnevezni, ha a tárgy a fontos, ha a nyílt megfogalmazás túl ellenséges volna, vagy ha a felelősséget el akarod mosni."
+szabalyok = ["K044"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#051"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Ahol az olvasónak tennie kell valamit, használj felszólító módot („Kérjen engedélyt”) a személytelen leírás („az ügyfél kérelmére indul az eljárás”) helyett."
+szabalyok = ["K008"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#052"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Kerüld az udvariaskodó feltételes módot: „szeretném kérni” helyett „kérem”, így az is kiderül, hogy most kéred."
+szabalyok = ["K035"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#053"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Inkább állító mondatot írj; a „nem kell fizetnie, kivéve, ha” típusú tagadás tagadása helyett „csak akkor kell fizetnie, ha”. Tiltásnál a tagadásnak helye van."
+szabalyok = ["K026", "K046"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#054"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Kösd össze a mondatokat kötőszóval; kötőszóval nyugodtan kezdhetsz mondatot."
+szabalyok = ["K027"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#055"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "pelda"
+tartalom = "Kerüld az angolos, tükörfordított mondatszerkezetet; két példa az angol kiemelő és óhajtó szerkezetre a magyar megfelelőjével."
+szabalyok = ["K028"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#056"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "pelda"
+tartalom = "Ne halmozd a főneveket: két hivatali főnévi szerkezet átírva „ha”-val kezdődő, igés mondatra."
+szabalyok = ["K042"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#057"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "Az alany és az állítmány a mondat elején álljon, hogy hamar kiderüljön, miről szól a mondat."
+szabalyok = ["K021"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#058"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "A fontos információ a mondat elejére vagy végére kerüljön, ne a közepére; a szórend és az igekötő helye a jelentést is megváltoztatja."
+szabalyok = ["K025"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#059"
+fejezet = "f12"
+oldal = "/mondatok/"
+tipus = "szabaly"
+tartalom = "A feltételes mondatot a feltétellel kezdd, hogy akire nem vonatkozik, annak ne kelljen a mondat első felét is értelmeznie."
+szabalyok = ["K022"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#060"
+fejezet = "f13"
+oldal = "/bekezdesek/"
+tipus = "szabaly"
+tartalom = "Írj rövid bekezdéseket, lehetőleg legfeljebb 5–6 sorosakat; egy-két mondatos bekezdés is lehet, csak ne legyen belőle túl sok."
+szabalyok = ["K014"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#061"
+fejezet = "f13"
+oldal = "/bekezdesek/"
+tipus = "szabaly"
+tartalom = "A bekezdés első mondata nevezze meg a témát, kulcsszóval kezdve, és a bekezdés végig erről az egy témáról szóljon."
+szabalyok = ["K014"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#062"
+fejezet = "f13"
+oldal = "/bekezdesek/"
+tipus = "szabaly"
+tartalom = "A bekezdéseket is kösd össze kötőszóval, hogy látszódjon, folytatja, cáfolja vagy összegzi-e az előzőt."
+szabalyok = ["K027"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#063"
+fejezet = "f14"
+oldal = "/bonyolult-dolgokrol-egyszeruen/"
+tipus = "ajanlas"
+tartalom = "Bonyolult dolgot mutass be példával: mit jelent a könnyű testmozgás, vagy mennyi pénzt kap a megtakarító konkrét számokkal."
+szabalyok = ["K006"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#064"
+fejezet = "f14"
+oldal = "/bonyolult-dolgokrol-egyszeruen/"
+tipus = "ajanlas"
+tartalom = "Bontsd a bonyolult dolgot kisebb részekre, a hasonló dolgokat azonos mondatszerkezettel mutasd be, bonyolultabb esetben táblázatban."
+szabalyok = ["K064"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#065"
+fejezet = "f14"
+oldal = "/bonyolult-dolgokrol-egyszeruen/"
+tipus = "ajanlas"
+tartalom = "Hasonlítsd az ismeretlent olyasmihez, amit az olvasó már ismer, és mondd meg azt is, miben különbözik a kettő."
+szabalyok = ["K006"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#066"
+fejezet = "f16"
+oldal = "/az-oldal-felepitese/"
+tipus = "szabaly"
+tartalom = "Legyen egyértelmű az olvasási sorrend, különösen többhasábos, képes elrendezésben."
+szabalyok = ["K053"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#067"
+fejezet = "f16"
+oldal = "/az-oldal-felepitese/"
+tipus = "szabaly"
+tartalom = "Az üres tér mutassa, mi tartozik össze: alcím előtt több hely legyen, mint utána."
+szabalyok = ["K051"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#068"
+fejezet = "f16"
+oldal = "/az-oldal-felepitese/"
+tipus = "szabaly"
+tartalom = "A cím és az alcímszintek mérete, betűtípusa vagy stílusa jól megkülönböztethetően, fokozatosan térjen el."
+szabalyok = ["K051"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#069"
+fejezet = "f16"
+oldal = "/az-oldal-felepitese/"
+tipus = "szabaly"
+tartalom = "Apró betűvel csak az álljon, ami az olvasónak sem fontos, például a jogszabályhely; ami neki fontos, legyen jól olvasható."
+szabalyok = ["K012"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#070"
+fejezet = "f16"
+oldal = "/az-oldal-felepitese/"
+tipus = "szabaly"
+tartalom = "Légy következetes a szóhasználatban, az írásmódban és a hangnemben is: ne váltogasd a személyt, a számot, a tegezést és a magázást."
+szabalyok = ["K049"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#071"
+fejezet = "f16"
+oldal = "/az-oldal-felepitese/"
+tipus = "szabaly"
+tartalom = "A többoldalas dokumentum és a webhely oldalai egyformán épüljenek fel (margó, oldalszám, fejléc, betű, sorköz, behúzás, igazítás); ebben a rácsszerkezet segít."
+szabalyok = ["K053"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#072"
+fejezet = "f18"
+oldal = "/szokepet-olvasunk/"
+tipus = "hatter"
+tartalom = "Szóképet olvasunk; a felismerést rontja a csupa nagybetű, az elválasztás, a mintás háttér, a gyenge kontraszt és a díszes betűtípus."
+szabalyok = ["K053"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#073"
+fejezet = "f19"
+oldal = "/betuk/"
+tipus = "ajanlas"
+tartalom = "Általában két, egymástól jól megkülönböztethető betűtípus elég: egy a főszövegnek, egy a címeknek és feliratoknak; a főszöveg betűje könnyen olvasható legyen."
+szabalyok = ["K053"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#074"
+fejezet = "f19"
+oldal = "/betuk/"
+tipus = "ajanlas"
+tartalom = "Főszövegnek nyomtatásban 10–12 pontos, weben 15–25 képpontos betűt szoktak ajánlani; a címek ennél nagyobbak, annál inkább, minél fontosabbak."
+szabalyok = ["K055"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#075"
+fejezet = "f19"
+oldal = "/betuk/"
+tipus = "szabaly"
+tartalom = "Kiemelésre a félkövér való; aláhúzás és színváltás a hivatkozásnak jár, a csupa nagybetű nehezen olvasható, és a túl sok kiemelés rosszabb, mint a semmi."
+szabalyok = ["K052"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#076"
+fejezet = "f19"
+oldal = "/betuk/"
+tipus = "szabaly"
+tartalom = "Legyen elég kontraszt a betű és az egyszínű háttér között, a fényerő is térjen el; ezt a WCAG szerinti eszközökkel lehet ellenőrizni."
+szabalyok = ["K053"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#077"
+fejezet = "f20"
+oldal = "/sorok/"
+tipus = "szabaly"
+tartalom = "A folyószöveget balra igazítsd, ne középre vagy jobbra; weben sorkizárást se használj."
+szabalyok = ["K053"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#078"
+fejezet = "f20"
+oldal = "/sorok/"
+tipus = "ajanlas"
+tartalom = "A bekezdéseket sorkihagyással vagy első sori behúzással válaszd el, a kettőt együtt ne használd."
+szabalyok = ["K053"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#079"
+fejezet = "f20"
+oldal = "/sorok/"
+tipus = "ajanlas"
+tartalom = "A sor hossza 45–90 karakter, a sorköz a betűméret 120–150 százaléka legyen; hosszabb sorhoz nagyobb sorköz kell."
+szabalyok = ["K053"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#080"
+fejezet = "f21"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+tipus = "szabaly"
+tartalom = "Ha egy mondatban legalább három azonos szerepű elem van, mérlegeld a felsorolást."
+szabalyok = ["K013"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#081"
+fejezet = "f21"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+tipus = "pelda"
+tartalom = "Előtte–utána: a visszavásárlás négy feltétele előbb egyetlen mondatban, majd felsorolásban."
+szabalyok = ["K013"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#082"
+fejezet = "f21"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+tipus = "szabaly"
+tartalom = "A felsorolás bevezető félmondata és minden eleme együtt adjon ki teljes mondatot; ami nem illik bele, a felsorolás után álljon."
+szabalyok = ["K013"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#083"
+fejezet = "f21"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+tipus = "ajanlas"
+tartalom = "Időben egymást követő lépésekhez számozott listát használj, azonos mondatszerkezettel, például mindig igével kezdve."
+szabalyok = ["K013"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#084"
+fejezet = "f21"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+tipus = "ajanlas"
+tartalom = "Táblázat akkor jó, ha több dologról ugyanazt közlöd, ha számokat hasonlítasz össze, vagy ha a válasz feltételtől függ („ha…, akkor…”)."
+szabalyok = ["K064"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#085"
+fejezet = "f21"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+tipus = "szabaly"
+tartalom = "A táblázatban a tartalom domináljon, ne a rácsvonal; a szöveget balra, a számot jobbra igazítsd."
+szabalyok = ["K066"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#086"
+fejezet = "f21"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+tipus = "szabaly"
+tartalom = "A folyamatábrának egy jól látható belépési és legalább egy egyértelmű kilépési pontja legyen, és minden kérdés minden lehetséges válaszához tartozzon továbbvezető út."
+szabalyok = ["K067"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#087"
+fejezet = "f21"
+oldal = "/felsorolasok-tablazatok-illusztraciok/"
+tipus = "szabaly"
+tartalom = "Weben az illusztrációhoz adj szöveges alternatívát."
+kihagyva = "Webes akadálymentesítési műszaki követelmény; a skill a szöveg megfogalmazását vizsgálja, a weboldal kódját nem."
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#088"
+fejezet = "f22"
+oldal = "/akadalymentesites-a-weben/"
+tipus = "hatter"
+tartalom = "A közszféra honlapjainak akadálymentesnek kell lenniük (2018. évi LXXV. törvény), és 2025. június 28. óta számos vállalkozásra is vonatkozik ez (2022. évi XVII. törvény); a mérce a WCAG-alapú európai szabvány, amely az érthető tartalmat is elvárja."
+kihagyva = "A két törvény szövegét a skill nem dolgozta fel; a szerző összefoglalóját jogszabályi forrásként nem használja."
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#089"
+fejezet = "f22"
+oldal = "/akadalymentesites-a-weben/"
+tipus = "tilalom"
+tartalom = "Ne készíts külön akadálymentes változatot: a fő oldalt tedd akadálymentessé."
+kihagyva = "Webfejlesztési döntés, a szöveg megfogalmazására nem ad szabályt."
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#090"
+fejezet = "f22"
+oldal = "/akadalymentesites-a-weben/"
+tipus = "szabaly"
+tartalom = "Az alcímeket jelöld a megfelelő HTML-címkével, és a hivatkozás szövege legyen beszédes („Tovább”, „Bővebben” helyett)."
+szabalyok = ["K009"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#091"
+fejezet = "f22"
+oldal = "/akadalymentesites-a-weben/"
+tipus = "szabaly"
+tartalom = "Írj úgy, hogy az is megértse, aki nyolc általánost végzett; ha ennél bonyolultabban kell írnod, készíts egyszerűbb változatot."
+szabalyok = ["K018"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#092"
+fejezet = "f22"
+oldal = "/akadalymentesites-a-weben/"
+tipus = "szabaly"
+tartalom = "Videóhoz add meg a szövegét, képhez az alt mezőben a leírását."
+kihagyva = "Webes akadálymentesítési műszaki követelmény; a skill a szöveg megfogalmazását vizsgálja, a weboldal kódját nem."
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#093"
+fejezet = "f23"
+oldal = "/ellenorizd/"
+tipus = "ajanlas"
+tartalom = "Csiszold a szöveget, amíg elégedett nem vagy vele; aludj rá egyet, és olvasd újra friss szemmel."
+szabalyok = ["K074"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#094"
+fejezet = "f23"
+oldal = "/ellenorizd/"
+tipus = "szabaly"
+tartalom = "Olvasd fel hangosan: hallod, hol akad meg, mi félreérthető vagy túl hosszú."
+szabalyok = ["K075"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#095"
+fejezet = "f23"
+oldal = "/ellenorizd/"
+tipus = "szabaly"
+tartalom = "Teszteld a célközönséggel: megértik-e, azt teszik-e, amit szeretnél, és megkapták-e minden kérdésükre a választ; ha nincs célközönség, bárkivel jobb tesztelni, mint senkivel."
+szabalyok = ["K076"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#096"
+fejezet = "f23"
+oldal = "/ellenorizd/"
+tipus = "tilalom"
+tartalom = "Ne a munkatársaiddal tesztelj, mert ők nem tudnak elvonatkoztatni a szakmai tudásuktól."
+szabalyok = ["K076"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#097"
+fejezet = "f23"
+oldal = "/ellenorizd/"
+tipus = "ajanlas"
+tartalom = "Tesztelhetsz konkrét feladattal (keressen ki egy adatot) vagy nyitott kérdéssel (mit tenne, ha ilyen levelet kapna)."
+szabalyok = ["K076"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#098"
+fejezet = "f23"
+oldal = "/ellenorizd/"
+tipus = "ajanlas"
+tartalom = "Cloze-teszt: töröld a szöveg minden ötödik-hatodik szavát, és kérd az olvasót, hogy találja ki őket; átlagosan 60 százalékos találat a siker jele."
+szabalyok = ["K076"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#099"
+fejezet = "f23"
+oldal = "/ellenorizd/"
+tipus = "ajanlas"
+tartalom = "Mérd a szöveg teljesítményét a várt cselekvés szerint (visszaküldött és helyesen kitöltött űrlap, befizetés, ügyfélszolgálati hívások), lehetőleg a régi szövegen is; weben A/B teszttel."
+szabalyok = ["K076"]
+
+[[tetel]]
+azonosito = "kozerthetofogalmazas-2015#100"
+fejezet = "f24"
+oldal = "/tovabbi-olvasnivalo/"
+tipus = "hatter"
+tartalom = "Az ISO 24495-1:2023 négy alapelve (releváns, megtalálható, érthető, felhasználható) közel áll a webhely definíciójához; a fejezet többi része ajánlott irodalom és webhely."
+referencia = "references/parancs-audit.md#negy-kerdes"

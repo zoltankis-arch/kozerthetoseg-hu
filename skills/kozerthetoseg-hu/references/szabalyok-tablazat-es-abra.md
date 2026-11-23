@@ -19,7 +19,7 @@ Ellenőrző kérdés: Ahol táblázat, ábra vagy ikon világosabb volna, ott az
 
 Kör: általános. Alapértelmezett súlyosság: közepes. Ellenőrzés: olvasva.
 
-Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-014); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-073).
+Források: [Európai Bizottság 2013, 5. o.](forrasok.md#eu-pontos-fogalmazas-2013-014); [Gergely: kozerthetofogalmazas.hu, /bonyolult-dolgokrol-egyszeruen/](forrasok.md#kozerthetofogalmazas-2015-064); [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-084); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-073).
 
 <a id="k065"></a>
 
@@ -53,7 +53,7 @@ Ellenőrző kérdés: A táblázatban egységes a dátum, a rövidítés és a k
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 59. o.](forrasok.md#nav-ertheto-hivatal-2-077); [NAV 2024b, 60. o.](forrasok.md#nav-ertheto-hivatal-2-078); [NAV 2024b, 61. o.](forrasok.md#nav-ertheto-hivatal-2-079); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-073).
+Források: [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-085); [NAV 2024b, 59. o.](forrasok.md#nav-ertheto-hivatal-2-077); [NAV 2024b, 60. o.](forrasok.md#nav-ertheto-hivatal-2-078); [NAV 2024b, 61. o.](forrasok.md#nav-ertheto-hivatal-2-079); [Világos Beszéd kézikönyv 2025, 26. o.](forrasok.md#vilagos-beszed-kezikonyv-2025-073).
 
 <a id="k067"></a>
 
@@ -70,4 +70,4 @@ Ellenőrző kérdés: A diagram illeszkedik az adatokhoz, és könnyen olvashat�
 
 Kör: általános. Alapértelmezett súlyosság: alacsony. Ellenőrzés: olvasva.
 
-Források: [NAV 2024b, 62. o.](forrasok.md#nav-ertheto-hivatal-2-080).
+Források: [Gergely: kozerthetofogalmazas.hu, /felsorolasok-tablazatok-illusztraciok/](forrasok.md#kozerthetofogalmazas-2015-086); [NAV 2024b, 62. o.](forrasok.md#nav-ertheto-hivatal-2-080).
