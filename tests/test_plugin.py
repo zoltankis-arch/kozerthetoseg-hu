@@ -39,12 +39,16 @@ def test_a_skill_a_rogzitett_helyen_van():
 def test_a_verziok_egyeznek():
     v = manifest()["version"]
     assert skill_verzio() == v
-    for f in (".codex-plugin/plugin.json", ".claude-plugin/plugin.json"):
-        assert json.loads((GYOKER / f).read_text(encoding="utf-8"))["version"] == v, f
+    codex = json.loads((GYOKER / ".codex-plugin" / "plugin.json").read_text(encoding="utf-8"))
+    assert codex["version"] == v
+    piacter = json.loads((GYOKER / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8"))
+    assert piacter["plugins"][0]["version"] == v
     assert f'version: "{v}"' in (GYOKER / "CITATION.cff").read_text(encoding="utf-8")
+    assert f"verzi%C3%B3-{v}-blue" in (GYOKER / "README.md").read_text(encoding="utf-8")
 
 
-def test_a_claude_piacter_a_repo_gyokeret_adja_meg():
+def test_a_claude_piacter_csak_a_skill_mappajat_telepiti():
     m = json.loads((GYOKER / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8"))
     assert {"name", "owner", "plugins"} <= set(m)
-    assert [(x["name"], x["source"]) for x in m["plugins"]] == [(manifest()["name"], "./")]
+    assert [(x["name"], x["source"]) for x in m["plugins"]] == [(manifest()["name"], "./skills/kozerthetoseg-hu")]
+    assert not (GYOKER / ".claude-plugin" / "plugin.json").exists()
