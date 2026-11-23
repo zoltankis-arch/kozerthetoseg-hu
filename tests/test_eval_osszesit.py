@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 GYOKER = Path(__file__).resolve().parent.parent
-ITERACIO = GYOKER / "eredmenyek" / "iteracio-2"
+ITERACIO = GYOKER / "evals" / "eredmenyek" / "iteracio-2"
 
 spec = importlib.util.spec_from_file_location("eval_osszesit", GYOKER / "tools" / "eval_osszesit.py")
 eval_osszesit = importlib.util.module_from_spec(spec)

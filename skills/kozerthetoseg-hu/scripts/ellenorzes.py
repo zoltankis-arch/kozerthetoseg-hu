@@ -46,6 +46,15 @@ class Naplo:
         self.hibak.append(f"{nev}:{sor}: {uzenet}" if sor else f"{nev}: {uzenet}")
 
 
+
+def repo_fajl(gy: Path, *ut: str) -> Path | None:
+    """A repó egy fájlja a skill mappájától felfelé keresve (skill, szülő, nagyszülő)."""
+    for alap in (gy, gy.parent, gy.parent.parent):
+        p = alap.joinpath(*ut)
+        if p.is_file():
+            return p
+    return None
+
 def sema_hibak(n: Naplo, f: kozos.TomlFajl, sema: dict, tablak: tuple[str, ...]) -> None:
     for ut, uzenet in kozos.sema_ellenoriz(f.adat, sema):
         sor = None
@@ -286,9 +295,10 @@ def ellenoriz_skill_md(n: Naplo, gy: Path, a: kozos.Adatok) -> None:
     else:
         n.hiba(sablon, None, "hiányzik a parancssablon")
 
-    # Evalok: minden parancshoz legalább egy
-    evp = gy / "evals" / "evals.json"
-    if evp.is_file():
+    # Evalok: minden parancshoz legalább egy. Az evalok a repó gyökerében vannak
+    # (evals/), a telepített skillben nincsenek; ilyenkor ez a lépés kimarad.
+    evp = repo_fajl(gy, "evals", "evals.json")
+    if evp is not None:
         try:
             ev = json.loads(evp.read_text(encoding="utf-8"))
         except json.JSONDecodeError as e:
@@ -306,13 +316,11 @@ def ellenoriz_skill_md(n: Naplo, gy: Path, a: kozos.Adatok) -> None:
             for p in e.get("parancs", "").split(","):
                 lefedett.add(p.strip())
             for fajl in e.get("files", []):
-                if not (gy / fajl).is_file():
+                if not (evp.parent.parent / fajl).is_file():
                     n.hiba(evp, None, f"a(z) {e.get('id')}. eval nem létező fájlra hivatkozik: {fajl}")
         for nev in fajlok:
             if nev not in lefedett:
                 n.hiba(evp, None, f"a(z) `{nev}` parancshoz nincs eval")
-    else:
-        n.hiba(evp, None, "hiányzik az evals/evals.json")
 
     # Hivatkozások a SKILL.md-ben és a references/ fájljaiban
     for md in [ut, *sorted((gy / "references").glob("*.md"))]:
@@ -335,7 +343,7 @@ def ellenoriz_skill_md(n: Naplo, gy: Path, a: kozos.Adatok) -> None:
                         n.hiba(md, i, "a referenciafájlok egymásra a mappán belül hivatkozzanak")
 
     # Változásnapló: ha a skill a repóban él, a verziója szerepeljen benne
-    changelog = gy.parent / "CHANGELOG.md"
+    changelog = repo_fajl(gy, "CHANGELOG.md") or gy.parent / "CHANGELOG.md"
     if changelog.is_file() and meta.get("version"):
         if f"## [{meta['version']}]" not in changelog.read_text(encoding="utf-8"):
             n.hiba(changelog, None, f"a CHANGELOG.md-ben nincs bejegyzés a(z) {meta['version']} verzióhoz")

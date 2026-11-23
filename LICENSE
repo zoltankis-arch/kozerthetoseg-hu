@@ -1,14 +1,14 @@
 A kozerthetoseg-hu két licenc alatt érhető el.
 
-1. A kód az MIT licenc alatt áll. Ide tartozik a skills/kozerthetoseg-hu/scripts/
-   és a tests/ mappa, valamint a .github/workflows/ fájljai.
-   A licenc szövege: LICENSE-MIT.
+1. A kód az MIT licenc alatt áll. Ide tartozik a skills/kozerthetoseg-hu/scripts/,
+   a tests/ és a tools/ mappa, valamint a .github/workflows/ fájljai.
+   A licenc szövege: LICENSES/MIT.txt.
 
 2. A szöveges tartalom a Creative Commons Nevezd meg! 4.0 Nemzetközi
    (CC BY 4.0) licenc alatt áll. Ide tartozik minden más: a SKILL.md,
    a references/ és az assets/ fájljai, a szabályok és a forrásleltár,
    a README, a CONTRIBUTING és a többi dokumentáció.
-   A licenc szövege: LICENSE-CC-BY-4.0
+   A licenc szövege: LICENSES/CC-BY-4.0.txt
    Magyarul: https://creativecommons.org/licenses/by/4.0/legalcode.hu
 
    Hivatkozás: Kis Zoltán: kozerthetoseg-hu,

@@ -1,6 +1,6 @@
 # Előtte–utána példák
 
-Négy kitalált szöveg és a skill átírása. A szövegek az evalok bemenetei (`skills/kozerthetoseg-hu/evals/szovegek/`), az átírások az 1.4.0-s összehasonlító futásból valók (`eredmenyek/iteracio-2/`). Kézzel nem javítottunk rajtuk. A szögletes zárójeles helyőrzők olyan adatot jelölnek, amely a bemenetben nincs meg; ezeket a kiadónak kell kitöltenie.
+Négy kitalált szöveg és a skill átírása. A szövegek az evalok bemenetei (`evals/szovegek/`), az átírások az 1.4.0-s összehasonlító futásból valók (`evals/eredmenyek/iteracio-2/`). Kézzel nem javítottunk rajtuk. A szögletes zárójeles helyőrzők olyan adatot jelölnek, amely a bemenetben nincs meg; ezeket a kiadónak kell kitöltenie.
 
 Mappánként a teljes változtatáslista, a hűségtáblázat és a mérés előtte–utána a `valtozasok.md` fájlban van.
 

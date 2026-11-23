@@ -3,7 +3,7 @@ import sys
 import types
 
 import meres
-from conftest import SKILL, futtat
+from conftest import EVALS, SKILL, futtat
 
 
 def test_mondatbontas_roviditesek_es_datumok():
@@ -80,7 +80,7 @@ def test_cli_markdown_es_json(tmp_path, capsys):
 
 
 def test_determinisztikus(capsys):
-    f = SKILL / "evals" / "szovegek" / "03-hatosagi-level.md"
+    f = EVALS / "szovegek" / "03-hatosagi-level.md"
     _, egy, _ = futtat(meres, ["--json", str(f)], capsys)
     _, ketto, _ = futtat(meres, ["--json", str(f)], capsys)
     assert egy == ketto
@@ -143,19 +143,19 @@ def test_szabalyonkenti_jelzesek(tmp_path, capsys):
 
 
 def test_kozertheto_szovegben_nincs_magas_jelzes(capsys):
-    f = SKILL / "evals" / "szovegek" / "08-kozertheto-level.md"
+    f = EVALS / "szovegek" / "08-kozertheto-level.md"
     kod, _, _ = futtat(meres, ["--max-jelzes", "0", "--szint", "magas", str(f)], capsys)
     assert kod == 0
 
 
 def test_kuszob_tullepes_kilepesi_kod(capsys):
-    f = SKILL / "evals" / "szovegek" / "03-hatosagi-level.md"
+    f = EVALS / "szovegek" / "03-hatosagi-level.md"
     kod, _, hiba = futtat(meres, ["--max-jelzes", "0", str(f)], capsys)
     assert kod == 1 and "meghaladja" in hiba
 
 
 def test_ugyanarra_ugyanazt_adja(capsys):
-    f = SKILL / "evals" / "szovegek" / "02-adatkezelesi-reszlet.md"
+    f = EVALS / "szovegek" / "02-adatkezelesi-reszlet.md"
     _, egy, _ = futtat(meres, ["--json", str(f)], capsys)
     _, ketto, _ = futtat(meres, ["--json", str(f)], capsys)
     assert egy == ketto

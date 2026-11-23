@@ -165,7 +165,7 @@ def test_katalogusverzio_egyezes(skill, capsys):
 
 
 def test_eval_hianyzo_mezo(skill, capsys):
-    p = skill / "evals" / "evals.json"
+    p = skill.parent / "evals" / "evals.json"
     adat = json.loads(p.read_text(encoding="utf-8"))
     del adat["evals"][0]["parancs"]
     p.write_text(json.dumps(adat, ensure_ascii=False), encoding="utf-8")

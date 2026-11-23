@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/zoltankis-arch/kozerthetoseg-hu/blob/main/CONTRIBUTING.md
     about: Új forrás, szabály és parancs felvétele lépésről lépésre.
   - name: Biztonsági hiba
-    url: https://github.com/zoltankis-arch/kozerthetoseg-hu/blob/main/SECURITY.md
+    url: https://github.com/zoltankis-arch/kozerthetoseg-hu/blob/main/.github/SECURITY.md
     about: Kihasználható hibát ne nyilvános issue-ban jelezz.

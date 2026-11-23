@@ -25,9 +25,9 @@ jobs:
       - name: A generált referenciák frissek
         run: python skills/kozerthetoseg-hu/scripts/generalas.py --ellenoriz
       - name: A mérőszkript hálózat nélkül, külső csomag nélkül fut
-        run: python skills/kozerthetoseg-hu/scripts/meres.py skills/kozerthetoseg-hu/evals/szovegek/03-hatosagi-level.md
+        run: python skills/kozerthetoseg-hu/scripts/meres.py evals/szovegek/03-hatosagi-level.md
       - name: Az eval-összesítés újraszámolható a nyers eredményekből
-        run: python tools/eval_osszesit.py --ellenoriz eredmenyek/iteracio-2
+        run: python tools/eval_osszesit.py --ellenoriz evals/eredmenyek/iteracio-2
       - name: Tesztek
         run: |
           python -m pip install --upgrade pip pytest

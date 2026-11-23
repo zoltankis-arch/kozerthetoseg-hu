@@ -20,7 +20,7 @@ Ez a terv az angol nyelvű plain language skillek és a Vale prózalinter össze
 
 ## 1.4.0: mérhető hatás (kész)
 
-6. **Összehasonlító evalok.** Minden eval két futással: a skill-lel és nélküle, ugyanazzal a modellel. Mérőszám: a mérés jelzései 100 szóra, az elvárások teljesülése, és vak bíráló döntése. A nyers eredmények a repóba kerülnek (`eredmenyek/`), egy szkript újraszámolja a közölt számokat, a CI lefuttatja.
+6. **Összehasonlító evalok.** Minden eval két futással: a skill-lel és nélküle, ugyanazzal a modellel. Mérőszám: a mérés jelzései 100 szóra, az elvárások teljesülése, és vak bíráló döntése. A nyers eredmények a repóba kerülnek (`evals/eredmenyek/`), egy szkript újraszámolja a közölt számokat, a CI lefuttatja.
 7. **Nyomáspróbák.** Evalok, amelyek a hibára csábítanak: „csak rövidítsd le”, „írd át mégis a törvényt”, „tegyél bele egy határidőt”.
 8. **Előtte–utána példák.** `examples/` mappa a kitalált tesztszövegek eredeti és átírt változatával, a változtatások listájával.
 

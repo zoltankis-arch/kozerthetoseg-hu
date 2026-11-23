@@ -76,6 +76,6 @@ A szkript Markdown-kimenete (vagy JSON), ezzel kezdve: „A mérőszám jelzés,
 
 ## Példa
 
-`python scripts/meres.py evals/szovegek/03-hatosagi-level.md` egy hiánypótlási felhívásra: átlagos mondathossz 13,8 szó, a leghosszabb mondat 37 szó, 2 mondat 20 szó felett, 5 „kerül”-szerkezet, 3 hivatali fordulat.
+`python scripts/meres.py hianypotlas.md` egy hiánypótlási felhívásra (a repó `evals/szovegek/03-hatosagi-level.md` fájlja): átlagos mondathossz 13,8 szó, a leghosszabb mondat 37 szó, 2 mondat 20 szó felett, 5 „kerül”-szerkezet, 3 hivatali fordulat.
 
 Értelmezés: „Az átlagot a rövid tárgysor és a megszólítás lehúzza; a 4. mondat 37 szavas, és egyszerre hordozza a teendőt, a határidőt és a jogkövetkezményt, ezt érdemes bontani (K020, K023). Az öt „kerül”-szerkezet (K043) elrejti, ki döntött és kinek mi a dolga. A „Kérjük tájékoztatásunk szíves tudomásulvételét” elhagyható (K050).”

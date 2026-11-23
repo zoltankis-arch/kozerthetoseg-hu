@@ -2,7 +2,7 @@
 
 Köszönjük, hogy javítanád a skillt. Ez a leírás lépésről lépésre mutatja meg, hogyan vehetsz fel új forrást, új szabályt és új parancsot, és mikor melyik verziószám emelkedik.
 
-A közreműködésre a [magatartási kódex](CODE_OF_CONDUCT.md) vonatkozik.
+A közreműködésre a [magatartási kódex](.github/CODE_OF_CONDUCT.md) vonatkozik.
 
 ## Előkészület
 
@@ -86,7 +86,7 @@ Minden párnak legyen forrása a leltárból, és ha a csere nem mindig helyes, 
 
 1. Másold az `assets/sablonok/parancs.md` sablont `references/parancs-<név>.md` néven, és töltsd ki a szakaszait (Mikor kell, Bemenet, Lépések, Kimenet formája, Mit nem csinál, Példa). A szakaszok neve és sorrendje nem változhat; az ellenőrzés ezt figyeli.
 2. Vegyél fel egy sort a SKILL.md parancstáblázatába: `` | `<név>` | mit csinál | [parancs-<név>.md](references/parancs-<név>.md) | ``.
-3. Írj legalább egy evalt az `evals/evals.json`-ba, a `parancs` mezőben az új parancs nevével, és ha kell, tesztszöveget az `evals/szovegek/` mappába.
+3. Írj legalább egy evalt a repó gyökerében lévő `evals/evals.json`-ba, a `parancs` mezőben az új parancs nevével, és ha kell, tesztszöveget az `evals/szovegek/` mappába.
 4. Vegyél fel bejegyzést a CHANGELOG.md-be.
 5. `python scripts/ellenorzes.py`: jelzi, ha a táblázat, a fájl vagy az eval hiányzik.
 

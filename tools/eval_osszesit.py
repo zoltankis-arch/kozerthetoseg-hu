@@ -2,8 +2,8 @@
 """Az összehasonlító evalok összesítése a commitolt nyers eredményekből.
 
 Használat:
-    python tools/eval_osszesit.py eredmenyek/iteracio-2            # összesít, és kiírja
-    python tools/eval_osszesit.py --ellenoriz eredmenyek/iteracio-2 # a commitolt összesítéssel veti össze
+    python tools/eval_osszesit.py evals/eredmenyek/iteracio-2            # összesít, és kiírja
+    python tools/eval_osszesit.py --ellenoriz evals/eredmenyek/iteracio-2 # a commitolt összesítéssel veti össze
 
 Bemenet egy iteráció mappájában, evalonként (eval-NN/):
     with_skill/valasz.md, baseline/valasz.md      a futások válasza
@@ -137,7 +137,7 @@ def markdown(o: dict) -> str:
 
 def main(argv=None) -> int:
     p = argparse.ArgumentParser(description="Az összehasonlító evalok összesítése a nyers eredményekből.")
-    p.add_argument("mappa", type=Path, help="egy iteráció mappája, például eredmenyek/iteracio-2")
+    p.add_argument("mappa", type=Path, help="egy iteráció mappája, például evals/eredmenyek/iteracio-2")
     p.add_argument("--ellenoriz", action="store_true", help="nem ír, csak összeveti a commitolt összesítéssel")
     a = p.parse_args(argv)
     if not a.mappa.is_dir():
