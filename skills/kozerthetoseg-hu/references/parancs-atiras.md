@@ -24,10 +24,10 @@ Kötelező szöveget (jogszabály, előírt formula, jogszabályban megállapít
 4. <a id="olvasoi-atolvasas"></a>Olvasói átolvasás. Olvasd végig az átírt szöveget az olvasó helyében, és nézd meg mondatonként:
    - Valódi cselekvő (K044): tud-e cselekedni az alany? Ha az alany képes vagy elvont („minden energiaforrás támogatást kaphat”, „a rendszer úgy dönt”), az legyen az alany, aki valóban cselekszik („aki áramot termel”), ha ez a forrásból egyértelmű. Ha nem az, írj általános alanyt, vagy jelezd a hiányt.
    - Az olvasó oldala (K008): azt írja-e le a mondat, mit lát, kap vagy tesz az olvasó? A kiadó belső művelete helyett az olvasó tapasztalata álljon („a számlán feltüntetjük” helyett „a számláján látja”).
-   - Az olvasó szavai (K029): a kiadó belső fogalmai és folyamatlépései helyett azt a szót használod-e, amelyet az olvasó mondana? („a befizetést követően kiállított számla” helyett „a következő számlája”, ha a kettő ugyanazt jelöli.) A cserét a hűségtáblázatban „átfogalmazva” állapottal és egymondatos indoklással jelöld.
+   - Az olvasó szavai (K029): a kiadó belső fogalmai és folyamatlépései helyett azt a szót használod-e, amelyet az olvasó mondana? („a befizetést követően kiállított számla” helyett „a következő számlája”, ha a kettő ugyanazt jelöli.) Csak akkor cserélj, ha a két szó az adott helyzetben pontosan ugyanazt jelenti: jelszónál például a „karakter” nem cserélhető „betű”-re, mert a magyar „sz” vagy „cs” egy betű, de két karakter, és a jelszó így megváltozna. A cserét a hűségtáblázatban „átfogalmazva” állapottal és egymondatos indoklással jelöld.
    - Hivatali ige (K036): maradt-e az átírásban a forrás hivatali igéje (feltüntet, eszközöl, megküld, kiegyenlít)? Ha van egyszerűbb, cseréld.
    - Mi következik az olvasóra (K006, K007): ha a mondat már érthető, de az olvasó nem tudja, mi következik belőle rá nézve, és ez a forrásból egyenesen adódik, mondd ki. Ha nem adódik, ne találd ki: a jelzések között írd le, mi hiányzik.
-   - Természetes magyar mondat (K028): felolvasva úgy hangzik-e, ahogy egy ember mondaná? Figyelj a névelőre („Ha a számláját”, nem „Ha számláját”) és a szórendre.
+   - Természetes magyar mondat (K028): felolvasva úgy hangzik-e, ahogy egy ember mondaná? Figyelj a névelőre („Ha a számláját”, nem „Ha számláját”) és a szórendre. A hivatali határozói igenév („a fizetésről értesülve”) és határozószó („igazoltan kifizette”) helyett írj mellékmondatot („miután értesültünk a fizetésről”), ha így természetesebb, és a jelentés nem változik.
 
    Ha egy kérdésre a válasz nem, javíts, és csak utána mérj. A terjedelmi korlát ezt a lépést nem írja felül: ha a kettő ütközik, tartsd a korlátot, és a jelzésekben mondd meg, mit nem tudtál megoldani.
 5. Mérés az átírt szövegen (`scripts/meres.py`), összevetve az eredetivel.
@@ -57,6 +57,7 @@ A kimenet négy része, ebben a sorrendben:
 
 - Nem ír át kötelező szöveget.
 - Nem told hozzá új tényt, számot vagy feltételt. Ha az olvasónak szüksége volna egy hiányzó adatra (például a határidőre), jelöld helyőrzővel („[határidő: kérdezd meg a kiadótól]”), ne találd ki.
+- Szemléltető példát írhat, ha az a forrás szabályából egyértelműen levezethető, és nem állít vele új tényt (például minta jelszó egy kitalált születésnappal: „Ha március 5-én született …: 0305…”). A példát jelölje példaként, és a jelzések között kérje, hogy a kiadó ellenőrizze. Ha a terjedelmi korlát miatt a példa kimarad, ezt is jelezze.
 - Nem dönti el, hogy a jogi tartalom helyes-e; a hűségellenőrzés csak azt mutatja meg, hogy az átírás megtartotta-e.
 - Nem készít könnyen érthető (KÉK) változatot.
 
