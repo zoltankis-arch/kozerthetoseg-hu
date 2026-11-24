@@ -286,6 +286,23 @@
         "Jelzi, hogy a kamat mértéke hiányzik, és nem találja ki.",
         "Nem hosszabb az eredetinél."
       ]
+    },
+    {
+      "id": 18,
+      "eval_name": "jelszo kepzese pontos szocserevel",
+      "parancs": "atiras",
+      "prompt": "Írd át közérthetőre ezt a tájékoztatót egy lakossági ügyfélnek, aki ki akarja rakni a jelszót. A szöveg nem kötelező, szabadon átírható. Magázás.",
+      "expected_output": "Lépésekre bontott jelszóleírás, amely a „karakter” szót nem cseréli „betű”-re, és legfeljebb példaként jelölt mintát ad.",
+      "files": [
+        "evals/szovegek/18-jelszo.md"
+      ],
+      "expectations": [
+        "A „karakter” szót nem cseréli „betű”-re, vagy ha mégis, jelzi, hogy a kettő a kétjegyű betűk (sz, cs, gy) miatt nem ugyanaz.",
+        "A jelszó részei listában vagy lépésekben, a forrás sorrendjében állnak.",
+        "Ha mintát ad, az példaként jelölt, a forrás szabályából levezethető, és a válasz kéri, hogy a kiadó ellenőrizze; ha nem ad, jelzi, hogy egy példa segítene.",
+        "A „szükséges megadni” helyett az olvasóhoz szóló felszólítás vagy kijelentés áll (K048, K045).",
+        "Megvan a 6 karakteres hossz, a 2-2 számjegy, a kisbetű és az ékezet nélküli írás."
+      ]
     }
   ]
 }
