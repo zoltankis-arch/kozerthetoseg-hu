@@ -251,6 +251,41 @@
         "A levél többi adata (e-mail-cím, cím, telefonszám, ügyfélszolgálati idő) változatlanul megvan.",
         "Nem talál ki hibát a már közérthető részekben; legfeljebb kisebb javaslatot ad."
       ]
+    },
+    {
+      "id": 16,
+      "eval_name": "kepes alany es olvasoi kovetkezmeny",
+      "parancs": "atiras",
+      "prompt": "Írd át ezt a szolgáltatói tájékoztatót közérthetőre. Lakossági ügyfelek olvassák a havi számlájukon, a számla magázza őket. A szöveg nem kötelező, szabadon átírható.",
+      "expected_output": "Átírás, amelynek alanya az, aki valóban kaphat kedvezményt, és amely kimondja, mi következik ebből az olvasóra, vagy jelzi, hogy ez nem derül ki.",
+      "files": [
+        "evals/szovegek/16-kepes-alany.md"
+      ],
+      "expectations": [
+        "Az átírás alanya az, aki valóban kaphat kedvezményt (például aki áramot termel, a termelő), nem maga a „termelési mód” (K044).",
+        "Az „illeték” szót köznyelvi szóra cseréli (például díj), vagy jelzi, hogy itt nem a jogi értelmében áll (K031).",
+        "Kimondja, mi következik ebből az olvasóra (például hogy ez a kedvezmény a számláján nem látszik), vagy jelzi, hogy ez a forrásból nem derül ki; azt, hogy honnan jön a kedvezmény pénze, nem találja ki.",
+        "A hűségtáblázat külön sorban kezeli a „kerülhetnek” modalitást, és ha megváltozott, indokolja.",
+        "Nincs benne „kerül”-szerkezet, és a „kijelenti, hogy” felvezetés nem marad meg tartalom nélkül (K043, K035)."
+      ]
+    },
+    {
+      "id": 17,
+      "eval_name": "olvaso nezopontja es szavai",
+      "parancs": "atiras",
+      "prompt": "Írd át közérthetőre, legfeljebb az eredeti hosszában, alcím nélkül. Lakossági ügyfél olvassa, a levél többi része magázza.",
+      "expected_output": "Rövid átírás a feltétellel elöl, amely az olvasó oldaláról és az olvasó szavaival mondja meg, hol jelenik meg a kamat.",
+      "files": [
+        "evals/szovegek/17-olvaso-nezopontja.md"
+      ],
+      "expectations": [
+        "A feltétel elöl áll („Ha … fizet…”) (K022).",
+        "Azt mondja meg, hol látja az olvasó a kamatot (például „a következő díjbekérőjén látja”), nem a kiadó műveletét („feltüntetjük”) (K008, K036).",
+        "A „befizetést követően kibocsátott díjbekérő” helyett az olvasó szavával nevezi meg (például „a következő díjbekérő”), és a hűségtáblázat ezt átfogalmazottként, indoklással jelöli (K029).",
+        "A birtokos szó előtt kiteszi a névelőt (például „Ha a díjbekérőjét…”, nem „Ha díjbekérőjét…”) (K028).",
+        "Jelzi, hogy a kamat mértéke hiányzik, és nem találja ki.",
+        "Nem hosszabb az eredetinél."
+      ]
     }
   ]
 }
