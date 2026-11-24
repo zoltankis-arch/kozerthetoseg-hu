@@ -20,11 +20,20 @@ Kötelező szöveget (jogszabály, előírt formula, jogszabályban megállapít
 2. Leltár az átírás előtt: gyűjtsd ki a szövegből az összes tényt, számot, összeget, dátumot és határidőt, feltételt, kivételt, jogkövetkezményt, jogszabályhelyet, jogi kifejezést és modalitást. Ez a hűségellenőrzés alapja.
 
    <a id="modalitas"></a>Modalitás: minden olyan elem, amely megmondja, kötelező, lehetséges, megengedett vagy tilos-e valami: „kell”, „köteles”, „jogosult”, „-hat/-het”, „lehet”, „tilos”, „nem kötelező”, „kérjük”. Ezeket elemenként vedd fel a leltárba, mert a közérthetőbb igei alak gyakran észrevétlenül megváltoztatja őket („felhasználhatja” → „felhasználja”: a lehetőségből tény lesz; „köteles megfizetni” → „fizesse meg”: a kötelezettség marad, de a jogi minősítés eltűnik). Ha a modalitás megváltozik, az átírás hibás, akkor is, ha olvashatóbb; ha szándékos, indokold, és jogi szövegnél jelöld jogászi ellenőrzésre.
-3. Átírás a [szabaly-index.md](szabaly-index.md), a vonatkozó csoportfájlok és a [szotar.md](szotar.md) szerint (a szótár „Mikor ne cseréld” oszlopát is nézd), ebben a sorrendben: tartalom és felépítés (fő üzenet, teendő, sorrend, alcímek), mondatok, szavak és szerkezetek, végül forma. Jogi szövegnél a [szovegtipusok.md](szovegtipusok.md#szocsere) szerint a szerkezeti átírás az elsődleges; jogi kifejezést csak magyarázattal együtt cserélj, ha egyáltalán.
-4. Mérés az átírt szövegen (`scripts/meres.py`), összevetve az eredetivel.
-5. Hűségellenőrzés: menj végig a 2. lépés leltárán, és jelöld minden elemnél, hogy megvan-e változatlanul, átfogalmazva (azonos tartalommal), megváltozott-e, vagy kimaradt. Ami megváltozott vagy kimaradt, külön listában szerepeljen, indoklással.
-6. Önellenőrzés az [ellenorzo-lista.md](ellenorzo-lista.md) kérdéseivel: azokat a csoportokat nézd végig, amelyek a szövegre vonatkoznak. Ha egy kérdésre nem a válasz, javíts, vagy írd a változtatások listájához, miért marad.
-7. Jogi szövegnél: zárómondat a [jogi.md](jogi.md) szerint.
+3. Átírás a [szabaly-index.md](szabaly-index.md), a vonatkozó csoportfájlok és a [szotar.md](szotar.md) szerint (a szótár „Mikor ne cseréld” oszlopát is nézd), ebben a sorrendben: tartalom és felépítés (fő üzenet, teendő, sorrend, alcímek), mondatok, szavak és szerkezetek, végül forma. Jogi szövegnél a [szovegtipusok.md](szovegtipusok.md#szocsere) szerint a szerkezeti átírás az elsődleges; jogi kifejezést csak magyarázattal együtt cserélj, ha egyáltalán. Ha a szöveg nem jogi és nem kötelező, a jogi hangzású szót (például „illeték”) cseréld köznyelvire, ha a szöveg nem a jogi jelentésében használja (K031), és a cserét sorold a fő változtatások közé.
+4. <a id="olvasoi-atolvasas"></a>Olvasói átolvasás. Olvasd végig az átírt szöveget az olvasó helyében, és nézd meg mondatonként:
+   - Valódi cselekvő (K044): tud-e cselekedni az alany? Ha az alany képes vagy elvont („minden energiaforrás támogatást kaphat”, „a rendszer úgy dönt”), az legyen az alany, aki valóban cselekszik („aki áramot termel”), ha ez a forrásból egyértelmű. Ha nem az, írj általános alanyt, vagy jelezd a hiányt.
+   - Az olvasó oldala (K008): azt írja-e le a mondat, mit lát, kap vagy tesz az olvasó? A kiadó belső művelete helyett az olvasó tapasztalata álljon („a számlán feltüntetjük” helyett „a számláján látja”).
+   - Az olvasó szavai (K029): a kiadó belső fogalmai és folyamatlépései helyett azt a szót használod-e, amelyet az olvasó mondana? („a befizetést követően kiállított számla” helyett „a következő számlája”, ha a kettő ugyanazt jelöli.) A cserét a hűségtáblázatban „átfogalmazva” állapottal és egymondatos indoklással jelöld.
+   - Hivatali ige (K036): maradt-e az átírásban a forrás hivatali igéje (feltüntet, eszközöl, megküld, kiegyenlít)? Ha van egyszerűbb, cseréld.
+   - Mi következik az olvasóra (K006, K007): ha a mondat már érthető, de az olvasó nem tudja, mi következik belőle rá nézve, és ez a forrásból egyenesen adódik, mondd ki. Ha nem adódik, ne találd ki: a jelzések között írd le, mi hiányzik.
+   - Természetes magyar mondat (K028): felolvasva úgy hangzik-e, ahogy egy ember mondaná? Figyelj a névelőre („Ha a számláját”, nem „Ha számláját”) és a szórendre.
+
+   Ha egy kérdésre a válasz nem, javíts, és csak utána mérj. A terjedelmi korlát ezt a lépést nem írja felül: ha a kettő ütközik, tartsd a korlátot, és a jelzésekben mondd meg, mit nem tudtál megoldani.
+5. Mérés az átírt szövegen (`scripts/meres.py`), összevetve az eredetivel.
+6. Hűségellenőrzés: menj végig a 2. lépés leltárán, és jelöld minden elemnél, hogy megvan-e változatlanul, átfogalmazva (azonos tartalommal), megváltozott-e, vagy kimaradt. Ami megváltozott vagy kimaradt, külön listában szerepeljen, indoklással.
+7. Önellenőrzés az [ellenorzo-lista.md](ellenorzo-lista.md) kérdéseivel: azokat a csoportokat nézd végig, amelyek a szövegre vonatkoznak. Ha egy kérdésre nem a válasz, javíts, vagy írd a változtatások listájához, miért marad.
+8. Jogi szövegnél: zárómondat a [jogi.md](jogi.md) szerint.
 
 ## Kimenet formája
 
