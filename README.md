@@ -1,7 +1,7 @@
 # kozerthetoseg-hu
 
 [![Ellenőrzés](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml/badge.svg)](https://github.com/zoltankis-arch/kozerthetoseg-hu/actions/workflows/ellenorzes.yml)
-[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.7.0-blue)](CHANGELOG.md)
+[![Verzió](https://img.shields.io/badge/verzi%C3%B3-1.7.1-blue)](CHANGELOG.md)
 [![Licenc: MIT és CC BY 4.0](https://img.shields.io/badge/licenc-MIT%20%2B%20CC%20BY%204.0-green)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-specifik%C3%A1ci%C3%B3-informational)](https://agentskills.io/specification)
 

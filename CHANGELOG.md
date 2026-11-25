@@ -9,6 +9,21 @@ patch; szabály visszavonása vagy parancs átnevezése: major.
 
 ## [Kiadatlan]
 
+## [1.7.1] - 2026-11-25
+
+### Javítva
+
+- Az `atiras` parancs új 4. lépése, az olvasói átolvasás, mondatonként megnézi az átírt szöveget az olvasó helyéből: valódi cselekvő áll-e az alany helyén (K044), azt írja-e le, amit az olvasó lát, kap vagy tesz (K008), az olvasó szavait használja-e a kiadó belső fogalmai helyett (K029), szerepel-e ugyanaz az esemény kétszer (K035), maradt-e hivatali ige (K036), kimondja-e, mi következik az olvasóra (K006, K007), és természetes-e a mondat (K028).
+- Új 5. lépés, „Így mondanád el”: a skill a tények leltárából úgy is elmondja a tartalmat, ahogy egy ügyintéző szóban mondaná, a két változatot felolvasva összeveti (K075), és a természetesebbet tartja meg, ha minden tény megvan benne.
+- Szócsere: a köznyelvi szóra cserél, ha a különbség az olvasó dolgán nem változtat, és ilyenkor a kiadó ellenőrzését kéri; a szakszó csak akkor marad, ha a különbség az olvasó teendőjét megváltoztatná (például kódnál a „karakter” nem „betű”). Nem jogi, nem kötelező szövegben a jogi hangzású szó is cserélhető.
+- Szemléltető példa: a skill írhat példát, ha az a forrás szabályából egyértelműen levezethető, példaként jelölve, kiadói ellenőrzésre.
+
+### Hozzáadva
+
+- Négy új eval kitalált szövegekkel: képes alany és olvasói következmény (16.), az olvasó nézőpontja és szavai (17.), jelszóképzés pontos szócserével (18.), természetes hangzás (19.).
+
+A szabálykatalógus nem változott, a forráskatalógus verziója 1.4.0 marad.
+
 ## [1.7.0] - 2026-11-23
 
 ### Hozzáadva
@@ -128,7 +143,8 @@ A szabálykatalógus nem változott, ezért a forráskatalógus verziója 1.3.0 
 - Szövegtípus-döntés (Balogh, Bennion, NAV) és KÉK-határ.
 - Szkriptek: `meres.py`, `ellenorzes.py`, `generalas.py`, `uj_forras.py`, `uj_szabaly.py`; pytest-tesztek; CI.
 
-[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.7.0...HEAD
+[Kiadatlan]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.7.1...HEAD
+[1.7.1]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.7.0...v1.7.1
 [1.7.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.1...v1.6.0
 [1.5.1]: https://github.com/zoltankis-arch/kozerthetoseg-hu/compare/v1.5.0...v1.5.1
