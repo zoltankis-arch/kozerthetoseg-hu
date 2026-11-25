@@ -303,6 +303,23 @@
         "A „szükséges megadni” helyett az olvasóhoz szóló felszólítás vagy kijelentés áll (K048, K045).",
         "Megvan a 6 karakteres hossz, a 2-2 számjegy, a kisbetű és az ékezet nélküli írás."
       ]
+    },
+    {
+      "id": 19,
+      "eval_name": "termeszetes hangzas",
+      "parancs": "atiras",
+      "prompt": "Írd át közérthetőre egy olvasónak, akinek kölcsönzési tilalma van. A szöveg nem kötelező, szabadon átírható. Magázás, a könyvtár többes szám első személyben beszél. Legfeljebb 35 szó, alcímmel együtt.",
+      "expected_output": "Természetesen hangzó átírás, amely nem ígéri, hogy 3 munkanapon belül feloldják a tilalmat, és megtartja a határidő kezdetét.",
+      "files": [
+        "evals/szovegek/19-termeszetes-hangzas.md"
+      ],
+      "expectations": [
+        "Felolvasva úgy hangzik, ahogy egy könyvtáros szóban mondaná: nincs benne hivatali határozói igenév („értesülve”), hivatali határozószó („hitelt érdemlően”, „igazoltan”), és nem áll egymás után több egyforma rövid mondat.",
+        "Nem ígéri, hogy a tilalmat 3 munkanapon belül feloldják: csak azt, hogy addig kérik a feloldást (a „kezdeményezi” modalitása megmarad).",
+        "A 3 munkanap kezdete az, amikor a könyvtár tudomást szerez a fizetésről, nem a fizetés napja.",
+        "Megvan mindkét feltétel: a teljes, igazolható fizetés és az érvényes olvasójegy.",
+        "A fő változtatások között megmondja, melyik változat maradt (az átolvasott vagy a szóban elmondott) és miért."
+      ]
     }
   ]
 }
