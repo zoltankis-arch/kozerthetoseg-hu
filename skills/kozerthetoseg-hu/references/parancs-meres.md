@@ -4,7 +4,7 @@ Lefuttatja a mérőszkriptet, és az eredményt jelzésként értelmezi: megmuta
 
 ## Mikor kell
 
-Ha a hívó számokat kér a szövegről (mondathossz, főnevesítés, „kerül”-szerkezetek), vagy ha az `audit` és az `atiras` 6., illetve 5. lépése fut.
+Ha a hívó számokat kér a szövegről (mondathossz, főnevesítés, „kerül”-szerkezetek), vagy ha az `audit` vagy az `atiras` 6. lépése fut.
 
 ## Bemenet
 

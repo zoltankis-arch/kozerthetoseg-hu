@@ -30,11 +30,19 @@ Kötelező szöveget (jogszabály, előírt formula, jogszabályban megállapít
    - Mi következik az olvasóra (K006, K007): ha a mondat már érthető, de az olvasó nem tudja, mi következik belőle rá nézve, és ez a forrásból egyenesen adódik, mondd ki. Ha nem adódik, ne találd ki: a jelzések között írd le, mi hiányzik.
    - Természetes magyar mondat (K028): felolvasva úgy hangzik-e, ahogy egy ember mondaná? Figyelj a névelőre („Ha a kérelmét”, nem „Ha kérelmét”) és a szórendre. A hivatali határozói igenév („az adatokat ellenőrizve”) és határozószó („hiánytalanul benyújtotta”) helyett írj mellékmondatot („miután ellenőriztük az adatokat”), ha így természetesebb, és a jelentés nem változik.
 
-   Ha egy kérdésre a válasz nem, javíts, és csak utána mérj. A terjedelmi korlát ezt a lépést nem írja felül: ha a kettő ütközik, tartsd a korlátot, és a jelzésekben mondd meg, mit nem tudtál megoldani.
-5. Mérés az átírt szövegen (`scripts/meres.py`), összevetve az eredetivel.
-6. Hűségellenőrzés: menj végig a 2. lépés leltárán, és jelöld minden elemnél, hogy megvan-e változatlanul, átfogalmazva (azonos tartalommal), megváltozott-e, vagy kimaradt. Ami megváltozott vagy kimaradt, külön listában szerepeljen, indoklással.
-7. Önellenőrzés az [ellenorzo-lista.md](ellenorzo-lista.md) kérdéseivel: azokat a csoportokat nézd végig, amelyek a szövegre vonatkoznak. Ha egy kérdésre nem a válasz, javíts, vagy írd a változtatások listájához, miért marad.
-8. Jogi szövegnél: zárómondat a [jogi.md](jogi.md) szerint.
+   Ha egy kérdésre a válasz nem, javíts, és csak utána mérj. A terjedelmi korlát ezt a lépést és a következőt nem írja felül: ha a kettő ütközik, tartsd a korlátot, és a jelzésekben mondd meg, mit nem tudtál megoldani.
+5. <a id="igy-mondanad-el"></a>Így mondanád el. Tedd félre az eredetit és az eddigi átírást. A 2. lépés leltárából mondd el a tartalmat úgy, ahogy egy türelmes ügyintéző szóban elmondaná az olvasónak a pultnál vagy telefonon: rövid, egyszerű mondatokkal, abban a sorrendben, ahogy az olvasó kérdezné, és azokkal a szavakkal, amelyeket ő is használ. Ne a forrás mondatait alakítsd át, hanem a leltár elemeiből építkezz. Utána igazítsd írott formára: teljes mondatok, a választott megszólítás, töltelékszavak nélkül.
+
+   Hasonlítsd össze a két változatot, és mindkettőt olvasd fel magadban (K075):
+   - Mondaná így egy ember? Nincs-e benne hivatali határozói igenév vagy határozószó, főnévi szerkezet ige helyett, ugyanaz a szó kétszer, vagy egymás után több egyforma rövid mondat? (K028)
+   - Az olvasó kérdésére felel-e előbb, és a feltétel elöl áll-e? (K002, K022)
+   - Megvan-e a leltár minden eleme, a modalitással együtt?
+
+   Azt a változatot tartsd meg, amelyik természetesebben hangzik, és a leltár minden elemét megtartja; a két változatból össze is rakhatod. A fő változtatások listájában egy sorban mondd meg, melyik maradt és miért. Ha egy elemet nem tudtál természetesen elmondani a jelentés megváltoztatása nélkül, nevezd meg a jelzések között.
+6. Mérés az átírt szövegen (`scripts/meres.py`), összevetve az eredetivel.
+7. Hűségellenőrzés: menj végig a 2. lépés leltárán, és jelöld minden elemnél, hogy megvan-e változatlanul, átfogalmazva (azonos tartalommal), megváltozott-e, vagy kimaradt. Ami megváltozott vagy kimaradt, külön listában szerepeljen, indoklással.
+8. Önellenőrzés az [ellenorzo-lista.md](ellenorzo-lista.md) kérdéseivel: azokat a csoportokat nézd végig, amelyek a szövegre vonatkoznak. Ha egy kérdésre nem a válasz, javíts, vagy írd a változtatások listájához, miért marad.
+9. Jogi szövegnél: zárómondat a [jogi.md](jogi.md) szerint.
 
 ## Kimenet formája
 

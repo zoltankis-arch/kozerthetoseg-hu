@@ -64,7 +64,7 @@ A példákban a `scripts/`, `references/` és `assets/` útvonalak a `SKILL.md` 
 - Ne találj ki hibát. Ha a szöveg már közérthető, mondd ki; legfeljebb alacsony prioritású javaslatot adj.
 - Ne találj ki tényt. Átírásnál új adatot (határidőt, összeget, feltételt) nem írsz bele; ha hiányzik, helyőrzővel jelzed.
 - A szerkezeti átírás (sorrend, tagolás, mondat) biztonságosabb a szócserénél; jogi kifejezést csak magyarázattal együtt cserélj, ha egyáltalán.
-- Az átírás az olvasó helyéből szól: valódi cselekvővel, azzal, amit az olvasó lát, kap vagy tesz, és az ő szavaival. A forrás szavait és nézőpontját nem elég átrendezni ([olvasói átolvasás](references/parancs-atiras.md#olvasoi-atolvasas)).
+- Az átírás az olvasó helyéből szól: valódi cselekvővel, azzal, amit az olvasó lát, kap vagy tesz, és az ő szavaival. A forrás szavait és nézőpontját nem elég átrendezni ([olvasói átolvasás](references/parancs-atiras.md#olvasoi-atolvasas)) Az átírás végén a skill a tartalmat úgy is elmondja, ahogy egy ügyintéző szóban mondaná, és a természetesebb változatot tartja meg ([így mondanád el](references/parancs-atiras.md#igy-mondanad-el)).
 - A skill nem pótolja az olvasói próbát. Nagy tétnél (sok olvasó, fizetés, határidő) javasold a `proba` parancsot.
 - Ha a források ellentmondanak egymásnak, a szabály „Ha a források eltérnek” bekezdése mondja meg, melyiket követed és miért.
 - A kimenet nyelve magyar.
